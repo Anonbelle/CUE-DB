@@ -1,3 +1,3 @@
 # CUE-Test
 
-Test page for testing HTML CUE data :D.
+Little CUE database made just cause.
