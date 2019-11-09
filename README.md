@@ -1,2 +1,3 @@
-# CUE-DB
-Little CUE database for people who love CUE &lt;3
+# CUE-Test
+
+Test page for testing HTML CUE data :D.

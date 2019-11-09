@@ -1,0 +1,3512 @@
+[
+	{
+		"type": 1,
+		"id": 1,
+		"name": "コイン",
+		"description": "声優の強化などに必要な一般的な通貨。\r\n<color=#0C95B7>使用場所:声優強化、交換所\r\n獲得場所:収録、貯金箱、目標</color>",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 1,
+		"id": 2,
+		"name": "フレンドポイント",
+		"description": "フレンドとの交流の証。\r\n<color=#0C95B7>使用場所:交換所\r\n獲得場所:収録</color>",
+		"assetBg": 1,
+		"displayOrder": 4,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 2,
+		"id": 1,
+		"name": "ブルージュエル",
+		"description": "声優のスカウトやショップ、LP・RPの回復に使用できる貴重な宝石。",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 2,
+		"id": 2,
+		"name": "ブルージュエル",
+		"description": "声優のスカウトやショップ、LP・RPの回復に使用できる貴重な宝石。",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 4,
+		"id": 1,
+		"name": "経験値",
+		"description": "マネージャーの経験レベルを上げることができ。\r\n<color=#0C95B7>獲得場所:全般レッスン</color>",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 5,
+		"id": 1,
+		"name": "LP",
+		"description": "レッスンをするために必要なスタミナです。",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 5,
+		"id": 2,
+		"name": "RP",
+		"description": "収録をするために必要なスタミナです。",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 6,
+		"id": 1,
+		"name": "LPゼリー",
+		"description": "疲れを癒す美味しいゼリー。LPを少し回復します。",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 1,
+		"effectValue": 20
+	},
+	{
+		"type": 6,
+		"id": 2,
+		"name": "LPゼリー EX",
+		"description": "疲れをしっかり癒す美味しいゼリー。LPを大きく回復します。",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 1,
+		"effectValue": 100
+	},
+	{
+		"type": 6,
+		"id": 3,
+		"name": "RPのど飴",
+		"description": "本番前の調子を整えたい時に。RPを少し回復します。",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 2,
+		"effectValue": 5
+	},
+	{
+		"type": 6,
+		"id": 4,
+		"name": "RPのど飴 EX",
+		"description": "本番前の調整をしっかり整えたい時に。RPを大きく回復します。",
+		"assetBg": 1,
+		"displayOrder": 4,
+		"effectType": 2,
+		"effectValue": 25
+	},
+	{
+		"type": 7,
+		"id": 1,
+		"name": "銅の貯金箱",
+		"description": "亀形の貯金箱。使用することでコインを少し獲得します。\r\n<color=#0C95B7>獲得場所:レッスン、金曜日レッスンりお</color>",
+		"assetBg": 2,
+		"displayOrder": 5,
+		"effectType": 0,
+		"effectValue": 400
+	},
+	{
+		"type": 7,
+		"id": 2,
+		"name": "銀の貯金箱",
+		"description": "亀形の貯金箱。使用することでコインをそれなりに獲得します。\r\n<color=#0C95B7>獲得場所:レッスン、金曜日レッスンりお</color>",
+		"assetBg": 3,
+		"displayOrder": 6,
+		"effectType": 0,
+		"effectValue": 2000
+	},
+	{
+		"type": 7,
+		"id": 3,
+		"name": "金の貯金箱",
+		"description": "亀形の貯金箱。使用することでコインを大きく獲得します。\r\n<color=#0C95B7>獲得場所:レッスン、金曜日レッスンりお</color>",
+		"assetBg": 4,
+		"displayOrder": 7,
+		"effectType": 0,
+		"effectValue": 10000
+	},
+	{
+		"type": 7,
+		"id": 4,
+		"name": "虹の貯金箱",
+		"description": "亀形の貯金箱。使用することでコインをかなり獲得します。\r\n<color=#0C95B7>獲得場所:レッスン、金曜日レッスンりお</color>",
+		"assetBg": 5,
+		"displayOrder": 8,
+		"effectType": 0,
+		"effectValue": 50000
+	},
+	{
+		"type": 8,
+		"id": 1,
+		"name": "ブロンズトレーニンググッズ",
+		"description": "自主練をするために必要な道具。\r\n声優の経験値が少し上昇します。\r\n<color=#0C95B7>使用場所:自主練\r\n獲得場所:レッスン、金曜日レッスン桐香</color>",
+		"assetBg": 2,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 1000
+	},
+	{
+		"type": 8,
+		"id": 2,
+		"name": "シルバートレーニンググッズ",
+		"description": "自主練をするために必要な道具。\r\n声優の経験値がそれなりに上昇します。\r\n<color=#0C95B7>使用場所:自主練\r\n獲得場所:レッスン、金曜日レッスン桐香</color>",
+		"assetBg": 3,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 5000
+	},
+	{
+		"type": 8,
+		"id": 3,
+		"name": "ゴールドトレーニンググッズ",
+		"description": "自主練をするために必要な道具。\r\n声優の経験値が大きく上昇します。\r\n<color=#0C95B7>使用場所:自主練\r\n獲得場所:レッスン、金曜日レッスン桐香</color>",
+		"assetBg": 4,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 25000
+	},
+	{
+		"type": 8,
+		"id": 4,
+		"name": "プラチナトレーニンググッズ",
+		"description": "自主練をするために必要な道具。\r\n声優の経験値がとても上昇します。\r\n<color=#0C95B7>使用場所:自主練\r\n獲得場所:レッスン、金曜日レッスン桐香</color>",
+		"assetBg": 5,
+		"displayOrder": 4,
+		"effectType": 0,
+		"effectValue": 150000
+	},
+	{
+		"type": 9,
+		"id": 1,
+		"name": "ボイス入門教科書",
+		"description": "ボイスについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、火曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 9,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 2,
+		"name": "ボイス初級教科書",
+		"description": "ボイスについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、火曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 13,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 3,
+		"name": "ボイス中級教科書",
+		"description": "ボイスについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、火曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 17,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 4,
+		"name": "ボイス上級教科書",
+		"description": "ボイスについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、火曜日レッスン</color>",
+		"assetBg": 3,
+		"displayOrder": 21,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 5,
+		"name": "ボイス応用教科書",
+		"description": "ボイスについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、火曜日レッスン</color>",
+		"assetBg": 3,
+		"displayOrder": 25,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 6,
+		"name": "ボイス活用教科書",
+		"description": "ボイスについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、火曜日レッスン</color>",
+		"assetBg": 4,
+		"displayOrder": 29,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 7,
+		"name": "テクニック入門教科書",
+		"description": "テクニックについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、水曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 10,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 8,
+		"name": "テクニック初級教科書",
+		"description": "テクニックについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、水曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 14,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 9,
+		"name": "テクニック中級教科書",
+		"description": "テクニックについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、水曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 18,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 10,
+		"name": "テクニック上級教科書",
+		"description": "テクニックについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、水曜日レッスン</color>",
+		"assetBg": 3,
+		"displayOrder": 22,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 11,
+		"name": "テクニック応用教科書",
+		"description": "テクニックについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、水曜日レッスン</color>",
+		"assetBg": 3,
+		"displayOrder": 26,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 12,
+		"name": "テクニック活用教科書",
+		"description": "テクニックについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、水曜日レッスン</color>",
+		"assetBg": 4,
+		"displayOrder": 30,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 13,
+		"name": "メンタル入門教科書",
+		"description": "メンタルについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、木曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 11,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 14,
+		"name": "メンタル初級教科書",
+		"description": "メンタルについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、木曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 15,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 15,
+		"name": "メンタル中級教科書",
+		"description": "メンタルについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、木曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 19,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 16,
+		"name": "メンタル上級教科書",
+		"description": "メンタルについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、木曜日レッスン</color>",
+		"assetBg": 3,
+		"displayOrder": 23,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 17,
+		"name": "メンタル応用教科書",
+		"description": "メンタルについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、木曜日レッスン</color>",
+		"assetBg": 3,
+		"displayOrder": 27,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 18,
+		"name": "メンタル活用教科書",
+		"description": "メンタルについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、木曜日レッスン</color>",
+		"assetBg": 4,
+		"displayOrder": 31,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 19,
+		"name": "カリスマ入門教科書",
+		"description": "カリスマについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、月曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 12,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 20,
+		"name": "カリスマ初級教科書",
+		"description": "カリスマについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、月曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 16,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 21,
+		"name": "カリスマ中級教科書",
+		"description": "カリスマについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、月曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 20,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 22,
+		"name": "カリスマ上級教科書",
+		"description": "カリスマについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、月曜日レッスン</color>",
+		"assetBg": 3,
+		"displayOrder": 24,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 23,
+		"name": "カリスマ応用教科書",
+		"description": "カリスマについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、月曜日レッスン</color>",
+		"assetBg": 3,
+		"displayOrder": 28,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 24,
+		"name": "カリスマ活用教科書",
+		"description": "カリスマについて学べる教本。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、月曜日レッスン</color>",
+		"assetBg": 4,
+		"displayOrder": 32,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 25,
+		"name": "アニメ雑誌 vol.1",
+		"description": "Flowerのメンバーがよく読むアニメ情報雑誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録、曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 33,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 26,
+		"name": "アニメ雑誌 vol.2",
+		"description": "Flowerのメンバーがよく読むアニメ情報雑誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録、曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 37,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 27,
+		"name": "アニメ雑誌 vol.3",
+		"description": "Flowerのメンバーがよく読むアニメ情報雑誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録、曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 41,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 28,
+		"name": "アニメ雑誌 vol.4",
+		"description": "Flowerのメンバーがよく読むアニメ情報雑誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録</color>",
+		"assetBg": 3,
+		"displayOrder": 45,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 29,
+		"name": "アニメ雑誌 vol.5",
+		"description": "Flowerのメンバーがよく読むアニメ情報雑誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録</color>",
+		"assetBg": 3,
+		"displayOrder": 49,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 30,
+		"name": "アニメ雑誌 vol.6",
+		"description": "Flowerのメンバーがよく読むアニメ情報雑誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録</color>",
+		"assetBg": 4,
+		"displayOrder": 53,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 31,
+		"name": "コミック誌 vol.1",
+		"description": "Birdのメンバーがよく読むコミック誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録、曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 34,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 32,
+		"name": "コミック誌 vol.2",
+		"description": "Birdのメンバーがよく読むコミック誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録、曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 38,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 33,
+		"name": "コミック誌 vol.3",
+		"description": "Birdのメンバーがよく読むコミック誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録、曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 42,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 34,
+		"name": "コミック誌 vol.4",
+		"description": "Birdのメンバーがよく読むコミック誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録</color>",
+		"assetBg": 3,
+		"displayOrder": 46,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 35,
+		"name": "コミック誌 vol.5",
+		"description": "Birdのメンバーがよく読むコミック誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録</color>",
+		"assetBg": 3,
+		"displayOrder": 50,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 36,
+		"name": "コミック誌 vol.6",
+		"description": "Birdのメンバーがよく読むコミック誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録</color>",
+		"assetBg": 4,
+		"displayOrder": 54,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 37,
+		"name": "ファッション雑誌 vol.1",
+		"description": "Windのメンバーがよく読むファッション雑誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録、曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 35,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 38,
+		"name": "ファッション雑誌 vol.2",
+		"description": "Windのメンバーがよく読むファッション雑誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録、曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 39,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 39,
+		"name": "ファッション雑誌 vol.3",
+		"description": "Windのメンバーがよく読むファッション雑誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録、曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 43,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 40,
+		"name": "ファッション雑誌 vol.4",
+		"description": "Windのメンバーがよく読むファッション雑誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録</color>",
+		"assetBg": 3,
+		"displayOrder": 47,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 41,
+		"name": "ファッション雑誌 vol.5",
+		"description": "Windのメンバーがよく読むファッション雑誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録</color>",
+		"assetBg": 3,
+		"displayOrder": 51,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 42,
+		"name": "ファッション雑誌 vol.6",
+		"description": "Windのメンバーがよく読むファッション雑誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録</color>",
+		"assetBg": 4,
+		"displayOrder": 55,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 43,
+		"name": "オカルト誌 vol.1",
+		"description": "Moonのメンバーがよく読むオカルト雑誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録、曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 36,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 44,
+		"name": "オカルト誌 vol.2",
+		"description": "Moonのメンバーがよく読むオカルト雑誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録、曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 40,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 45,
+		"name": "オカルト誌 vol.3",
+		"description": "Moonのメンバーがよく読むオカルト雑誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録、曜日レッスン</color>",
+		"assetBg": 2,
+		"displayOrder": 44,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 46,
+		"name": "オカルト誌 vol.4",
+		"description": "Moonのメンバーがよく読むオカルト雑誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録</color>",
+		"assetBg": 3,
+		"displayOrder": 48,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 47,
+		"name": "オカルト誌 vol.5",
+		"description": "Moonのメンバーがよく読むオカルト雑誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録</color>",
+		"assetBg": 3,
+		"displayOrder": 52,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 9,
+		"id": 48,
+		"name": "オカルト誌 vol.6",
+		"description": "Moonのメンバーがよく読むオカルト雑誌。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:収録</color>",
+		"assetBg": 4,
+		"displayOrder": 56,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 10,
+		"id": 1,
+		"name": "金のメモリーノート",
+		"description": "声優の日々の悩みが綴られている日記帳。\r\n<color=#0C95B7>使用場所:交換所\r\n獲得場所:退所</color>",
+		"assetBg": 1,
+		"displayOrder": 101,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 10,
+		"id": 2,
+		"name": "虹のメモリーノート",
+		"description": "声優の日々の喜びが綴られている日記帳。\r\n<color=#0C95B7>使用場所:交換所\r\n獲得場所:退所</color>",
+		"assetBg": 1,
+		"displayOrder": 201,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 1000,
+		"name": "金のCUE!フォト",
+		"description": "声優全員が集合したフォト。★3以下声優の限界突破に使用できます。\r\n<color=#0C95B7>獲得場所:交換所</color>",
+		"assetBg": 4,
+		"displayOrder": 74,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 1001,
+		"name": "金の陽菜フォト",
+		"description": "陽菜のフォト。★3以下の陽菜を限界突破させるのに使用できます。",
+		"assetBg": 4,
+		"displayOrder": 75,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 1002,
+		"name": "金の舞花フォト",
+		"description": "舞花のフォト。★3以下の舞花を限界突破させるのに使用できます。",
+		"assetBg": 4,
+		"displayOrder": 76,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 1003,
+		"name": "金の志穂フォト",
+		"description": "志穂のフォト。★3以下の志穂を限界突破させるのに使用できます。",
+		"assetBg": 4,
+		"displayOrder": 77,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 1004,
+		"name": "金のほのかフォト",
+		"description": "ほのかのフォト。★3以下のほのかを限界突破させるのに使用できます。",
+		"assetBg": 4,
+		"displayOrder": 78,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 1005,
+		"name": "金の悠希フォト",
+		"description": "悠希のフォト。★3以下の悠希を限界突破させるのに使用できます。",
+		"assetBg": 4,
+		"displayOrder": 79,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 1006,
+		"name": "金の千紗フォト",
+		"description": "千紗のフォト。★3以下の千紗を限界突破させるのに使用できます。",
+		"assetBg": 4,
+		"displayOrder": 80,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 1007,
+		"name": "金のあいりフォト",
+		"description": "あいりのフォト。★3以下のあいりを限界突破させるのに使用できます。",
+		"assetBg": 4,
+		"displayOrder": 81,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 1008,
+		"name": "金の柚葉フォト",
+		"description": "柚葉のフォト。★3以下の柚葉を限界突破させるのに使用できます。",
+		"assetBg": 4,
+		"displayOrder": 82,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 1009,
+		"name": "金の美晴フォト",
+		"description": "美晴のフォト。★3以下の美晴を限界突破させるのに使用できます。",
+		"assetBg": 4,
+		"displayOrder": 83,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 1010,
+		"name": "金の絢フォト",
+		"description": "絢のフォト。★3以下の絢を限界突破させるのに使用できます。",
+		"assetBg": 4,
+		"displayOrder": 84,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 1011,
+		"name": "金のまほろフォト",
+		"description": "まほろのフォト。★3以下のまほろを限界突破させるのに使用できます。",
+		"assetBg": 4,
+		"displayOrder": 85,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 1012,
+		"name": "金の莉子フォト",
+		"description": "莉子のフォト。★3以下の莉子を限界突破させるのに使用できます。",
+		"assetBg": 4,
+		"displayOrder": 86,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 1013,
+		"name": "金の利恵フォト",
+		"description": "利恵のフォト。★3以下の利恵を限界突破させるのに使用できます。",
+		"assetBg": 4,
+		"displayOrder": 87,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 1014,
+		"name": "金の聡里フォト",
+		"description": "聡里のフォト。★3以下の聡里を限界突破させるのに使用できます。",
+		"assetBg": 4,
+		"displayOrder": 88,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 1015,
+		"name": "金の凛音フォト",
+		"description": "凛音のフォト。★3以下の凛音を限界突破させるのに使用できます。",
+		"assetBg": 4,
+		"displayOrder": 89,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 1016,
+		"name": "金の鳴フォト",
+		"description": "鳴のフォト。★3以下の鳴を限界突破させるのに使用できます。",
+		"assetBg": 4,
+		"displayOrder": 90,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 2000,
+		"name": "虹のCUE!フォト",
+		"description": "声優全員が集合したフォト。★4声優の限界突破に使用できます。\r\n<color=#0C95B7>獲得場所:交換所</color>",
+		"assetBg": 5,
+		"displayOrder": 57,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 2001,
+		"name": "虹の陽菜フォト",
+		"description": "陽菜のフォト。★4の陽菜を限界突破させるのに使用できます。",
+		"assetBg": 5,
+		"displayOrder": 58,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 2002,
+		"name": "虹の舞花フォト",
+		"description": "舞花のフォト。★4の舞花を限界突破させるのに使用できます。",
+		"assetBg": 5,
+		"displayOrder": 59,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 2003,
+		"name": "虹の志穂フォト",
+		"description": "志穂のフォト。★4の志穂を限界突破させるのに使用できます。",
+		"assetBg": 5,
+		"displayOrder": 60,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 2004,
+		"name": "虹のほのかフォト",
+		"description": "ほのかのフォト。★4のほのかを限界突破させるのに使用できます。",
+		"assetBg": 5,
+		"displayOrder": 61,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 2005,
+		"name": "虹の悠希フォト",
+		"description": "悠希のフォト。★4の悠希を限界突破させるのに使用できます。",
+		"assetBg": 5,
+		"displayOrder": 62,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 2006,
+		"name": "虹の千紗フォト",
+		"description": "千紗のフォト。★4の千紗を限界突破させるのに使用できます。",
+		"assetBg": 5,
+		"displayOrder": 63,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 2007,
+		"name": "虹のあいりフォト",
+		"description": "あいりのフォト。★4のあいりを限界突破させるのに使用できます。",
+		"assetBg": 5,
+		"displayOrder": 64,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 2008,
+		"name": "虹の柚葉フォト",
+		"description": "柚葉のフォト。★4の柚葉を限界突破させるのに使用できます。",
+		"assetBg": 5,
+		"displayOrder": 65,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 2009,
+		"name": "虹の美晴フォト",
+		"description": "美晴のフォト。★4の美晴を限界突破させるのに使用できます。",
+		"assetBg": 5,
+		"displayOrder": 66,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 2010,
+		"name": "虹の絢フォト",
+		"description": "絢のフォト。★4の絢を限界突破させるのに使用できます。",
+		"assetBg": 5,
+		"displayOrder": 67,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 2011,
+		"name": "虹のまほろフォト",
+		"description": "まほろのフォト。★4のまほろを限界突破させるのに使用できます。",
+		"assetBg": 5,
+		"displayOrder": 68,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 2012,
+		"name": "虹の莉子フォト",
+		"description": "莉子のフォト。★4の莉子を限界突破させるのに使用できます。",
+		"assetBg": 5,
+		"displayOrder": 69,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 2013,
+		"name": "虹の利恵フォト",
+		"description": "利恵のフォト。★4の利恵を限界突破させるのに使用できます。",
+		"assetBg": 5,
+		"displayOrder": 70,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 2014,
+		"name": "虹の聡里フォト",
+		"description": "聡里のフォト。★4の聡里を限界突破させるのに使用できます。",
+		"assetBg": 5,
+		"displayOrder": 71,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 2015,
+		"name": "虹の凛音フォト",
+		"description": "凛音のフォト。★4の凛音を限界突破させるのに使用できます。",
+		"assetBg": 5,
+		"displayOrder": 72,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 11,
+		"id": 2016,
+		"name": "虹の鳴フォト",
+		"description": "鳴のフォト。★4の鳴を限界突破させるのに使用できます。",
+		"assetBg": 5,
+		"displayOrder": 73,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 12,
+		"id": 1,
+		"name": "台本",
+		"description": "アニメキャラのセリフ等が記された冊子。\r\n<color=#0C95B7>使用場所:交換所\r\n獲得場所:スカウト</color>",
+		"assetBg": 1,
+		"displayOrder": 801,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 13,
+		"id": 1,
+		"name": "思い出のオルゴール",
+		"description": "懐かしいあの時を思い出す音色を奏でるオルゴール。\r\n過去のストーリーを解放するのに使用します。\r\n<color=#0C95B7>使用場所:イベントストーリー\r\n獲得場所:交換所</color>",
+		"assetBg": 1,
+		"displayOrder": 301,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 13,
+		"id": 2,
+		"name": "キャスティングシート",
+		"description": "すべての作品のキャスト解放する事が可能なスペシャルなキャスティングシート。\r\n<color=#0C95B7>使用場所:上映</color>",
+		"assetBg": 1,
+		"displayOrder": 601,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 13,
+		"id": 3,
+		"name": "リセットハンマー",
+		"description": "やり直したい、そんな時に！\r\nポカンと一発で、絆スキルをリセットすることができます。\r\n<color=#0C95B7>使用場所:絆ルーム\r\n獲得場所:交換所</color>",
+		"assetBg": 1,
+		"displayOrder": 401,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 14,
+		"id": 1,
+		"name": "スカウトチケット",
+		"description": "声優をスカウトできるチケット。専用のスカウトで使用します。",
+		"assetBg": 1,
+		"displayOrder": 501,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 14,
+		"id": 2,
+		"name": "★3以上確定スカウトチケット",
+		"description": "声優をスカウトできるチケット。専用のスカウトで使用します。",
+		"assetBg": 1,
+		"displayOrder": 502,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 14,
+		"id": 3,
+		"name": "★4確定スカウトチケット",
+		"description": "声優をスカウトできるチケット。専用のスカウトで使用します。",
+		"assetBg": 1,
+		"displayOrder": 503,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 14,
+		"id": 4,
+		"name": "100万ダウンロード突破記念10回スカウトチケット",
+		"description": "100万ダウンロード突破を記念したチケット。専用のスカウトで使用します。",
+		"assetBg": 1,
+		"displayOrder": 504,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 1,
+		"name": "(称号）新米マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 2,
+		"name": "(称号）一人前のマネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 3,
+		"name": "(称号）熟練マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 4,
+		"name": "(称号）超一流マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 4,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 5,
+		"name": "(称号）花咲く役者",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 5,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 6,
+		"name": "(称号）小鳥よおおぞらに",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 6,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 7,
+		"name": "(称号）優美なる風",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 7,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 8,
+		"name": "(称号）月下の乙女、夜明けの時",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 8,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 9,
+		"name": "(称号）友情",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 9,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 10,
+		"name": "(称号）親愛",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 10,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 11,
+		"name": "(称号）揺るがない絆",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 11,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 12,
+		"name": "(称号）コーチ",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 12,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 13,
+		"name": "(称号）名コーチ",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 13,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 14,
+		"name": "(称号）コーチの達人",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 14,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 15,
+		"name": "(称号）初めての超！特訓",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 15,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 16,
+		"name": "(称号）超！特訓マスター",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 16,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 17,
+		"name": "(称号）超！特訓製造機",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 17,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 18,
+		"name": "(称号）マジック◆ワークス",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 18,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 19,
+		"name": "(称号）ふぇありん∞ふぇありん",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 19,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 20,
+		"name": "(称号）こんにちは、いただきます",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 20,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 21,
+		"name": "(称号）黒白のグィネヴィア",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 21,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 22,
+		"name": "(称号）当たり役",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 22,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 23,
+		"name": "(称号）大人気声優",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 23,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 24,
+		"name": "(称号）覇権声優",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 24,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 25,
+		"name": "(称号）Knocking on My Dream!!",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 25,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 26,
+		"name": "(称号）にこにこワクワク 最高潮！",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 26,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 27,
+		"name": "(称号）Good meal, Good life",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 27,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 28,
+		"name": "(称号）MiRAGE! MiRAGE!!",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 28,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 29,
+		"name": "(称号）Sランクコレクター",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 29,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 30,
+		"name": "(称号）完璧主義者",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 30,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 31,
+		"name": "(称号）オープン・ザ・ゲート！",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 31,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 32,
+		"name": "(称号）いつもいつでも4人です！",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 32,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 33,
+		"name": "(称号）いっしょ、いただきます！",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 33,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 34,
+		"name": "(称号）天より堕ちてアナタを護るもの",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 34,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 35,
+		"name": "(称号）大崎 あかね",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 35,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 36,
+		"name": "(称号）経堂 みずな",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 36,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 37,
+		"name": "(称号）真間 ふうか",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 37,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 38,
+		"name": "(称号）黒川 ことり",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 38,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 39,
+		"name": "(称号）ララ",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 39,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 40,
+		"name": "(称号）リリ",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 40,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 41,
+		"name": "(称号）ルル",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 41,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 42,
+		"name": "(称号）レーン",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 42,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 43,
+		"name": "(称号）そぷら",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 43,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 44,
+		"name": "(称号）めぞん",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 44,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 45,
+		"name": "(称号）あると",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 45,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 46,
+		"name": "(称号）すこあ",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 46,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 47,
+		"name": "(称号）グィネヴィア",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 47,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 48,
+		"name": "(称号）朝霧 或耶",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 48,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 49,
+		"name": "(称号）取戸 芽瑠",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 49,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 50,
+		"name": "(称号）エスカ",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 50,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 51,
+		"name": "(称号）陽菜担当マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 51,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 52,
+		"name": "(称号）舞花担当マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 52,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 53,
+		"name": "(称号）志穂担当マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 53,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 54,
+		"name": "(称号）ほのか担当マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 54,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 55,
+		"name": "(称号）悠希担当マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 55,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 56,
+		"name": "(称号）千紗担当マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 56,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 57,
+		"name": "(称号）あいり担当マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 57,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 58,
+		"name": "(称号）柚葉担当マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 58,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 59,
+		"name": "(称号）美晴担当マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 59,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 60,
+		"name": "(称号）絢担当マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 60,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 61,
+		"name": "(称号）まほろ担当マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 61,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 62,
+		"name": "(称号）莉子担当マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 62,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 63,
+		"name": "(称号）利恵担当マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 63,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 64,
+		"name": "(称号）聡里担当マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 64,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 65,
+		"name": "(称号）凛音担当マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 65,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 66,
+		"name": "(称号）鳴担当マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 66,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 67,
+		"name": "(称号）陽菜ご指名マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 67,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 68,
+		"name": "(称号）舞花ご指名マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 68,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 69,
+		"name": "(称号）志穂ご指名マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 69,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 70,
+		"name": "(称号）ほのかご指名マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 70,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 71,
+		"name": "(称号）悠希ご指名マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 71,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 72,
+		"name": "(称号）千紗ご指名マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 72,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 73,
+		"name": "(称号）あいりご指名マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 73,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 74,
+		"name": "(称号）柚葉ご指名マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 74,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 75,
+		"name": "(称号）美晴ご指名マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 75,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 76,
+		"name": "(称号）絢ご指名マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 76,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 77,
+		"name": "(称号）まほろご指名マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 77,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 78,
+		"name": "(称号）莉子ご指名マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 78,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 79,
+		"name": "(称号）利恵ご指名マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 79,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 80,
+		"name": "(称号）聡里ご指名マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 80,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 81,
+		"name": "(称号）凛音ご指名マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 81,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 82,
+		"name": "(称号）鳴ご指名マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 82,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 83,
+		"name": "(称号）陽菜の信頼マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 83,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 84,
+		"name": "(称号）舞花の信頼マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 84,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 85,
+		"name": "(称号）志穂の信頼マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 85,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 86,
+		"name": "(称号）ほのかの信頼マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 86,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 87,
+		"name": "(称号）悠希の信頼マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 87,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 88,
+		"name": "(称号）千紗の信頼マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 88,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 89,
+		"name": "(称号）あいりの信頼マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 89,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 90,
+		"name": "(称号）柚葉の信頼マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 90,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 91,
+		"name": "(称号）美晴の信頼マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 91,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 92,
+		"name": "(称号）絢の信頼マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 92,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 93,
+		"name": "(称号）まほろの信頼マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 93,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 94,
+		"name": "(称号）莉子の信頼マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 94,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 95,
+		"name": "(称号）利恵の信頼マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 95,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 96,
+		"name": "(称号）聡里の信頼マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 96,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 97,
+		"name": "(称号）凛音の信頼マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 97,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 98,
+		"name": "(称号）鳴の信頼マネージャー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 98,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 10001,
+		"name": "(称号）Girls meet meat!",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 84,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 10002,
+		"name": "(称号）BBQ奉行",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 85,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 10003,
+		"name": "(称号）いよ！真打登場！",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 86,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 16,
+		"id": 200,
+		"name": "(楽曲）Forever Friends",
+		"description": "CUE!のメインテーマです。",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 16,
+		"id": 31,
+		"name": "(楽曲）One More Step!",
+		"description": "Flowerのユニットテーマです。",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 16,
+		"id": 32,
+		"name": "(楽曲）ドリ☆アピ",
+		"description": "Birdのユニットテーマです。",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 16,
+		"id": 33,
+		"name": "(楽曲）Steppin' Girl",
+		"description": "Windのユニットテーマです。",
+		"assetBg": 1,
+		"displayOrder": 4,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 16,
+		"id": 34,
+		"name": "(楽曲）ヒカリニ染マル未来",
+		"description": "Moonのユニットテーマです。",
+		"assetBg": 1,
+		"displayOrder": 5,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 16,
+		"id": 201,
+		"name": "(楽曲）Knocking on My Dream!!",
+		"description": "マジック◆ワークスの主題歌です。",
+		"assetBg": 1,
+		"displayOrder": 6,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 16,
+		"id": 202,
+		"name": "(楽曲）にこにこワクワク 最高潮！",
+		"description": "ふぇありん∞ふぇありんの主題歌です。",
+		"assetBg": 1,
+		"displayOrder": 7,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 16,
+		"id": 203,
+		"name": "(楽曲）Good meal, Good life",
+		"description": "こんにちは、いただきますの主題歌です。",
+		"assetBg": 1,
+		"displayOrder": 8,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 16,
+		"id": 204,
+		"name": "(楽曲）MiRAGE! MiRAGE!!",
+		"description": "黒白のグィネヴィアの主題歌です。",
+		"assetBg": 1,
+		"displayOrder": 9,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 16,
+		"id": 205,
+		"name": "(楽曲）Reach For World!",
+		"description": "C.Qの主題歌です。",
+		"assetBg": 1,
+		"displayOrder": 10,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 16,
+		"id": 102,
+		"name": "(楽曲）さよならレディーメイド",
+		"description": "CUE!のエンディングです。",
+		"assetBg": 1,
+		"displayOrder": 11,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 17,
+		"id": 1,
+		"name": "マジック◆ワークスのポスター",
+		"description": "マジック◆ワークスの販促イベントで配られたポスター。",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 17,
+		"id": 2,
+		"name": "ふぇありん∞ふぇありんのポスター",
+		"description": "ふぇありん∞ふぇありんの販促イベントで配られたポスター。",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 17,
+		"id": 3,
+		"name": "こんにちは、いただきますのポスター",
+		"description": "こんにちは、いただきますの販促イベントで配られたポスター。",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 17,
+		"id": 4,
+		"name": "黒白のグィネヴィアのポスター",
+		"description": "黒白のグィネヴィアの販促イベントで配られたポスター。",
+		"assetBg": 1,
+		"displayOrder": 4,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 17,
+		"id": 5,
+		"name": "C.Q.のポスター",
+		"description": "C.Qの販促イベントで配られたポスター。",
+		"assetBg": 1,
+		"displayOrder": 5,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 17,
+		"id": 999,
+		"name": "事務所ポスター",
+		"description": "とあるイベントで配られたポスター。",
+		"assetBg": 1,
+		"displayOrder": 6,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 18,
+		"id": 1,
+		"name": "はちみつジンジャーティー",
+		"description": "声優がリラックスするのに使用する話題のアイテム。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:交換所</color>",
+		"assetBg": 2,
+		"displayOrder": 901,
+		"effectType": 0,
+		"effectValue": 1
+	},
+	{
+		"type": 18,
+		"id": 2,
+		"name": "はちみつヨーグルト",
+		"description": "声優がリラックスするのに使用するけっこう話題のアイテム。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:交換所</color>",
+		"assetBg": 3,
+		"displayOrder": 902,
+		"effectType": 0,
+		"effectValue": 2
+	},
+	{
+		"type": 18,
+		"id": 3,
+		"name": "はちみつレモン",
+		"description": "声優がリラックスするのに使用するかなり話題のアイテム。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:</color>",
+		"assetBg": 4,
+		"displayOrder": 903,
+		"effectType": 0,
+		"effectValue": 10
+	},
+	{
+		"type": 18,
+		"id": 101,
+		"name": "カメのぬいぐるみ",
+		"description": "陽菜の好きなカメのぬいぐるみ。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:キャラエピソード、声優強化</color>",
+		"assetBg": 3,
+		"displayOrder": 1011,
+		"effectType": 0,
+		"effectValue": 100
+	},
+	{
+		"type": 18,
+		"id": 102,
+		"name": "すごいカメのぬいぐるみ",
+		"description": "陽菜の好きなカメのぬいぐるみ。\r\nかわいさが増している気がする。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:上映</color>",
+		"assetBg": 4,
+		"displayOrder": 1012,
+		"effectType": 0,
+		"effectValue": 500
+	},
+	{
+		"type": 18,
+		"id": 201,
+		"name": "格ゲーソフト",
+		"description": "舞花の好きな話題の格闘ゲーム。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:キャラエピソード、声優強化</color>",
+		"assetBg": 3,
+		"displayOrder": 1021,
+		"effectType": 0,
+		"effectValue": 100
+	},
+	{
+		"type": 18,
+		"id": 202,
+		"name": "すごい格ゲーソフト",
+		"description": "舞花の好きな話題の格闘ゲーム。\r\nDLC全部入りのパッケージ。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:上映</color>",
+		"assetBg": 4,
+		"displayOrder": 1022,
+		"effectType": 0,
+		"effectValue": 500
+	},
+	{
+		"type": 18,
+		"id": 203,
+		"name": "舞花のバースデーケーキ",
+		"description": "舞花の誕生日を祝うバースデーケーキ。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:ログインボーナス</color>",
+		"assetBg": 3,
+		"displayOrder": 1023,
+		"effectType": 0,
+		"effectValue": 100
+	},
+	{
+		"type": 18,
+		"id": 301,
+		"name": "アザラシクッション",
+		"description": "志穂の好きなアザラシのクッション。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:キャラエピソード、声優強化</color>",
+		"assetBg": 3,
+		"displayOrder": 1031,
+		"effectType": 0,
+		"effectValue": 100
+	},
+	{
+		"type": 18,
+		"id": 302,
+		"name": "すごいアザラシクッション",
+		"description": "志穂の好きなアザラシのクッション。\r\nモフモフ感が増している。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:上映</color>",
+		"assetBg": 4,
+		"displayOrder": 1032,
+		"effectType": 0,
+		"effectValue": 500
+	},
+	{
+		"type": 18,
+		"id": 401,
+		"name": "アメコミ",
+		"description": "ほのかの好きなアメリカンコミックス。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:キャラエピソード、声優強化</color>",
+		"assetBg": 3,
+		"displayOrder": 1041,
+		"effectType": 0,
+		"effectValue": 100
+	},
+	{
+		"type": 18,
+		"id": 402,
+		"name": "すごいアメコミ",
+		"description": "ほのかの好きなアメリカンコミックス。待望の続編。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:上映</color>",
+		"assetBg": 4,
+		"displayOrder": 1042,
+		"effectType": 0,
+		"effectValue": 500
+	},
+	{
+		"type": 18,
+		"id": 501,
+		"name": "ダイバリオンプラモ",
+		"description": "悠希の好きなダイバリオンのプラモデル。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:キャラエピソード、声優強化</color>",
+		"assetBg": 3,
+		"displayOrder": 1051,
+		"effectType": 0,
+		"effectValue": 100
+	},
+	{
+		"type": 18,
+		"id": 502,
+		"name": "すごいダイバリオンプラモ",
+		"description": "悠希の好きなダイバリオンのプラモデル。\r\nスケールがアップしてよりリアルに！\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:上映</color>",
+		"assetBg": 4,
+		"displayOrder": 1052,
+		"effectType": 0,
+		"effectValue": 500
+	},
+	{
+		"type": 18,
+		"id": 503,
+		"name": "悠希のバースデーケーキ",
+		"description": "悠希の誕生日を祝うバースデーケーキ。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:ログインボーナス</color>",
+		"assetBg": 3,
+		"displayOrder": 1053,
+		"effectType": 0,
+		"effectValue": 100
+	},
+	{
+		"type": 18,
+		"id": 601,
+		"name": "菜園セット",
+		"description": "千紗の好きな家庭菜園セット。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:キャラエピソード、声優強化</color>",
+		"assetBg": 3,
+		"displayOrder": 1061,
+		"effectType": 0,
+		"effectValue": 100
+	},
+	{
+		"type": 18,
+		"id": 602,
+		"name": "すごい菜園セット",
+		"description": "千紗の好きな家庭菜園セット。\r\n肥料や種の種類が豊富になった。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:上映</color>",
+		"assetBg": 4,
+		"displayOrder": 1062,
+		"effectType": 0,
+		"effectValue": 500
+	},
+	{
+		"type": 18,
+		"id": 701,
+		"name": "カップグミ",
+		"description": "あいりの好きなカップグミ。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:キャラエピソード、声優強化</color>",
+		"assetBg": 3,
+		"displayOrder": 1071,
+		"effectType": 0,
+		"effectValue": 100
+	},
+	{
+		"type": 18,
+		"id": 702,
+		"name": "すごいカップグミ",
+		"description": "あいりの好きなカップグミ。容量とカミ応えアップ！\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:上映</color>",
+		"assetBg": 4,
+		"displayOrder": 1072,
+		"effectType": 0,
+		"effectValue": 500
+	},
+	{
+		"type": 18,
+		"id": 801,
+		"name": "クレープ",
+		"description": "柚葉の好きな有名店の美味しいクレープ。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:キャラエピソード、声優強化</color>",
+		"assetBg": 3,
+		"displayOrder": 1081,
+		"effectType": 0,
+		"effectValue": 100
+	},
+	{
+		"type": 18,
+		"id": 802,
+		"name": "すごいクレープ",
+		"description": "柚葉の好きな有名店の美味しいクレープ。\r\nホイップが増量してさらに美味しく。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:上映</color>",
+		"assetBg": 4,
+		"displayOrder": 1082,
+		"effectType": 0,
+		"effectValue": 500
+	},
+	{
+		"type": 18,
+		"id": 901,
+		"name": "芋焼酎",
+		"description": "美晴の好きな美味しい芋焼酎。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:キャラエピソード、声優強化</color>",
+		"assetBg": 3,
+		"displayOrder": 1091,
+		"effectType": 0,
+		"effectValue": 100
+	},
+	{
+		"type": 18,
+		"id": 902,
+		"name": "すごい芋焼酎",
+		"description": "美晴の好きな美味しい芋焼酎。\r\n芳醇な甘い香りが増している。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:上映</color>",
+		"assetBg": 4,
+		"displayOrder": 1092,
+		"effectType": 0,
+		"effectValue": 500
+	},
+	{
+		"type": 18,
+		"id": 1001,
+		"name": "かわいいチョコ",
+		"description": "絢の好きなかわいく美味しいチョコレート。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:キャラエピソード、声優強化</color>",
+		"assetBg": 3,
+		"displayOrder": 1101,
+		"effectType": 0,
+		"effectValue": 100
+	},
+	{
+		"type": 18,
+		"id": 1002,
+		"name": "すごいかわいいチョコ",
+		"description": "絢の好きなかわいく美味しいチョコレート。\r\nかわいさが増している。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:上映</color>",
+		"assetBg": 4,
+		"displayOrder": 1102,
+		"effectType": 0,
+		"effectValue": 500
+	},
+	{
+		"type": 18,
+		"id": 1101,
+		"name": "ラーメン",
+		"description": "まほろの好きな有名店の豚骨ラーメン。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:キャラエピソード、声優強化</color>",
+		"assetBg": 3,
+		"displayOrder": 1111,
+		"effectType": 0,
+		"effectValue": 100
+	},
+	{
+		"type": 18,
+		"id": 1102,
+		"name": "すごいラーメン",
+		"description": "まほろの好きな有名店の豚骨ラーメン。\r\nスープがより濃厚になった。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:上映</color>",
+		"assetBg": 4,
+		"displayOrder": 1112,
+		"effectType": 0,
+		"effectValue": 500
+	},
+	{
+		"type": 18,
+		"id": 1201,
+		"name": "唐揚げ",
+		"description": "莉子の好きな有名な唐揚げ。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:キャラエピソード、声優強化</color>",
+		"assetBg": 3,
+		"displayOrder": 1121,
+		"effectType": 0,
+		"effectValue": 100
+	},
+	{
+		"type": 18,
+		"id": 1202,
+		"name": "すごい唐揚げ",
+		"description": "莉子の好きな有名な唐揚げ。\r\nほとばしる肉汁とサクサクの衣が美味しい。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:上映</color>",
+		"assetBg": 4,
+		"displayOrder": 1122,
+		"effectType": 0,
+		"effectValue": 500
+	},
+	{
+		"type": 18,
+		"id": 1301,
+		"name": "和菓子",
+		"description": "利恵の好きなほんのり甘い風情のある和菓子。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:キャラエピソード、声優強化</color>",
+		"assetBg": 3,
+		"displayOrder": 1131,
+		"effectType": 0,
+		"effectValue": 100
+	},
+	{
+		"type": 18,
+		"id": 1302,
+		"name": "すごい和菓子",
+		"description": "利恵の好きなほんのり甘い風情のある和菓子。\r\nお茶によく合う。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:上映</color>",
+		"assetBg": 4,
+		"displayOrder": 1132,
+		"effectType": 0,
+		"effectValue": 500
+	},
+	{
+		"type": 18,
+		"id": 1303,
+		"name": "利恵のバースデーケーキ",
+		"description": "利恵のを祝うバースデーケーキ。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:ログインボーナス</color>",
+		"assetBg": 3,
+		"displayOrder": 1133,
+		"effectType": 0,
+		"effectValue": 100
+	},
+	{
+		"type": 18,
+		"id": 1401,
+		"name": "肉弁当",
+		"description": "聡里の好きなすき焼き風の肉弁当。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:キャラエピソード、声優強化</color>",
+		"assetBg": 3,
+		"displayOrder": 1141,
+		"effectType": 0,
+		"effectValue": 100
+	},
+	{
+		"type": 18,
+		"id": 1402,
+		"name": "すごい肉弁当",
+		"description": "聡里の好きなすき焼き風の肉弁当。\r\n高級なお肉でグレードアップ。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:上映</color>",
+		"assetBg": 4,
+		"displayOrder": 1142,
+		"effectType": 0,
+		"effectValue": 500
+	},
+	{
+		"type": 18,
+		"id": 1501,
+		"name": "ローストビーフ丼",
+		"description": "凛音の好きなローストビーフ丼。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:キャラエピソード、声優強化</color>",
+		"assetBg": 3,
+		"displayOrder": 1151,
+		"effectType": 0,
+		"effectValue": 100
+	},
+	{
+		"type": 18,
+		"id": 1502,
+		"name": "すごいローストビーフ丼",
+		"description": "凛音の好きなローストビーフ丼。肉と米が大盛り！\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:上映</color>",
+		"assetBg": 4,
+		"displayOrder": 1152,
+		"effectType": 0,
+		"effectValue": 500
+	},
+	{
+		"type": 18,
+		"id": 1601,
+		"name": "カップティラミス",
+		"description": "鳴の好きな有名店のカップティラミス。\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:キャラエピソード、声優強化</color>",
+		"assetBg": 3,
+		"displayOrder": 1161,
+		"effectType": 0,
+		"effectValue": 100
+	},
+	{
+		"type": 18,
+		"id": 1602,
+		"name": "すごいカップティラミス",
+		"description": "鳴の好きな有名店のカップティラミス。\r\n新フレーバーで見た目も美味しさもアップ！\r\n<color=#0C95B7>使用場所:差し入れ\r\n獲得場所:上映</color>",
+		"assetBg": 4,
+		"displayOrder": 1162,
+		"effectType": 0,
+		"effectValue": 500
+	},
+	{
+		"type": 19,
+		"id": 1,
+		"name": "ブロンズスキルグッズ",
+		"description": "声優スキルを磨くために必須なアイテム。\r\nスキルのレベル上げに少し役立ちます。\r\n<color=#0C95B7>使用場所:スキル強化\r\n獲得場所:収録、金曜日レッスン真咲</color>",
+		"assetBg": 2,
+		"displayOrder": 5,
+		"effectType": 0,
+		"effectValue": 1
+	},
+	{
+		"type": 19,
+		"id": 2,
+		"name": "シルバースキルグッズ",
+		"description": "声優スキルを磨くために必須なアイテム。\r\nスキルのレベル上げにそれなりに役立ちます。\r\n<color=#0C95B7>使用場所:スキル強化\r\n獲得場所:収録、金曜日レッスン真咲</color>",
+		"assetBg": 3,
+		"displayOrder": 6,
+		"effectType": 0,
+		"effectValue": 3
+	},
+	{
+		"type": 19,
+		"id": 3,
+		"name": "ゴールドスキルグッズ",
+		"description": "声優スキルを磨くために必須なアイテム。\r\nスキルのレベル上げに大きく役立ちます。\r\n<color=#0C95B7>使用場所:スキル強化\r\n獲得場所:収録、金曜日レッスン真咲</color>",
+		"assetBg": 4,
+		"displayOrder": 7,
+		"effectType": 0,
+		"effectValue": 12
+	},
+	{
+		"type": 19,
+		"id": 4,
+		"name": "プラチナスキルグッズ",
+		"description": "声優スキルを磨くために必須なアイテム。\r\nスキルのレベル上げにかなり役立ちます。\r\n<color=#0C95B7>使用場所:スキル強化\r\n獲得場所:イベントなど</color>",
+		"assetBg": 5,
+		"displayOrder": 8,
+		"effectType": 0,
+		"effectValue": 85
+	},
+	{
+		"type": 20,
+		"id": 1,
+		"name": "キャスティングシート(マジック◆ワークス)",
+		"description": "マジック◆ワークスのキャスト解放に必要なアイテム。\r\n<color=#0C95B7>使用場所:上映\r\n獲得場所:収録</color>",
+		"assetBg": 1,
+		"displayOrder": 701,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 20,
+		"id": 2,
+		"name": "キャスティングシート(ふぇありん∞ふぇありん)",
+		"description": "ふぇありん∞ふぇありんのキャスト解放に必要なアイテム。\r\n<color=#0C95B7>使用場所:上映\r\n獲得場所:収録</color>",
+		"assetBg": 1,
+		"displayOrder": 702,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 20,
+		"id": 3,
+		"name": "キャスティングシート(こんにちは、いただきます)",
+		"description": "こんにちは、いただきますのキャスト解放に必要なアイテム。\r\n<color=#0C95B7>使用場所:上映\r\n獲得場所:収録</color>",
+		"assetBg": 1,
+		"displayOrder": 703,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 20,
+		"id": 4,
+		"name": "キャスティングシート(黒白のグィネヴィア)",
+		"description": "黒白のグィネヴィアのキャスト解放に必要なアイテム。\r\n<color=#0C95B7>使用場所:上映\r\n獲得場所:収録</color>",
+		"assetBg": 1,
+		"displayOrder": 704,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 20,
+		"id": 5,
+		"name": "キャスティングシート(C.Q.)",
+		"description": "C.Q.のキャスト解放に必要なアイテム。\r\n<color=#0C95B7>使用場所:上映\r\n獲得場所:収録</color>",
+		"assetBg": 1,
+		"displayOrder": 705,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 22,
+		"id": 1,
+		"name": "打ち上げチケット",
+		"description": "『「Nice to meet you!」打ち上げParty』で、好きな【Forever Friends】の声優を獲得できるチケットです。",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 22,
+		"id": 2,
+		"name": "打ち上げチケット",
+		"description": "『「Nice to meet you!」打ち上げParty』で、好きな【Forever Friends】の声優を獲得できるチケットです。",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 23,
+		"id": 1,
+		"name": "ジュエルパスポート",
+		"description": "一定期間、ちょっと役立つアイテムが毎日振り込まれるお得なパスです。",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 23,
+		"id": 2,
+		"name": "レッスンパスポート",
+		"description": "一定期間、役立つアイテムが毎日振り込まれる嬉しいパスです。",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 23,
+		"id": 3,
+		"name": "収録パスポート",
+		"description": "一定期間、役立つアイテムが毎日振り込まれる嬉しいパスです。",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 23,
+		"id": 4,
+		"name": "コインパスポート",
+		"description": "一定期間、コインが毎日振り込まれる嬉しいパスです。",
+		"assetBg": 1,
+		"displayOrder": 4,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 24,
+		"id": 1,
+		"name": "ボイスピース",
+		"description": "レッスンの汗と涙の結晶。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、曜日レッスン</color>",
+		"assetBg": 1,
+		"displayOrder": 5,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 24,
+		"id": 2,
+		"name": "テクニックピース",
+		"description": "レッスンの汗と涙の結晶。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、曜日レッスン</color>",
+		"assetBg": 1,
+		"displayOrder": 6,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 24,
+		"id": 3,
+		"name": "メンタルピース",
+		"description": "レッスンの汗と涙の結晶。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、曜日レッスン</color>",
+		"assetBg": 1,
+		"displayOrder": 7,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 24,
+		"id": 4,
+		"name": "カリスマピース",
+		"description": "レッスンの汗と涙の結晶。\r\n<color=#0C95B7>使用場所:ステップアップ\r\n獲得場所:レッスン、曜日レッスン</color>",
+		"assetBg": 1,
+		"displayOrder": 8,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 25,
+		"id": 1001,
+		"name": "お肉",
+		"description": "バーベキューの主役にして絶対王者。エクストラボックスの抽選に必要です。",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 26,
+		"id": 2001,
+		"name": "クローバー",
+		"description": "見つけるとラッキーなことが起こると言われる四つ葉のクローバー。イベント交換所で使用します。",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 27,
+		"id": 1,
+		"name": "イベントPt",
+		"description": "イベント時に蓄積されるポイントです。",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 28,
+		"id": 1001,
+		"name": "イベント収録チケット",
+		"description": "イベント収録に必要なチケットです。",
+		"assetBg": 1,
+		"displayOrder": 4,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 28,
+		"id": 2001,
+		"name": "イベント収録チケット",
+		"description": "イベント収録に必要なチケットです。",
+		"assetBg": 1,
+		"displayOrder": 5,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 1001,
+		"name": "私服",
+		"description": "陽菜の私服衣装",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 1002,
+		"name": "レッスン着",
+		"description": "陽菜のレッスン着衣装",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 1003,
+		"name": "Forever Friends",
+		"description": "陽菜のForever Friends衣装",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 2001,
+		"name": "私服",
+		"description": "舞花の私服衣装",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 2002,
+		"name": "レッスン着",
+		"description": "舞花のレッスン着衣装",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 2003,
+		"name": "Forever Friends",
+		"description": "舞花のForever Friends衣装",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 3001,
+		"name": "私服",
+		"description": "志穂の私服衣装",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 3002,
+		"name": "レッスン着",
+		"description": "志穂のレッスン着衣装",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 3003,
+		"name": "Forever Friends",
+		"description": "志穂のForever Friends衣装",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 4001,
+		"name": "私服",
+		"description": "ほのかの私服衣装",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 4002,
+		"name": "レッスン着",
+		"description": "ほのかのレッスン着衣装",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 4003,
+		"name": "Forever Friends",
+		"description": "ほのかのForever Friends衣装",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 4004,
+		"name": "ひたむきトレイル",
+		"description": "ほのかのひたむきトレイル衣装",
+		"assetBg": 1,
+		"displayOrder": 4,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 5001,
+		"name": "私服",
+		"description": "悠希の私服衣装",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 5002,
+		"name": "レッスン着",
+		"description": "悠希のレッスン着衣装",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 5003,
+		"name": "Forever Friends",
+		"description": "悠希のForever Friends衣装",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 5004,
+		"name": "三兵衛、秋の感謝フェア",
+		"description": "悠希の三兵衛、秋の感謝フェア衣装",
+		"assetBg": 1,
+		"displayOrder": 4,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 6001,
+		"name": "私服",
+		"description": "千紗の私服衣装",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 6002,
+		"name": "レッスン着",
+		"description": "千紗のレッスン着衣装",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 6003,
+		"name": "Forever Friends",
+		"description": "千紗のForever Friends衣装",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 7001,
+		"name": "私服",
+		"description": "あいりの私服衣装",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 7002,
+		"name": "レッスン着",
+		"description": "あいりのレッスン着衣装",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 7003,
+		"name": "Forever Friends",
+		"description": "あいりのForever Friends衣装",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 8001,
+		"name": "私服",
+		"description": "柚葉の私服衣装",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 8002,
+		"name": "レッスン着",
+		"description": "柚葉のレッスン着衣装",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 8003,
+		"name": "Forever Friends",
+		"description": "柚葉のForever Friends衣装",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 9001,
+		"name": "私服",
+		"description": "美晴の私服衣装",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 9002,
+		"name": "レッスン着",
+		"description": "美晴のレッスン着衣装",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 9003,
+		"name": "Forever Friends",
+		"description": "美晴のForever Friends衣装",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 9004,
+		"name": "虹を見たあの日の",
+		"description": "美晴の虹を見たあの日の衣装",
+		"assetBg": 1,
+		"displayOrder": 4,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 10001,
+		"name": "私服",
+		"description": "絢の私服衣装",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 10002,
+		"name": "レッスン着",
+		"description": "絢のレッスン着衣装",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 10003,
+		"name": "Forever Friends",
+		"description": "絢のForever Friends衣装",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 11001,
+		"name": "私服",
+		"description": "まほろの私服衣装",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 11002,
+		"name": "レッスン着",
+		"description": "まほろのレッスン着衣装",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 11003,
+		"name": "Forever Friends",
+		"description": "まほろのForever Friends衣装",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 12001,
+		"name": "私服",
+		"description": "莉子の私服衣装",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 12002,
+		"name": "レッスン着",
+		"description": "莉子のレッスン着衣装",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 12003,
+		"name": "Forever Friends",
+		"description": "莉子のForever Friends衣装",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 12004,
+		"name": "未確定",
+		"description": "莉子の未確定衣装",
+		"assetBg": 1,
+		"displayOrder": 4,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 13001,
+		"name": "私服",
+		"description": "利恵の私服衣装",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 13002,
+		"name": "レッスン着",
+		"description": "利恵のレッスン着衣装",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 13003,
+		"name": "Forever Friends",
+		"description": "利恵のForever Friends衣装",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 13004,
+		"name": "Reach For the World!",
+		"description": "利恵のReach For the World!衣装",
+		"assetBg": 1,
+		"displayOrder": 4,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 14001,
+		"name": "私服",
+		"description": "聡里の私服衣装",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 14002,
+		"name": "レッスン着",
+		"description": "聡里のレッスン着衣装",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 14003,
+		"name": "Forever Friends",
+		"description": "聡里のForever Friends衣装",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 15001,
+		"name": "私服",
+		"description": "凛音の私服衣装",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 15002,
+		"name": "レッスン着",
+		"description": "凛音のレッスン着衣装",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 15003,
+		"name": "Forever Friends",
+		"description": "凛音のForever Friends衣装",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 16001,
+		"name": "私服",
+		"description": "鳴の私服衣装",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 16002,
+		"name": "レッスン着",
+		"description": "鳴のレッスン着衣装",
+		"assetBg": 1,
+		"displayOrder": 2,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 16003,
+		"name": "Forever Friends",
+		"description": "鳴のForever Friends衣装",
+		"assetBg": 1,
+		"displayOrder": 3,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 16004,
+		"name": "ハニーバタフライ",
+		"description": "鳴のハニーバタフライ衣装",
+		"assetBg": 1,
+		"displayOrder": 4,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 2004,
+		"name": "都立神瑞学園高校",
+		"description": "舞花の都立神瑞学園高校衣装",
+		"assetBg": 1,
+		"displayOrder": 4,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 13005,
+		"name": "カストールの安息日",
+		"description": "利恵のカストールの安息日衣装",
+		"assetBg": 1,
+		"displayOrder": 5,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 10004,
+		"name": "未確定",
+		"description": "絢の未確定衣装",
+		"assetBg": 1,
+		"displayOrder": 4,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 8004,
+		"name": "未確定",
+		"description": "柚葉の未確定衣装",
+		"assetBg": 1,
+		"displayOrder": 4,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 29,
+		"id": 7004,
+		"name": "未確定",
+		"description": "あいりの未確定衣装",
+		"assetBg": 1,
+		"displayOrder": 4,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 30,
+		"id": 1,
+		"name": "打ち上げチケット",
+		"description": "「Nice to meet you!」打ち上げ会場で使うチケット",
+		"assetBg": 1,
+		"displayOrder": 1,
+		"effectType": 0,
+		"effectValue": 0
+	}
+]

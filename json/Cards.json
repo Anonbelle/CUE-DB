@@ -1,0 +1,1889 @@
+{
+    "1010001": {
+        "nameid": "1",
+        "alias": "0",
+        "attribute": "1",
+        "LessonSkill": "2010041",
+        "rarity": "1",
+        "stat": {
+            "minvoice": "716",
+            "maxvoice": "2316",
+            "mintechnic": "458",
+            "maxtechnic": "1482",
+            "minmental": "357",
+            "maxmental": "1157",
+            "mincharisma": "518",
+            "maxcharisma": "1670"
+        }
+    },
+    "1020001": {
+        "nameid": "2",
+        "alias": "0",
+        "attribute": "1",
+        "LessonSkill": "2010041",
+        "rarity": "1",
+        "stat": {
+            "minvoice": "716",
+            "maxvoice": "2316",
+            "mintechnic": "360",
+            "maxtechnic": "1160",
+            "minmental": "516",
+            "maxmental": "1668",
+            "mincharisma": "457",
+            "maxcharisma": "1481"
+        }
+    },
+    "1030001": {
+        "nameid": "3",
+        "alias": "0",
+        "attribute": "1",
+        "LessonSkill": "2010041",
+        "rarity": "1",
+        "stat": {
+            "minvoice": "716",
+            "maxvoice": "2316",
+            "mintechnic": "358",
+            "maxtechnic": "1158",
+            "minmental": "517",
+            "maxmental": "1669",
+            "mincharisma": "458",
+            "maxcharisma": "1482"
+        }
+    },
+    "1040001": {
+        "nameid": "4",
+        "alias": "0",
+        "attribute": "1",
+        "LessonSkill": "2010041",
+        "rarity": "1",
+        "stat": {
+            "minvoice": "716",
+            "maxvoice": "2316",
+            "mintechnic": "517",
+            "maxtechnic": "1669",
+            "minmental": "457",
+            "maxmental": "1481",
+            "mincharisma": "359",
+            "maxcharisma": "1159"
+        }
+    },
+    "1050001": {
+        "nameid": "5",
+        "alias": "0",
+        "attribute": "2",
+        "LessonSkill": "2010041",
+        "rarity": "1",
+        "stat": {
+            "minvoice": "517",
+            "maxvoice": "1669",
+            "mintechnic": "716",
+            "maxtechnic": "2316",
+            "minmental": "458",
+            "maxmental": "1482",
+            "mincharisma": "358",
+            "maxcharisma": "1158"
+        }
+    },
+    "1060001": {
+        "nameid": "6",
+        "alias": "0",
+        "attribute": "2",
+        "LessonSkill": "2010041",
+        "rarity": "1",
+        "stat": {
+            "minvoice": "458",
+            "maxvoice": "1482",
+            "mintechnic": "716",
+            "maxtechnic": "2316",
+            "minmental": "360",
+            "maxmental": "1160",
+            "mincharisma": "515",
+            "maxcharisma": "1667"
+        }
+    },
+    "1070001": {
+        "nameid": "7",
+        "alias": "0",
+        "attribute": "2",
+        "LessonSkill": "2010041",
+        "rarity": "1",
+        "stat": {
+            "minvoice": "359",
+            "maxvoice": "1159",
+            "mintechnic": "716",
+            "maxtechnic": "2316",
+            "minmental": "515",
+            "maxmental": "1667",
+            "mincharisma": "459",
+            "maxcharisma": "1483"
+        }
+    },
+    "1080001": {
+        "nameid": "8",
+        "alias": "0",
+        "attribute": "2",
+        "LessonSkill": "2010041",
+        "rarity": "1",
+        "stat": {
+            "minvoice": "358",
+            "maxvoice": "1158",
+            "mintechnic": "716",
+            "maxtechnic": "2316",
+            "minmental": "516",
+            "maxmental": "1668",
+            "mincharisma": "459",
+            "maxcharisma": "1483"
+        }
+    },
+    "1090001": {
+        "nameid": "9",
+        "alias": "0",
+        "attribute": "3",
+        "LessonSkill": "2010041",
+        "rarity": "1",
+        "stat": {
+            "minvoice": "359",
+            "maxvoice": "1159",
+            "mintechnic": "515",
+            "maxtechnic": "1667",
+            "minmental": "716",
+            "maxmental": "2316",
+            "mincharisma": "459",
+            "maxcharisma": "1483"
+        }
+    },
+    "1100001": {
+        "nameid": "10",
+        "alias": "0",
+        "attribute": "3",
+        "LessonSkill": "2010041",
+        "rarity": "1",
+        "stat": {
+            "minvoice": "515",
+            "maxvoice": "1667",
+            "mintechnic": "460",
+            "maxtechnic": "1484",
+            "minmental": "716",
+            "maxmental": "2316",
+            "mincharisma": "358",
+            "maxcharisma": "1158"
+        }
+    },
+    "1110001": {
+        "nameid": "11",
+        "alias": "0",
+        "attribute": "3",
+        "LessonSkill": "2010041",
+        "rarity": "1",
+        "stat": {
+            "minvoice": "457",
+            "maxvoice": "1481",
+            "mintechnic": "516",
+            "maxtechnic": "1668",
+            "minmental": "716",
+            "maxmental": "2316",
+            "mincharisma": "360",
+            "maxcharisma": "1160"
+        }
+    },
+    "1120001": {
+        "nameid": "12",
+        "alias": "0",
+        "attribute": "3",
+        "LessonSkill": "2010041",
+        "rarity": "1",
+        "stat": {
+            "minvoice": "460",
+            "maxvoice": "1484",
+            "mintechnic": "357",
+            "maxtechnic": "1157",
+            "minmental": "716",
+            "maxmental": "2316",
+            "mincharisma": "516",
+            "maxcharisma": "1668"
+        }
+    },
+    "1130001": {
+        "nameid": "13",
+        "alias": "0",
+        "attribute": "4",
+        "LessonSkill": "2010041",
+        "rarity": "1",
+        "stat": {
+            "minvoice": "459",
+            "maxvoice": "1483",
+            "mintechnic": "359",
+            "maxtechnic": "1159",
+            "minmental": "515",
+            "maxmental": "1667",
+            "mincharisma": "716",
+            "maxcharisma": "2316"
+        }
+    },
+    "1140001": {
+        "nameid": "14",
+        "alias": "0",
+        "attribute": "4",
+        "LessonSkill": "2010041",
+        "rarity": "1",
+        "stat": {
+            "minvoice": "358",
+            "maxvoice": "1158",
+            "mintechnic": "517",
+            "maxtechnic": "1669",
+            "minmental": "458",
+            "maxmental": "1482",
+            "mincharisma": "716",
+            "maxcharisma": "2316"
+        }
+    },
+    "1150001": {
+        "nameid": "15",
+        "alias": "0",
+        "attribute": "4",
+        "LessonSkill": "2010041",
+        "rarity": "1",
+        "stat": {
+            "minvoice": "359",
+            "maxvoice": "1159",
+            "mintechnic": "516",
+            "maxtechnic": "1668",
+            "minmental": "458",
+            "maxmental": "1482",
+            "mincharisma": "716",
+            "maxcharisma": "2316"
+        }
+    },
+    "1160001": {
+        "nameid": "16",
+        "alias": "0",
+        "attribute": "4",
+        "LessonSkill": "2010041",
+        "rarity": "1",
+        "stat": {
+            "minvoice": "515",
+            "maxvoice": "1667",
+            "mintechnic": "458",
+            "maxtechnic": "1482",
+            "minmental": "360",
+            "maxmental": "1160",
+            "mincharisma": "716",
+            "maxcharisma": "2316"
+        }
+    },
+    "2010002": {
+        "nameid": "1",
+        "alias": "【声優のタマゴ】",
+        "attribute": "2",
+        "LessonSkill": "2010052",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "459",
+            "maxvoice": "1478",
+            "mintechnic": "820",
+            "maxtechnic": "2640",
+            "minmental": "630",
+            "maxmental": "2032",
+            "mincharisma": "592",
+            "maxcharisma": "1903"
+        }
+    },
+    "2020002": {
+        "nameid": "2",
+        "alias": "【声優のタマゴ】",
+        "attribute": "3",
+        "LessonSkill": "2010052",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "590",
+            "maxvoice": "1901",
+            "mintechnic": "461",
+            "maxtechnic": "1480",
+            "minmental": "820",
+            "maxmental": "2640",
+            "mincharisma": "630",
+            "maxcharisma": "2032"
+        }
+    },
+    "2030002": {
+        "nameid": "3",
+        "alias": "【声優のタマゴ】",
+        "attribute": "3",
+        "LessonSkill": "2010052",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "589",
+            "maxvoice": "1900",
+            "mintechnic": "460",
+            "maxtechnic": "1479",
+            "minmental": "820",
+            "maxmental": "2640",
+            "mincharisma": "632",
+            "maxcharisma": "2034"
+        }
+    },
+    "2040002": {
+        "nameid": "4",
+        "alias": "【声優のタマゴ】",
+        "attribute": "1",
+        "LessonSkill": "2010052",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "820",
+            "maxvoice": "2640",
+            "mintechnic": "632",
+            "maxtechnic": "2034",
+            "minmental": "589",
+            "maxmental": "1900",
+            "mincharisma": "460",
+            "maxcharisma": "1479"
+        }
+    },
+    "2050002": {
+        "nameid": "5",
+        "alias": "【声優のタマゴ】",
+        "attribute": "3",
+        "LessonSkill": "2010052",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "592",
+            "maxvoice": "1903",
+            "mintechnic": "458",
+            "maxtechnic": "1477",
+            "minmental": "820",
+            "maxmental": "2640",
+            "mincharisma": "631",
+            "maxcharisma": "2033"
+        }
+    },
+    "2060002": {
+        "nameid": "6",
+        "alias": "【声優のタマゴ】",
+        "attribute": "1",
+        "LessonSkill": "2010052",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "820",
+            "maxvoice": "2640",
+            "mintechnic": "631",
+            "maxtechnic": "2033",
+            "minmental": "592",
+            "maxmental": "1903",
+            "mincharisma": "458",
+            "maxcharisma": "1477"
+        }
+    },
+    "2070002": {
+        "nameid": "7",
+        "alias": "【声優のタマゴ】",
+        "attribute": "2",
+        "LessonSkill": "2010052",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "460",
+            "maxvoice": "1479",
+            "mintechnic": "820",
+            "maxtechnic": "2640",
+            "minmental": "630",
+            "maxmental": "2032",
+            "mincharisma": "591",
+            "maxcharisma": "1902"
+        }
+    },
+    "2080002": {
+        "nameid": "8",
+        "alias": "【声優のタマゴ】",
+        "attribute": "2",
+        "LessonSkill": "2010052",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "459",
+            "maxvoice": "1478",
+            "mintechnic": "820",
+            "maxtechnic": "2640",
+            "minmental": "631",
+            "maxmental": "2033",
+            "mincharisma": "591",
+            "maxcharisma": "1902"
+        }
+    },
+    "2090002": {
+        "nameid": "9",
+        "alias": "【声優のタマゴ】",
+        "attribute": "4",
+        "LessonSkill": "2010052",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "631",
+            "maxvoice": "2033",
+            "mintechnic": "589",
+            "maxtechnic": "1900",
+            "minmental": "461",
+            "maxmental": "1480",
+            "mincharisma": "820",
+            "maxcharisma": "2640"
+        }
+    },
+    "2100002": {
+        "nameid": "10",
+        "alias": "【声優のタマゴ】",
+        "attribute": "2",
+        "LessonSkill": "2010052",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "458",
+            "maxvoice": "1477",
+            "mintechnic": "820",
+            "maxtechnic": "2640",
+            "minmental": "632",
+            "maxmental": "2034",
+            "mincharisma": "591",
+            "maxcharisma": "1902"
+        }
+    },
+    "2110002": {
+        "nameid": "11",
+        "alias": "【声優のタマゴ】",
+        "attribute": "1",
+        "LessonSkill": "2010052",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "820",
+            "maxvoice": "2640",
+            "mintechnic": "631",
+            "maxtechnic": "2033",
+            "minmental": "590",
+            "maxmental": "1901",
+            "mincharisma": "460",
+            "maxcharisma": "1479"
+        }
+    },
+    "2120002": {
+        "nameid": "12",
+        "alias": "【声優のタマゴ】",
+        "attribute": "1",
+        "LessonSkill": "2010052",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "820",
+            "maxvoice": "2640",
+            "mintechnic": "630",
+            "maxtechnic": "2032",
+            "minmental": "591",
+            "maxmental": "1902",
+            "mincharisma": "460",
+            "maxcharisma": "1479"
+        }
+    },
+    "2130002": {
+        "nameid": "13",
+        "alias": "【声優のタマゴ】",
+        "attribute": "4",
+        "LessonSkill": "2010052",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "632",
+            "maxvoice": "2034",
+            "mintechnic": "591",
+            "maxtechnic": "1902",
+            "minmental": "458",
+            "maxmental": "1477",
+            "mincharisma": "820",
+            "maxcharisma": "2640"
+        }
+    },
+    "2140002": {
+        "nameid": "14",
+        "alias": "【声優のタマゴ】",
+        "attribute": "3",
+        "LessonSkill": "2010052",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "590",
+            "maxvoice": "1901",
+            "mintechnic": "461",
+            "maxtechnic": "1480",
+            "minmental": "820",
+            "maxmental": "2640",
+            "mincharisma": "630",
+            "maxcharisma": "2032"
+        }
+    },
+    "2150002": {
+        "nameid": "15",
+        "alias": "【声優のタマゴ】",
+        "attribute": "4",
+        "LessonSkill": "2010052",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "632",
+            "maxvoice": "2034",
+            "mintechnic": "590",
+            "maxtechnic": "1901",
+            "minmental": "459",
+            "maxmental": "1478",
+            "mincharisma": "820",
+            "maxcharisma": "2640"
+        }
+    },
+    "2160002": {
+        "nameid": "16",
+        "alias": "【声優のタマゴ】",
+        "attribute": "2",
+        "LessonSkill": "2010052",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "458",
+            "maxvoice": "1477",
+            "mintechnic": "820",
+            "maxtechnic": "2640",
+            "minmental": "633",
+            "maxmental": "2035",
+            "mincharisma": "590",
+            "maxcharisma": "1901"
+        }
+    },
+    "2010003": {
+        "nameid": "1",
+        "alias": "【空を見上げて】",
+        "attribute": "4",
+        "LessonSkill": "2010042",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "632",
+            "maxvoice": "2034",
+            "mintechnic": "591",
+            "maxtechnic": "1902",
+            "minmental": "458",
+            "maxmental": "1477",
+            "mincharisma": "820",
+            "maxcharisma": "2640"
+        }
+    },
+    "2020003": {
+        "nameid": "2",
+        "alias": "【空を見上げて】",
+        "attribute": "1",
+        "LessonSkill": "2010042",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "820",
+            "maxvoice": "2640",
+            "mintechnic": "633",
+            "maxtechnic": "2035",
+            "minmental": "590",
+            "maxmental": "1901",
+            "mincharisma": "458",
+            "maxcharisma": "1477"
+        }
+    },
+    "2030003": {
+        "nameid": "3",
+        "alias": "【空を見上げて】",
+        "attribute": "2",
+        "LessonSkill": "2010042",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "458",
+            "maxvoice": "1477",
+            "mintechnic": "820",
+            "maxtechnic": "2640",
+            "minmental": "633",
+            "maxmental": "2035",
+            "mincharisma": "590",
+            "maxcharisma": "1901"
+        }
+    },
+    "2040003": {
+        "nameid": "4",
+        "alias": "【空を見上げて】",
+        "attribute": "4",
+        "LessonSkill": "2010042",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "633",
+            "maxvoice": "2035",
+            "mintechnic": "590",
+            "maxtechnic": "1901",
+            "minmental": "458",
+            "maxmental": "1477",
+            "mincharisma": "820",
+            "maxcharisma": "2640"
+        }
+    },
+    "2050003": {
+        "nameid": "5",
+        "alias": "【空を見上げて】",
+        "attribute": "1",
+        "LessonSkill": "2010042",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "820",
+            "maxvoice": "2640",
+            "mintechnic": "630",
+            "maxtechnic": "2032",
+            "minmental": "591",
+            "maxmental": "1902",
+            "mincharisma": "460",
+            "maxcharisma": "1479"
+        }
+    },
+    "2060003": {
+        "nameid": "6",
+        "alias": "【空を見上げて】",
+        "attribute": "3",
+        "LessonSkill": "2010042",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "591",
+            "maxvoice": "1902",
+            "mintechnic": "460",
+            "maxtechnic": "1479",
+            "minmental": "820",
+            "maxmental": "2640",
+            "mincharisma": "630",
+            "maxcharisma": "2032"
+        }
+    },
+    "2070003": {
+        "nameid": "7",
+        "alias": "【空を見上げて】",
+        "attribute": "4",
+        "LessonSkill": "2010042",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "631",
+            "maxvoice": "2033",
+            "mintechnic": "592",
+            "maxtechnic": "1903",
+            "minmental": "458",
+            "maxmental": "1477",
+            "mincharisma": "820",
+            "maxcharisma": "2640"
+        }
+    },
+    "2080003": {
+        "nameid": "8",
+        "alias": "【空を見上げて】",
+        "attribute": "4",
+        "LessonSkill": "2010042",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "632",
+            "maxvoice": "2034",
+            "mintechnic": "589",
+            "maxtechnic": "1900",
+            "minmental": "460",
+            "maxmental": "1479",
+            "mincharisma": "820",
+            "maxcharisma": "2640"
+        }
+    },
+    "2090003": {
+        "nameid": "9",
+        "alias": "【空を見上げて】",
+        "attribute": "3",
+        "LessonSkill": "2010042",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "591",
+            "maxvoice": "1902",
+            "mintechnic": "458",
+            "maxtechnic": "1477",
+            "minmental": "820",
+            "maxmental": "2640",
+            "mincharisma": "632",
+            "maxcharisma": "2034"
+        }
+    },
+    "2100003": {
+        "nameid": "10",
+        "alias": "【空を見上げて】",
+        "attribute": "4",
+        "LessonSkill": "2010042",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "630",
+            "maxvoice": "2032",
+            "mintechnic": "592",
+            "maxtechnic": "1903",
+            "minmental": "459",
+            "maxmental": "1478",
+            "mincharisma": "820",
+            "maxcharisma": "2640"
+        }
+    },
+    "2110003": {
+        "nameid": "11",
+        "alias": "【空を見上げて】",
+        "attribute": "3",
+        "LessonSkill": "2010042",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "589",
+            "maxvoice": "1900",
+            "mintechnic": "459",
+            "maxtechnic": "1478",
+            "minmental": "820",
+            "maxmental": "2640",
+            "mincharisma": "633",
+            "maxcharisma": "2035"
+        }
+    },
+    "2120003": {
+        "nameid": "12",
+        "alias": "【空を見上げて】",
+        "attribute": "2",
+        "LessonSkill": "2010042",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "460",
+            "maxvoice": "1479",
+            "mintechnic": "820",
+            "maxtechnic": "2640",
+            "minmental": "631",
+            "maxmental": "2033",
+            "mincharisma": "590",
+            "maxcharisma": "1901"
+        }
+    },
+    "2130003": {
+        "nameid": "13",
+        "alias": "【空を見上げて】",
+        "attribute": "3",
+        "LessonSkill": "2010042",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "590",
+            "maxvoice": "1901",
+            "mintechnic": "459",
+            "maxtechnic": "1478",
+            "minmental": "820",
+            "maxmental": "2640",
+            "mincharisma": "632",
+            "maxcharisma": "2034"
+        }
+    },
+    "2140003": {
+        "nameid": "14",
+        "alias": "【空を見上げて】",
+        "attribute": "2",
+        "LessonSkill": "2010042",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "460",
+            "maxvoice": "1479",
+            "mintechnic": "820",
+            "maxtechnic": "2640",
+            "minmental": "632",
+            "maxmental": "2034",
+            "mincharisma": "589",
+            "maxcharisma": "1900"
+        }
+    },
+    "2150003": {
+        "nameid": "15",
+        "alias": "【空を見上げて】",
+        "attribute": "1",
+        "LessonSkill": "2010042",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "820",
+            "maxvoice": "2640",
+            "mintechnic": "632",
+            "maxtechnic": "2034",
+            "minmental": "591",
+            "maxmental": "1902",
+            "mincharisma": "458",
+            "maxcharisma": "1477"
+        }
+    },
+    "2160003": {
+        "nameid": "16",
+        "alias": "【空を見上げて】",
+        "attribute": "1",
+        "LessonSkill": "2010042",
+        "rarity": "2",
+        "stat": {
+            "minvoice": "820",
+            "maxvoice": "2640",
+            "mintechnic": "631",
+            "maxtechnic": "2033",
+            "minmental": "591",
+            "maxmental": "1902",
+            "mincharisma": "459",
+            "maxcharisma": "1478"
+        }
+    },
+    "3010004": {
+        "nameid": "1",
+        "alias": "【ステップ・バイ・ステップ】",
+        "attribute": "3",
+        "LessonSkill": "2010033",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "527",
+            "maxvoice": "1784",
+            "mintechnic": "499",
+            "maxtechnic": "1690",
+            "minmental": "924",
+            "maxmental": "3130",
+            "mincharisma": "555",
+            "maxcharisma": "1879"
+        }
+    },
+    "3020004": {
+        "nameid": "2",
+        "alias": "【カミズ・ホリデイ】",
+        "attribute": "2",
+        "LessonSkill": "2010033",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "500",
+            "maxvoice": "1691",
+            "mintechnic": "924",
+            "maxtechnic": "3130",
+            "minmental": "555",
+            "maxmental": "1879",
+            "mincharisma": "526",
+            "maxcharisma": "1783"
+        }
+    },
+    "3030004": {
+        "nameid": "3",
+        "alias": "【僕と猫】",
+        "attribute": "1",
+        "LessonSkill": "2010033",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "924",
+            "maxvoice": "3130",
+            "mintechnic": "554",
+            "maxtechnic": "1878",
+            "minmental": "528",
+            "maxmental": "1785",
+            "mincharisma": "499",
+            "maxcharisma": "1690"
+        }
+    },
+    "3040004": {
+        "nameid": "4",
+        "alias": "【チェイス！】",
+        "attribute": "3",
+        "LessonSkill": "2010033",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "528",
+            "maxvoice": "1785",
+            "mintechnic": "499",
+            "maxtechnic": "1690",
+            "minmental": "924",
+            "maxmental": "3130",
+            "mincharisma": "554",
+            "maxcharisma": "1878"
+        }
+    },
+    "3050004": {
+        "nameid": "5",
+        "alias": "【永久機関オルタネーター】",
+        "attribute": "2",
+        "LessonSkill": "2010033",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "500",
+            "maxvoice": "1691",
+            "mintechnic": "924",
+            "maxtechnic": "3130",
+            "minmental": "554",
+            "maxmental": "1878",
+            "mincharisma": "527",
+            "maxcharisma": "1784"
+        }
+    },
+    "3060004": {
+        "nameid": "6",
+        "alias": "【シスター・シスター】",
+        "attribute": "2",
+        "LessonSkill": "2010033",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "499",
+            "maxvoice": "1690",
+            "mintechnic": "924",
+            "maxtechnic": "3130",
+            "minmental": "556",
+            "maxmental": "1880",
+            "mincharisma": "526",
+            "maxcharisma": "1783"
+        }
+    },
+    "3070004": {
+        "nameid": "7",
+        "alias": "【ひとりでできるもん！】",
+        "attribute": "3",
+        "LessonSkill": "2010033",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "527",
+            "maxvoice": "1784",
+            "mintechnic": "500",
+            "maxtechnic": "1691",
+            "minmental": "924",
+            "maxmental": "3130",
+            "mincharisma": "554",
+            "maxcharisma": "1878"
+        }
+    },
+    "3080004": {
+        "nameid": "8",
+        "alias": "【楽しみの求道者】",
+        "attribute": "1",
+        "LessonSkill": "2010033",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "924",
+            "maxvoice": "3130",
+            "mintechnic": "553",
+            "maxtechnic": "1877",
+            "minmental": "527",
+            "maxmental": "1784",
+            "mincharisma": "501",
+            "maxcharisma": "1692"
+        }
+    },
+    "3090004": {
+        "nameid": "9",
+        "alias": "【フェアリー・オン・ステージ】",
+        "attribute": "1",
+        "LessonSkill": "2010033",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "924",
+            "maxvoice": "3130",
+            "mintechnic": "553",
+            "maxtechnic": "1877",
+            "minmental": "529",
+            "maxmental": "1786",
+            "mincharisma": "499",
+            "maxcharisma": "1690"
+        }
+    },
+    "3100004": {
+        "nameid": "10",
+        "alias": "【Don’t be a stranger.】",
+        "attribute": "1",
+        "LessonSkill": "2010033",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "924",
+            "maxvoice": "3130",
+            "mintechnic": "555",
+            "maxtechnic": "1879",
+            "minmental": "527",
+            "maxmental": "1784",
+            "mincharisma": "499",
+            "maxcharisma": "1690"
+        }
+    },
+    "3110004": {
+        "nameid": "11",
+        "alias": "【dig down メモリーズ】",
+        "attribute": "2",
+        "LessonSkill": "2010033",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "498",
+            "maxvoice": "1689",
+            "mintechnic": "924",
+            "maxtechnic": "3130",
+            "minmental": "554",
+            "maxmental": "1878",
+            "mincharisma": "529",
+            "maxcharisma": "1786"
+        }
+    },
+    "3120004": {
+        "nameid": "12",
+        "alias": "【幸運を抱きしめて】",
+        "attribute": "4",
+        "LessonSkill": "2010033",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "556",
+            "maxvoice": "1880",
+            "mintechnic": "526",
+            "maxtechnic": "1783",
+            "minmental": "499",
+            "maxmental": "1690",
+            "mincharisma": "924",
+            "maxcharisma": "3130"
+        }
+    },
+    "3130004": {
+        "nameid": "13",
+        "alias": "【賞味期限にご注意を】",
+        "attribute": "2",
+        "LessonSkill": "2010033",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "499",
+            "maxvoice": "1690",
+            "mintechnic": "924",
+            "maxtechnic": "3130",
+            "minmental": "553",
+            "maxmental": "1877",
+            "mincharisma": "529",
+            "maxcharisma": "1786"
+        }
+    },
+    "3140004": {
+        "nameid": "14",
+        "alias": "【聡里の宝物庫】",
+        "attribute": "4",
+        "LessonSkill": "2010033",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "554",
+            "maxvoice": "1878",
+            "mintechnic": "528",
+            "maxtechnic": "1785",
+            "minmental": "499",
+            "maxmental": "1690",
+            "mincharisma": "924",
+            "maxcharisma": "3130"
+        }
+    },
+    "3150004": {
+        "nameid": "15",
+        "alias": "【走れ凛音】",
+        "attribute": "3",
+        "LessonSkill": "2010033",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "529",
+            "maxvoice": "1786",
+            "mintechnic": "499",
+            "maxtechnic": "1690",
+            "minmental": "924",
+            "maxmental": "3130",
+            "mincharisma": "553",
+            "maxcharisma": "1877"
+        }
+    },
+    "3160004": {
+        "nameid": "16",
+        "alias": "【オブジェクト・アンディファインド】",
+        "attribute": "4",
+        "LessonSkill": "2010033",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "553",
+            "maxvoice": "1877",
+            "mintechnic": "527",
+            "maxtechnic": "1784",
+            "minmental": "501",
+            "maxmental": "1692",
+            "mincharisma": "924",
+            "maxcharisma": "3130"
+        }
+    },
+    "4010005": {
+        "nameid": "1",
+        "alias": "【Forever Friends】",
+        "attribute": "1",
+        "LessonSkill": "2010064",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "990",
+            "maxvoice": "3300",
+            "mintechnic": "782",
+            "maxtechnic": "2607",
+            "minmental": "692",
+            "maxmental": "2309",
+            "mincharisma": "794",
+            "maxcharisma": "2642"
+        }
+    },
+    "4020005": {
+        "nameid": "2",
+        "alias": "【Forever Friends】",
+        "attribute": "1",
+        "LessonSkill": "2010074",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "990",
+            "maxvoice": "3300",
+            "mintechnic": "695",
+            "maxtechnic": "2312",
+            "minmental": "782",
+            "maxmental": "2607",
+            "mincharisma": "791",
+            "maxcharisma": "2639"
+        }
+    },
+    "4030005": {
+        "nameid": "3",
+        "alias": "【Forever Friends】",
+        "attribute": "1",
+        "LessonSkill": "2010064",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "955",
+            "maxvoice": "3185",
+            "mintechnic": "669",
+            "maxtechnic": "2230",
+            "minmental": "783",
+            "maxmental": "2608",
+            "mincharisma": "945",
+            "maxcharisma": "3153"
+        }
+    },
+    "4040005": {
+        "nameid": "4",
+        "alias": "【Forever Friends】",
+        "attribute": "1",
+        "LessonSkill": "2010034",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "955",
+            "maxvoice": "3185",
+            "mintechnic": "783",
+            "maxtechnic": "2608",
+            "minmental": "668",
+            "maxmental": "2229",
+            "mincharisma": "946",
+            "maxcharisma": "3154"
+        }
+    },
+    "4050005": {
+        "nameid": "5",
+        "alias": "【Forever Friends】",
+        "attribute": "2",
+        "LessonSkill": "2010064",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "946",
+            "maxvoice": "3154",
+            "mintechnic": "955",
+            "maxtechnic": "3185",
+            "minmental": "782",
+            "maxmental": "2607",
+            "mincharisma": "669",
+            "maxcharisma": "2230"
+        }
+    },
+    "4060005": {
+        "nameid": "6",
+        "alias": "【Forever Friends】",
+        "attribute": "2",
+        "LessonSkill": "2010034",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "792",
+            "maxvoice": "2640",
+            "mintechnic": "990",
+            "maxtechnic": "3300",
+            "minmental": "784",
+            "maxmental": "2609",
+            "mincharisma": "692",
+            "maxcharisma": "2309"
+        }
+    },
+    "4070005": {
+        "nameid": "7",
+        "alias": "【Forever Friends】",
+        "attribute": "2",
+        "LessonSkill": "2010064",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "793",
+            "maxvoice": "2641",
+            "mintechnic": "990",
+            "maxtechnic": "3300",
+            "minmental": "692",
+            "maxmental": "2309",
+            "mincharisma": "783",
+            "maxcharisma": "2608"
+        }
+    },
+    "4080005": {
+        "nameid": "8",
+        "alias": "【Forever Friends】",
+        "attribute": "2",
+        "LessonSkill": "2010084",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "945",
+            "maxvoice": "3153",
+            "mintechnic": "955",
+            "maxtechnic": "3185",
+            "minmental": "669",
+            "maxmental": "2230",
+            "mincharisma": "783",
+            "maxcharisma": "2608"
+        }
+    },
+    "4090005": {
+        "nameid": "9",
+        "alias": "【Forever Friends】",
+        "attribute": "3",
+        "LessonSkill": "2010034",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "670",
+            "maxvoice": "2231",
+            "mintechnic": "944",
+            "maxtechnic": "3152",
+            "minmental": "955",
+            "maxmental": "3185",
+            "mincharisma": "783",
+            "maxcharisma": "2608"
+        }
+    },
+    "4100005": {
+        "nameid": "10",
+        "alias": "【Forever Friends】",
+        "attribute": "3",
+        "LessonSkill": "2010064",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "781",
+            "maxvoice": "2606",
+            "mintechnic": "794",
+            "maxtechnic": "2642",
+            "minmental": "990",
+            "maxmental": "3300",
+            "mincharisma": "693",
+            "maxcharisma": "2310"
+        }
+    },
+    "4110005": {
+        "nameid": "11",
+        "alias": "【Forever Friends】",
+        "attribute": "3",
+        "LessonSkill": "2010094",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "692",
+            "maxvoice": "2309",
+            "mintechnic": "792",
+            "maxtechnic": "2640",
+            "minmental": "990",
+            "maxmental": "3300",
+            "mincharisma": "784",
+            "maxcharisma": "2609"
+        }
+    },
+    "4120005": {
+        "nameid": "12",
+        "alias": "【Forever Friends】",
+        "attribute": "3",
+        "LessonSkill": "2010064",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "784",
+            "maxvoice": "2609",
+            "mintechnic": "791",
+            "maxtechnic": "2639",
+            "minmental": "990",
+            "maxmental": "3300",
+            "mincharisma": "693",
+            "maxcharisma": "2310"
+        }
+    },
+    "4130005": {
+        "nameid": "13",
+        "alias": "【Forever Friends】",
+        "attribute": "4",
+        "LessonSkill": "2010064",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "783",
+            "maxvoice": "2608",
+            "mintechnic": "670",
+            "maxtechnic": "2231",
+            "minmental": "944",
+            "maxmental": "3152",
+            "mincharisma": "955",
+            "maxcharisma": "3185"
+        }
+    },
+    "4140005": {
+        "nameid": "14",
+        "alias": "【Forever Friends】",
+        "attribute": "4",
+        "LessonSkill": "2010104",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "669",
+            "maxvoice": "2230",
+            "mintechnic": "783",
+            "maxtechnic": "2608",
+            "minmental": "945",
+            "maxmental": "3153",
+            "mincharisma": "955",
+            "maxcharisma": "3185"
+        }
+    },
+    "4150005": {
+        "nameid": "15",
+        "alias": "【Forever Friends】",
+        "attribute": "4",
+        "LessonSkill": "2010034",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "694",
+            "maxvoice": "2311",
+            "mintechnic": "782",
+            "maxtechnic": "2607",
+            "minmental": "792",
+            "maxmental": "2640",
+            "mincharisma": "990",
+            "maxcharisma": "3300"
+        }
+    },
+    "4160005": {
+        "nameid": "16",
+        "alias": "【Forever Friends】",
+        "attribute": "4",
+        "LessonSkill": "2010064",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "781",
+            "maxvoice": "2606",
+            "mintechnic": "693",
+            "maxtechnic": "2310",
+            "minmental": "794",
+            "maxmental": "2642",
+            "mincharisma": "990",
+            "maxcharisma": "3300"
+        }
+    },
+    "3010006": {
+        "nameid": "1",
+        "alias": "【クロスロード・サインポスト】",
+        "attribute": "1",
+        "LessonSkill": "2010063",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "888",
+            "maxvoice": "2904",
+            "mintechnic": "857",
+            "maxtechnic": "2802",
+            "minmental": "665",
+            "maxmental": "2177",
+            "mincharisma": "553",
+            "maxcharisma": "1802"
+        }
+    },
+    "3020006": {
+        "nameid": "2",
+        "alias": "【そっと背中を押して】",
+        "attribute": "4",
+        "LessonSkill": "2010063",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "857",
+            "maxvoice": "2802",
+            "mintechnic": "667",
+            "maxtechnic": "2179",
+            "minmental": "551",
+            "maxmental": "1800",
+            "mincharisma": "888",
+            "maxcharisma": "2904"
+        }
+    },
+    "3030006": {
+        "nameid": "3",
+        "alias": "【視線の奥に】",
+        "attribute": "4",
+        "LessonSkill": "2010063",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "665",
+            "maxvoice": "2177",
+            "mintechnic": "857",
+            "maxtechnic": "2802",
+            "minmental": "553",
+            "maxmental": "1802",
+            "mincharisma": "888",
+            "maxcharisma": "2904"
+        }
+    },
+    "3040006": {
+        "nameid": "4",
+        "alias": "【Let's go around】",
+        "attribute": "2",
+        "LessonSkill": "2010063",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "553",
+            "maxvoice": "1802",
+            "mintechnic": "888",
+            "maxtechnic": "2904",
+            "minmental": "856",
+            "maxmental": "2801",
+            "mincharisma": "666",
+            "maxcharisma": "2178"
+        }
+    },
+    "3050006": {
+        "nameid": "5",
+        "alias": "【唇よ、熱くキミを語れ！】",
+        "attribute": "4",
+        "LessonSkill": "2010063",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "859",
+            "maxvoice": "2804",
+            "mintechnic": "665",
+            "maxtechnic": "2177",
+            "minmental": "551",
+            "maxmental": "1800",
+            "mincharisma": "888",
+            "maxcharisma": "2904"
+        }
+    },
+    "3060006": {
+        "nameid": "6",
+        "alias": "【プリンセスは大忙し】",
+        "attribute": "4",
+        "LessonSkill": "2010063",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "857",
+            "maxvoice": "2802",
+            "mintechnic": "666",
+            "maxtechnic": "2178",
+            "minmental": "552",
+            "maxmental": "1801",
+            "mincharisma": "888",
+            "maxcharisma": "2904"
+        }
+    },
+    "3070006": {
+        "nameid": "7",
+        "alias": "【未来の主人公？】",
+        "attribute": "1",
+        "LessonSkill": "2010063",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "888",
+            "maxvoice": "2904",
+            "mintechnic": "859",
+            "maxtechnic": "2804",
+            "minmental": "665",
+            "maxmental": "2177",
+            "mincharisma": "551",
+            "maxcharisma": "1800"
+        }
+    },
+    "3080006": {
+        "nameid": "8",
+        "alias": "【ネオリアリズム！】",
+        "attribute": "3",
+        "LessonSkill": "2010063",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "666",
+            "maxvoice": "2178",
+            "mintechnic": "550",
+            "maxtechnic": "1799",
+            "minmental": "888",
+            "maxmental": "2904",
+            "mincharisma": "859",
+            "maxcharisma": "2804"
+        }
+    },
+    "3090006": {
+        "nameid": "9",
+        "alias": "【幸せをルバートで】",
+        "attribute": "2",
+        "LessonSkill": "2010063",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "551",
+            "maxvoice": "1800",
+            "mintechnic": "888",
+            "maxtechnic": "2904",
+            "minmental": "858",
+            "maxmental": "2803",
+            "mincharisma": "666",
+            "maxcharisma": "2178"
+        }
+    },
+    "3100006": {
+        "nameid": "10",
+        "alias": "【the shine leads...】",
+        "attribute": "3",
+        "LessonSkill": "2010063",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "665",
+            "maxvoice": "2177",
+            "mintechnic": "553",
+            "maxtechnic": "1802",
+            "minmental": "888",
+            "maxmental": "2904",
+            "mincharisma": "857",
+            "maxcharisma": "2802"
+        }
+    },
+    "3110006": {
+        "nameid": "11",
+        "alias": "【ハッピーハンティング】",
+        "attribute": "4",
+        "LessonSkill": "2010063",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "856",
+            "maxvoice": "2801",
+            "mintechnic": "667",
+            "maxtechnic": "2179",
+            "minmental": "552",
+            "maxmental": "1801",
+            "mincharisma": "888",
+            "maxcharisma": "2904"
+        }
+    },
+    "3120006": {
+        "nameid": "12",
+        "alias": "【天使は肉体労働がお好き】",
+        "attribute": "3",
+        "LessonSkill": "2010063",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "668",
+            "maxvoice": "2180",
+            "mintechnic": "550",
+            "maxtechnic": "1799",
+            "minmental": "888",
+            "maxmental": "2904",
+            "mincharisma": "857",
+            "maxcharisma": "2802"
+        }
+    },
+    "3130006": {
+        "nameid": "13",
+        "alias": "【客星のきざし】",
+        "attribute": "1",
+        "LessonSkill": "2010063",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "888",
+            "maxvoice": "2904",
+            "mintechnic": "857",
+            "maxtechnic": "2802",
+            "minmental": "665",
+            "maxmental": "2177",
+            "mincharisma": "553",
+            "maxcharisma": "1802"
+        }
+    },
+    "3140006": {
+        "nameid": "14",
+        "alias": "【獣の操者】",
+        "attribute": "1",
+        "LessonSkill": "2010063",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "888",
+            "maxvoice": "2904",
+            "mintechnic": "859",
+            "maxtechnic": "2804",
+            "minmental": "666",
+            "maxmental": "2178",
+            "mincharisma": "550",
+            "maxcharisma": "1799"
+        }
+    },
+    "3150006": {
+        "nameid": "15",
+        "alias": "【しあわせのかたち】",
+        "attribute": "2",
+        "LessonSkill": "2010063",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "553",
+            "maxvoice": "1802",
+            "mintechnic": "888",
+            "maxtechnic": "2904",
+            "minmental": "857",
+            "maxmental": "2802",
+            "mincharisma": "665",
+            "maxcharisma": "2177"
+        }
+    },
+    "3160006": {
+        "nameid": "16",
+        "alias": "【ダーク・ルーム】",
+        "attribute": "3",
+        "LessonSkill": "2010063",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "665",
+            "maxvoice": "2177",
+            "mintechnic": "552",
+            "maxtechnic": "1801",
+            "minmental": "888",
+            "maxmental": "2904",
+            "mincharisma": "858",
+            "maxcharisma": "2803"
+        }
+    },
+    "4050007": {
+        "nameid": "5",
+        "alias": "【三兵衛、秋の感謝フェア】",
+        "attribute": "4",
+        "LessonSkill": "2010034",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "784",
+            "maxvoice": "2609",
+            "mintechnic": "692",
+            "maxtechnic": "2309",
+            "minmental": "792",
+            "maxmental": "2640",
+            "mincharisma": "990",
+            "maxcharisma": "3300"
+        }
+    },
+    "4090007": {
+        "nameid": "9",
+        "alias": "【ゆっくり消える虹を見て】",
+        "attribute": "1",
+        "LessonSkill": "2010094",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "955",
+            "maxvoice": "3185",
+            "mintechnic": "944",
+            "maxtechnic": "3152",
+            "minmental": "784",
+            "maxmental": "2609",
+            "mincharisma": "669",
+            "maxcharisma": "2230"
+        }
+    },
+    "3110007": {
+        "nameid": "11",
+        "alias": "【古書ツナグ古都、photo】",
+        "attribute": "1",
+        "LessonSkill": "2010063",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "888",
+            "maxvoice": "2904",
+            "mintechnic": "857",
+            "maxtechnic": "2802",
+            "minmental": "551",
+            "maxmental": "1800",
+            "mincharisma": "667",
+            "maxcharisma": "2179"
+        }
+    },
+    "4040007": {
+        "nameid": "4",
+        "alias": "【フラワートレック】",
+        "attribute": "4",
+        "LessonSkill": "2010074",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "578",
+            "maxvoice": "1960",
+            "mintechnic": "720",
+            "maxtechnic": "2448",
+            "minmental": "652",
+            "maxmental": "2221",
+            "mincharisma": "900",
+            "maxcharisma": "3060"
+        }
+    },
+    "3010007": {
+        "nameid": "1",
+        "alias": "【秋晴れ乙女】",
+        "attribute": "2",
+        "LessonSkill": "2010033",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "647",
+            "maxvoice": "2110",
+            "mintechnic": "840",
+            "maxtechnic": "2740",
+            "minmental": "604",
+            "maxmental": "1972",
+            "mincharisma": "498",
+            "maxcharisma": "1619"
+        }
+    },
+    "4020007": {
+        "nameid": "2",
+        "alias": "【シタマチ・ファミリア】",
+        "attribute": "2",
+        "LessonSkill": "2010064",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "670",
+            "maxvoice": "2231",
+            "mintechnic": "955",
+            "maxtechnic": "3185",
+            "minmental": "946",
+            "maxmental": "3154",
+            "mincharisma": "781",
+            "maxcharisma": "2606"
+        }
+    },
+    "4160007": {
+        "nameid": "16",
+        "alias": "【ヴィジョン・キツネ】",
+        "attribute": "4",
+        "LessonSkill": "2010041",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "263",
+            "maxvoice": "2639",
+            "mintechnic": "264",
+            "maxtechnic": "2640",
+            "minmental": "167",
+            "maxmental": "1652",
+            "mincharisma": "330",
+            "maxcharisma": "3300"
+        }
+    },
+    "3150007": {
+        "nameid": "15",
+        "alias": "【エイジ・オブ・ディスカバリー】",
+        "attribute": "3",
+        "LessonSkill": "2010041",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "167",
+            "maxvoice": "1487",
+            "mintechnic": "121",
+            "maxtechnic": "1089",
+            "minmental": "308",
+            "maxmental": "2782",
+            "mincharisma": "204",
+            "maxcharisma": "1847"
+        }
+    },
+    "4130007": {
+        "nameid": "13",
+        "alias": "【Reach For the World!】",
+        "attribute": "4",
+        "LessonSkill": "2010041",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "232",
+            "maxvoice": "2311",
+            "mintechnic": "166",
+            "maxtechnic": "1651",
+            "minmental": "309",
+            "maxmental": "3101",
+            "mincharisma": "317",
+            "maxcharisma": "3168"
+        }
+    },
+    "3140007": {
+        "nameid": "14",
+        "alias": "【君、死にたもうことなかれ】",
+        "attribute": "4",
+        "LessonSkill": "2010041",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "205",
+            "maxvoice": "1848",
+            "mintechnic": "166",
+            "maxtechnic": "1486",
+            "minmental": "121",
+            "maxmental": "1089",
+            "mincharisma": "308",
+            "maxcharisma": "2782"
+        }
+    },
+    "4100007": {
+        "nameid": "10",
+        "alias": "【In Other Words】",
+        "attribute": "3",
+        "LessonSkill": "2010041",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "166",
+            "maxvoice": "1651",
+            "mintechnic": "309",
+            "maxtechnic": "3101",
+            "minmental": "317",
+            "maxmental": "3168",
+            "mincharisma": "232",
+            "maxcharisma": "2311"
+        }
+    },
+    "4140008": {
+        "nameid": "14",
+        "alias": "【未確定】",
+        "attribute": "4",
+        "LessonSkill": "2010041",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "165",
+            "maxvoice": "1650",
+            "mintechnic": "311",
+            "maxtechnic": "3103",
+            "minmental": "231",
+            "maxmental": "2310",
+            "mincharisma": "317",
+            "maxcharisma": "3168"
+        }
+    },
+    "3130008": {
+        "nameid": "13",
+        "alias": "【未確定】",
+        "attribute": "1",
+        "LessonSkill": "2010041",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "296",
+            "maxvoice": "2607",
+            "mintechnic": "285",
+            "maxtechnic": "2508",
+            "minmental": "168",
+            "maxmental": "1484",
+            "mincharisma": "144",
+            "maxcharisma": "1256"
+        }
+    },
+    "4070007": {
+        "nameid": "7",
+        "alias": "【未確定】",
+        "attribute": "2",
+        "LessonSkill": "2010041",
+        "rarity": "4",
+        "stat": {
+            "minvoice": "265",
+            "maxvoice": "2641",
+            "mintechnic": "330",
+            "maxtechnic": "3300",
+            "minmental": "164",
+            "maxmental": "1649",
+            "mincharisma": "265",
+            "maxcharisma": "2641"
+        }
+    },
+    "3050008": {
+        "nameid": "5",
+        "alias": "【未確定】",
+        "attribute": "4",
+        "LessonSkill": "2010041",
+        "rarity": "3",
+        "stat": {
+            "minvoice": "287",
+            "maxvoice": "2510",
+            "mintechnic": "168",
+            "maxtechnic": "1484",
+            "minmental": "142",
+            "maxmental": "1254",
+            "mincharisma": "296",
+            "maxcharisma": "2607"
+        }
+    }
+}

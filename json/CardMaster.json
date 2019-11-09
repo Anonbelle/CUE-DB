@@ -1,0 +1,4378 @@
+[
+	{
+		"id": 1010001,
+		"heroineId": 1,
+		"alias": "0",
+		"rarity": 1,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 716,
+			"technic": 458,
+			"mental": 357,
+			"charisma": 518
+		},
+		"finalParameter": {
+			"voice": 2316,
+			"technic": 1482,
+			"mental": 1157,
+			"charisma": 1670
+		},
+		"lessonSkillId": 2010041,
+		"recordingSkillIdList": [
+			11010001,
+			4010001,
+			3010026,
+			3010057,
+			3010085
+		],
+		"stepId": 1101,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3001
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 1020001,
+		"heroineId": 2,
+		"alias": "0",
+		"rarity": 1,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 716,
+			"technic": 360,
+			"mental": 516,
+			"charisma": 457
+		},
+		"finalParameter": {
+			"voice": 2316,
+			"technic": 1160,
+			"mental": 1668,
+			"charisma": 1481
+		},
+		"lessonSkillId": 2010041,
+		"recordingSkillIdList": [
+			11020001,
+			4010001,
+			3010001,
+			3010057,
+			3010067
+		],
+		"stepId": 1101,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3002
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 1030001,
+		"heroineId": 3,
+		"alias": "0",
+		"rarity": 1,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 716,
+			"technic": 358,
+			"mental": 517,
+			"charisma": 458
+		},
+		"finalParameter": {
+			"voice": 2316,
+			"technic": 1158,
+			"mental": 1669,
+			"charisma": 1482
+		},
+		"lessonSkillId": 2010041,
+		"recordingSkillIdList": [
+			11030001,
+			4010001,
+			3010001,
+			3010057,
+			3010067
+		],
+		"stepId": 1101,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3003
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 1040001,
+		"heroineId": 4,
+		"alias": "0",
+		"rarity": 1,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 716,
+			"technic": 517,
+			"mental": 457,
+			"charisma": 359
+		},
+		"finalParameter": {
+			"voice": 2316,
+			"technic": 1669,
+			"mental": 1481,
+			"charisma": 1159
+		},
+		"lessonSkillId": 2010041,
+		"recordingSkillIdList": [
+			11040001,
+			4010001,
+			3010001,
+			3010057,
+			3010026
+		],
+		"stepId": 1101,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3004
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 1050001,
+		"heroineId": 5,
+		"alias": "0",
+		"rarity": 1,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 517,
+			"technic": 716,
+			"mental": 458,
+			"charisma": 358
+		},
+		"finalParameter": {
+			"voice": 1669,
+			"technic": 2316,
+			"mental": 1482,
+			"charisma": 1158
+		},
+		"lessonSkillId": 2010041,
+		"recordingSkillIdList": [
+			11050001,
+			4010001,
+			3010004,
+			3010057,
+			3010067
+		],
+		"stepId": 1201,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3005
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 1060001,
+		"heroineId": 6,
+		"alias": "0",
+		"rarity": 1,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 458,
+			"technic": 716,
+			"mental": 360,
+			"charisma": 515
+		},
+		"finalParameter": {
+			"voice": 1482,
+			"technic": 2316,
+			"mental": 1160,
+			"charisma": 1667
+		},
+		"lessonSkillId": 2010041,
+		"recordingSkillIdList": [
+			11060001,
+			4010001,
+			3010030,
+			3010057,
+			3010085
+		],
+		"stepId": 1201,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3006
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 1070001,
+		"heroineId": 7,
+		"alias": "0",
+		"rarity": 1,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 359,
+			"technic": 716,
+			"mental": 515,
+			"charisma": 459
+		},
+		"finalParameter": {
+			"voice": 1159,
+			"technic": 2316,
+			"mental": 1667,
+			"charisma": 1483
+		},
+		"lessonSkillId": 2010041,
+		"recordingSkillIdList": [
+			11070001,
+			4010001,
+			3010030,
+			3010057,
+			3010085
+		],
+		"stepId": 1201,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3007
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 1080001,
+		"heroineId": 8,
+		"alias": "0",
+		"rarity": 1,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 358,
+			"technic": 716,
+			"mental": 516,
+			"charisma": 459
+		},
+		"finalParameter": {
+			"voice": 1158,
+			"technic": 2316,
+			"mental": 1668,
+			"charisma": 1483
+		},
+		"lessonSkillId": 2010041,
+		"recordingSkillIdList": [
+			11080001,
+			4010001,
+			3010004,
+			3010057,
+			3010030
+		],
+		"stepId": 1201,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3008
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 1090001,
+		"heroineId": 9,
+		"alias": "0",
+		"rarity": 1,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 359,
+			"technic": 515,
+			"mental": 716,
+			"charisma": 459
+		},
+		"finalParameter": {
+			"voice": 1159,
+			"technic": 1667,
+			"mental": 2316,
+			"charisma": 1483
+		},
+		"lessonSkillId": 2010041,
+		"recordingSkillIdList": [
+			11090001,
+			4010001,
+			3010034,
+			3010057,
+			3010085
+		],
+		"stepId": 1301,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3009
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 1100001,
+		"heroineId": 10,
+		"alias": "0",
+		"rarity": 1,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 515,
+			"technic": 460,
+			"mental": 716,
+			"charisma": 358
+		},
+		"finalParameter": {
+			"voice": 1667,
+			"technic": 1484,
+			"mental": 2316,
+			"charisma": 1158
+		},
+		"lessonSkillId": 2010041,
+		"recordingSkillIdList": [
+			11100001,
+			4010001,
+			3010007,
+			3010057,
+			3010067
+		],
+		"stepId": 1301,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3010
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 1110001,
+		"heroineId": 11,
+		"alias": "0",
+		"rarity": 1,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 457,
+			"technic": 516,
+			"mental": 716,
+			"charisma": 360
+		},
+		"finalParameter": {
+			"voice": 1481,
+			"technic": 1668,
+			"mental": 2316,
+			"charisma": 1160
+		},
+		"lessonSkillId": 2010041,
+		"recordingSkillIdList": [
+			11110001,
+			4010001,
+			3010007,
+			3010057,
+			3010067
+		],
+		"stepId": 1301,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3011
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 1120001,
+		"heroineId": 12,
+		"alias": "0",
+		"rarity": 1,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 460,
+			"technic": 357,
+			"mental": 716,
+			"charisma": 516
+		},
+		"finalParameter": {
+			"voice": 1484,
+			"technic": 1157,
+			"mental": 2316,
+			"charisma": 1668
+		},
+		"lessonSkillId": 2010041,
+		"recordingSkillIdList": [
+			11120001,
+			4010001,
+			3010007,
+			3010057,
+			3010034
+		],
+		"stepId": 1301,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3012
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 1130001,
+		"heroineId": 13,
+		"alias": "0",
+		"rarity": 1,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 459,
+			"technic": 359,
+			"mental": 515,
+			"charisma": 716
+		},
+		"finalParameter": {
+			"voice": 1483,
+			"technic": 1159,
+			"mental": 1667,
+			"charisma": 2316
+		},
+		"lessonSkillId": 2010041,
+		"recordingSkillIdList": [
+			11130001,
+			4010001,
+			3010011,
+			3010057,
+			3010067
+		],
+		"stepId": 1401,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3013
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 1140001,
+		"heroineId": 14,
+		"alias": "0",
+		"rarity": 1,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 358,
+			"technic": 517,
+			"mental": 458,
+			"charisma": 716
+		},
+		"finalParameter": {
+			"voice": 1158,
+			"technic": 1669,
+			"mental": 1482,
+			"charisma": 2316
+		},
+		"lessonSkillId": 2010041,
+		"recordingSkillIdList": [
+			11140001,
+			4010001,
+			3010037,
+			3010057,
+			3010085
+		],
+		"stepId": 1401,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3014
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 1150001,
+		"heroineId": 15,
+		"alias": "0",
+		"rarity": 1,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 359,
+			"technic": 516,
+			"mental": 458,
+			"charisma": 716
+		},
+		"finalParameter": {
+			"voice": 1159,
+			"technic": 1668,
+			"mental": 1482,
+			"charisma": 2316
+		},
+		"lessonSkillId": 2010041,
+		"recordingSkillIdList": [
+			11150001,
+			4010001,
+			3010011,
+			3010057,
+			3010037
+		],
+		"stepId": 1401,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3015
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 1160001,
+		"heroineId": 16,
+		"alias": "0",
+		"rarity": 1,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 515,
+			"technic": 458,
+			"mental": 360,
+			"charisma": 716
+		},
+		"finalParameter": {
+			"voice": 1667,
+			"technic": 1482,
+			"mental": 1160,
+			"charisma": 2316
+		},
+		"lessonSkillId": 2010041,
+		"recordingSkillIdList": [
+			11160001,
+			4010001,
+			3010037,
+			3010057,
+			3010085
+		],
+		"stepId": 1401,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3016
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 2010002,
+		"heroineId": 1,
+		"alias": "【声優のタマゴ】",
+		"rarity": 2,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 459,
+			"technic": 820,
+			"mental": 630,
+			"charisma": 592
+		},
+		"finalParameter": {
+			"voice": 1478,
+			"technic": 2640,
+			"mental": 2032,
+			"charisma": 1903
+		},
+		"lessonSkillId": 2010052,
+		"recordingSkillIdList": [
+			12010002,
+			4010002,
+			3010031,
+			3010058,
+			3010046
+		],
+		"stepId": 2201,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3001
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 2020002,
+		"heroineId": 2,
+		"alias": "【声優のタマゴ】",
+		"rarity": 2,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 590,
+			"technic": 461,
+			"mental": 820,
+			"charisma": 630
+		},
+		"finalParameter": {
+			"voice": 1901,
+			"technic": 1480,
+			"mental": 2640,
+			"charisma": 2032
+		},
+		"lessonSkillId": 2010052,
+		"recordingSkillIdList": [
+			12020002,
+			4010002,
+			3010008,
+			3010058,
+			3010066
+		],
+		"stepId": 2301,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3002
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 2030002,
+		"heroineId": 3,
+		"alias": "【声優のタマゴ】",
+		"rarity": 2,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 589,
+			"technic": 460,
+			"mental": 820,
+			"charisma": 632
+		},
+		"finalParameter": {
+			"voice": 1900,
+			"technic": 1479,
+			"mental": 2640,
+			"charisma": 2034
+		},
+		"lessonSkillId": 2010052,
+		"recordingSkillIdList": [
+			12030002,
+			4010002,
+			3010008,
+			3010058,
+			3010066
+		],
+		"stepId": 2301,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3003
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 2040002,
+		"heroineId": 4,
+		"alias": "【声優のタマゴ】",
+		"rarity": 2,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 820,
+			"technic": 632,
+			"mental": 589,
+			"charisma": 460
+		},
+		"finalParameter": {
+			"voice": 2640,
+			"technic": 2034,
+			"mental": 1900,
+			"charisma": 1479
+		},
+		"lessonSkillId": 2010052,
+		"recordingSkillIdList": [
+			12040002,
+			4010002,
+			3010027,
+			3010058,
+			3010086
+		],
+		"stepId": 2101,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3004
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 2050002,
+		"heroineId": 5,
+		"alias": "【声優のタマゴ】",
+		"rarity": 2,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 592,
+			"technic": 458,
+			"mental": 820,
+			"charisma": 631
+		},
+		"finalParameter": {
+			"voice": 1903,
+			"technic": 1477,
+			"mental": 2640,
+			"charisma": 2033
+		},
+		"lessonSkillId": 2010052,
+		"recordingSkillIdList": [
+			12050002,
+			4010002,
+			3010008,
+			3010058,
+			3010066
+		],
+		"stepId": 2301,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3005
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 2060002,
+		"heroineId": 6,
+		"alias": "【声優のタマゴ】",
+		"rarity": 2,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 820,
+			"technic": 631,
+			"mental": 592,
+			"charisma": 458
+		},
+		"finalParameter": {
+			"voice": 2640,
+			"technic": 2033,
+			"mental": 1903,
+			"charisma": 1477
+		},
+		"lessonSkillId": 2010052,
+		"recordingSkillIdList": [
+			12060002,
+			4010002,
+			3010027,
+			3010058,
+			3010044
+		],
+		"stepId": 2101,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3006
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 2070002,
+		"heroineId": 7,
+		"alias": "【声優のタマゴ】",
+		"rarity": 2,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 460,
+			"technic": 820,
+			"mental": 630,
+			"charisma": 591
+		},
+		"finalParameter": {
+			"voice": 1479,
+			"technic": 2640,
+			"mental": 2032,
+			"charisma": 1902
+		},
+		"lessonSkillId": 2010052,
+		"recordingSkillIdList": [
+			12070002,
+			4010002,
+			3010031,
+			3010058,
+			3010046
+		],
+		"stepId": 2201,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3007
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 2080002,
+		"heroineId": 8,
+		"alias": "【声優のタマゴ】",
+		"rarity": 2,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 459,
+			"technic": 820,
+			"mental": 631,
+			"charisma": 591
+		},
+		"finalParameter": {
+			"voice": 1478,
+			"technic": 2640,
+			"mental": 2033,
+			"charisma": 1902
+		},
+		"lessonSkillId": 2010052,
+		"recordingSkillIdList": [
+			12080002,
+			4010002,
+			3010031,
+			3010058,
+			3010086
+		],
+		"stepId": 2201,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3008
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 2090002,
+		"heroineId": 9,
+		"alias": "【声優のタマゴ】",
+		"rarity": 2,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 631,
+			"technic": 589,
+			"mental": 461,
+			"charisma": 820
+		},
+		"finalParameter": {
+			"voice": 2033,
+			"technic": 1900,
+			"mental": 1480,
+			"charisma": 2640
+		},
+		"lessonSkillId": 2010052,
+		"recordingSkillIdList": [
+			12090002,
+			4010002,
+			3010038,
+			3010058,
+			3010049
+		],
+		"stepId": 2401,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3009
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 2100002,
+		"heroineId": 10,
+		"alias": "【声優のタマゴ】",
+		"rarity": 2,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 458,
+			"technic": 820,
+			"mental": 632,
+			"charisma": 591
+		},
+		"finalParameter": {
+			"voice": 1477,
+			"technic": 2640,
+			"mental": 2034,
+			"charisma": 1902
+		},
+		"lessonSkillId": 2010052,
+		"recordingSkillIdList": [
+			12100002,
+			4010002,
+			3010005,
+			3010058,
+			3010065
+		],
+		"stepId": 2201,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3010
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 2110002,
+		"heroineId": 11,
+		"alias": "【声優のタマゴ】",
+		"rarity": 2,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 820,
+			"technic": 631,
+			"mental": 590,
+			"charisma": 460
+		},
+		"finalParameter": {
+			"voice": 2640,
+			"technic": 2033,
+			"mental": 1901,
+			"charisma": 1479
+		},
+		"lessonSkillId": 2010052,
+		"recordingSkillIdList": [
+			12110002,
+			4010002,
+			3010002,
+			3010058,
+			3010062
+		],
+		"stepId": 2101,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3011
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 2120002,
+		"heroineId": 12,
+		"alias": "【声優のタマゴ】",
+		"rarity": 2,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 820,
+			"technic": 630,
+			"mental": 591,
+			"charisma": 460
+		},
+		"finalParameter": {
+			"voice": 2640,
+			"technic": 2032,
+			"mental": 1902,
+			"charisma": 1479
+		},
+		"lessonSkillId": 2010052,
+		"recordingSkillIdList": [
+			12120002,
+			4010002,
+			3010027,
+			3010058,
+			3010086
+		],
+		"stepId": 2101,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3012
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 2130002,
+		"heroineId": 13,
+		"alias": "【声優のタマゴ】",
+		"rarity": 2,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 632,
+			"technic": 591,
+			"mental": 458,
+			"charisma": 820
+		},
+		"finalParameter": {
+			"voice": 2034,
+			"technic": 1902,
+			"mental": 1477,
+			"charisma": 2640
+		},
+		"lessonSkillId": 2010052,
+		"recordingSkillIdList": [
+			12130002,
+			4010002,
+			3010012,
+			3010058,
+			3010063
+		],
+		"stepId": 2401,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3013
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 2140002,
+		"heroineId": 14,
+		"alias": "【声優のタマゴ】",
+		"rarity": 2,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 590,
+			"technic": 461,
+			"mental": 820,
+			"charisma": 630
+		},
+		"finalParameter": {
+			"voice": 1901,
+			"technic": 1480,
+			"mental": 2640,
+			"charisma": 2032
+		},
+		"lessonSkillId": 2010052,
+		"recordingSkillIdList": [
+			12140002,
+			4010002,
+			3010076,
+			3010058,
+			3010048
+		],
+		"stepId": 2301,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3014
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 2150002,
+		"heroineId": 15,
+		"alias": "【声優のタマゴ】",
+		"rarity": 2,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 632,
+			"technic": 590,
+			"mental": 459,
+			"charisma": 820
+		},
+		"finalParameter": {
+			"voice": 2034,
+			"technic": 1901,
+			"mental": 1478,
+			"charisma": 2640
+		},
+		"lessonSkillId": 2010052,
+		"recordingSkillIdList": [
+			12150002,
+			4010002,
+			3010038,
+			3010058,
+			3010086
+		],
+		"stepId": 2401,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3015
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 2160002,
+		"heroineId": 16,
+		"alias": "【声優のタマゴ】",
+		"rarity": 2,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 458,
+			"technic": 820,
+			"mental": 633,
+			"charisma": 590
+		},
+		"finalParameter": {
+			"voice": 1477,
+			"technic": 2640,
+			"mental": 2035,
+			"charisma": 1901
+		},
+		"lessonSkillId": 2010052,
+		"recordingSkillIdList": [
+			12160002,
+			4010002,
+			3010031,
+			3010058,
+			3010046
+		],
+		"stepId": 2201,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3016
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 2010003,
+		"heroineId": 1,
+		"alias": "【空を見上げて】",
+		"rarity": 2,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 632,
+			"technic": 591,
+			"mental": 458,
+			"charisma": 820
+		},
+		"finalParameter": {
+			"voice": 2034,
+			"technic": 1902,
+			"mental": 1477,
+			"charisma": 2640
+		},
+		"lessonSkillId": 2010042,
+		"recordingSkillIdList": [
+			12010003,
+			4010005,
+			3010038,
+			3010058,
+			3010049
+		],
+		"stepId": 2401,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3001
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			2,
+			2
+		]
+	},
+	{
+		"id": 2020003,
+		"heroineId": 2,
+		"alias": "【空を見上げて】",
+		"rarity": 2,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 820,
+			"technic": 633,
+			"mental": 590,
+			"charisma": 458
+		},
+		"finalParameter": {
+			"voice": 2640,
+			"technic": 2035,
+			"mental": 1901,
+			"charisma": 1477
+		},
+		"lessonSkillId": 2010042,
+		"recordingSkillIdList": [
+			12020003,
+			4010005,
+			3010002,
+			3010058,
+			3010062
+		],
+		"stepId": 2101,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3002
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			2,
+			2
+		]
+	},
+	{
+		"id": 2030003,
+		"heroineId": 3,
+		"alias": "【空を見上げて】",
+		"rarity": 2,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 458,
+			"technic": 820,
+			"mental": 633,
+			"charisma": 590
+		},
+		"finalParameter": {
+			"voice": 1477,
+			"technic": 2640,
+			"mental": 2035,
+			"charisma": 1901
+		},
+		"lessonSkillId": 2010042,
+		"recordingSkillIdList": [
+			12030003,
+			4010005,
+			3010005,
+			3010058,
+			3010065
+		],
+		"stepId": 2201,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3003
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			2,
+			2
+		]
+	},
+	{
+		"id": 2040003,
+		"heroineId": 4,
+		"alias": "【空を見上げて】",
+		"rarity": 2,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 633,
+			"technic": 590,
+			"mental": 458,
+			"charisma": 820
+		},
+		"finalParameter": {
+			"voice": 2035,
+			"technic": 1901,
+			"mental": 1477,
+			"charisma": 2640
+		},
+		"lessonSkillId": 2010042,
+		"recordingSkillIdList": [
+			12040003,
+			4010005,
+			3010038,
+			3010058,
+			3010086
+		],
+		"stepId": 2401,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3004
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			2,
+			2
+		]
+	},
+	{
+		"id": 2050003,
+		"heroineId": 5,
+		"alias": "【空を見上げて】",
+		"rarity": 2,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 820,
+			"technic": 630,
+			"mental": 591,
+			"charisma": 460
+		},
+		"finalParameter": {
+			"voice": 2640,
+			"technic": 2032,
+			"mental": 1902,
+			"charisma": 1479
+		},
+		"lessonSkillId": 2010042,
+		"recordingSkillIdList": [
+			12050003,
+			4010007,
+			3010002,
+			3010058,
+			3010062
+		],
+		"stepId": 2101,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3005
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			2,
+			2
+		]
+	},
+	{
+		"id": 2060003,
+		"heroineId": 6,
+		"alias": "【空を見上げて】",
+		"rarity": 2,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 591,
+			"technic": 460,
+			"mental": 820,
+			"charisma": 630
+		},
+		"finalParameter": {
+			"voice": 1902,
+			"technic": 1479,
+			"mental": 2640,
+			"charisma": 2032
+		},
+		"lessonSkillId": 2010042,
+		"recordingSkillIdList": [
+			12060003,
+			4010007,
+			3010076,
+			3010058,
+			3010048
+		],
+		"stepId": 2301,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3006
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			2,
+			2
+		]
+	},
+	{
+		"id": 2070003,
+		"heroineId": 7,
+		"alias": "【空を見上げて】",
+		"rarity": 2,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 631,
+			"technic": 592,
+			"mental": 458,
+			"charisma": 820
+		},
+		"finalParameter": {
+			"voice": 2033,
+			"technic": 1903,
+			"mental": 1477,
+			"charisma": 2640
+		},
+		"lessonSkillId": 2010042,
+		"recordingSkillIdList": [
+			12070003,
+			4010007,
+			3010038,
+			3010058,
+			3010049
+		],
+		"stepId": 2401,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3007
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			2,
+			2
+		]
+	},
+	{
+		"id": 2080003,
+		"heroineId": 8,
+		"alias": "【空を見上げて】",
+		"rarity": 2,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 632,
+			"technic": 589,
+			"mental": 460,
+			"charisma": 820
+		},
+		"finalParameter": {
+			"voice": 2034,
+			"technic": 1900,
+			"mental": 1479,
+			"charisma": 2640
+		},
+		"lessonSkillId": 2010042,
+		"recordingSkillIdList": [
+			12080003,
+			4010007,
+			3010038,
+			3010058,
+			3010086
+		],
+		"stepId": 2401,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3008
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			2,
+			2
+		]
+	},
+	{
+		"id": 2090003,
+		"heroineId": 9,
+		"alias": "【空を見上げて】",
+		"rarity": 2,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 591,
+			"technic": 458,
+			"mental": 820,
+			"charisma": 632
+		},
+		"finalParameter": {
+			"voice": 1902,
+			"technic": 1477,
+			"mental": 2640,
+			"charisma": 2034
+		},
+		"lessonSkillId": 2010042,
+		"recordingSkillIdList": [
+			12090003,
+			4010009,
+			3010076,
+			3010058,
+			3010048
+		],
+		"stepId": 2301,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3009
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			2,
+			2
+		]
+	},
+	{
+		"id": 2100003,
+		"heroineId": 10,
+		"alias": "【空を見上げて】",
+		"rarity": 2,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 630,
+			"technic": 592,
+			"mental": 459,
+			"charisma": 820
+		},
+		"finalParameter": {
+			"voice": 2032,
+			"technic": 1903,
+			"mental": 1478,
+			"charisma": 2640
+		},
+		"lessonSkillId": 2010042,
+		"recordingSkillIdList": [
+			12100003,
+			4010009,
+			3010012,
+			3010058,
+			3010063
+		],
+		"stepId": 2401,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3010
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			2,
+			2
+		]
+	},
+	{
+		"id": 2110003,
+		"heroineId": 11,
+		"alias": "【空を見上げて】",
+		"rarity": 2,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 589,
+			"technic": 459,
+			"mental": 820,
+			"charisma": 633
+		},
+		"finalParameter": {
+			"voice": 1900,
+			"technic": 1478,
+			"mental": 2640,
+			"charisma": 2035
+		},
+		"lessonSkillId": 2010042,
+		"recordingSkillIdList": [
+			12110003,
+			4010009,
+			3010008,
+			3010058,
+			3010066
+		],
+		"stepId": 2301,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3011
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			2,
+			2
+		]
+	},
+	{
+		"id": 2120003,
+		"heroineId": 12,
+		"alias": "【空を見上げて】",
+		"rarity": 2,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 460,
+			"technic": 820,
+			"mental": 631,
+			"charisma": 590
+		},
+		"finalParameter": {
+			"voice": 1479,
+			"technic": 2640,
+			"mental": 2033,
+			"charisma": 1901
+		},
+		"lessonSkillId": 2010042,
+		"recordingSkillIdList": [
+			12120003,
+			4010009,
+			3010031,
+			3010058,
+			3010086
+		],
+		"stepId": 2201,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3012
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			2,
+			2
+		]
+	},
+	{
+		"id": 2130003,
+		"heroineId": 13,
+		"alias": "【空を見上げて】",
+		"rarity": 2,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 590,
+			"technic": 459,
+			"mental": 820,
+			"charisma": 632
+		},
+		"finalParameter": {
+			"voice": 1901,
+			"technic": 1478,
+			"mental": 2640,
+			"charisma": 2034
+		},
+		"lessonSkillId": 2010042,
+		"recordingSkillIdList": [
+			12130003,
+			4010011,
+			3010008,
+			3010058,
+			3010066
+		],
+		"stepId": 2301,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3013
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			2,
+			2
+		]
+	},
+	{
+		"id": 2140003,
+		"heroineId": 14,
+		"alias": "【空を見上げて】",
+		"rarity": 2,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 460,
+			"technic": 820,
+			"mental": 632,
+			"charisma": 589
+		},
+		"finalParameter": {
+			"voice": 1479,
+			"technic": 2640,
+			"mental": 2034,
+			"charisma": 1900
+		},
+		"lessonSkillId": 2010042,
+		"recordingSkillIdList": [
+			12140003,
+			4010011,
+			3010031,
+			3010058,
+			3010046
+		],
+		"stepId": 2201,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3014
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			2,
+			2
+		]
+	},
+	{
+		"id": 2150003,
+		"heroineId": 15,
+		"alias": "【空を見上げて】",
+		"rarity": 2,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 820,
+			"technic": 632,
+			"mental": 591,
+			"charisma": 458
+		},
+		"finalParameter": {
+			"voice": 2640,
+			"technic": 2034,
+			"mental": 1902,
+			"charisma": 1477
+		},
+		"lessonSkillId": 2010042,
+		"recordingSkillIdList": [
+			12150003,
+			4010011,
+			3010027,
+			3010058,
+			3010086
+		],
+		"stepId": 2101,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3015
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			2,
+			2
+		]
+	},
+	{
+		"id": 2160003,
+		"heroineId": 16,
+		"alias": "【空を見上げて】",
+		"rarity": 2,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 820,
+			"technic": 631,
+			"mental": 591,
+			"charisma": 459
+		},
+		"finalParameter": {
+			"voice": 2640,
+			"technic": 2033,
+			"mental": 1902,
+			"charisma": 1478
+		},
+		"lessonSkillId": 2010042,
+		"recordingSkillIdList": [
+			12160003,
+			4010011,
+			3010027,
+			3010058,
+			3010044
+		],
+		"stepId": 2101,
+		"initialProperIdList": [],
+		"addtionalProperIdList": [
+			3016
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			2,
+			2
+		]
+	},
+	{
+		"id": 3010004,
+		"heroineId": 1,
+		"alias": "【ステップ・バイ・ステップ】",
+		"rarity": 3,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 527,
+			"technic": 499,
+			"mental": 924,
+			"charisma": 555
+		},
+		"finalParameter": {
+			"voice": 1784,
+			"technic": 1690,
+			"mental": 3130,
+			"charisma": 1879
+		},
+		"lessonSkillId": 2010033,
+		"recordingSkillIdList": [
+			13010004,
+			4010003,
+			3010009,
+			3010059,
+			3010068
+		],
+		"stepId": 3301,
+		"initialProperIdList": [
+			3001
+		],
+		"addtionalProperIdList": [
+			2001,
+			1001
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3020004,
+		"heroineId": 2,
+		"alias": "【カミズ・ホリデイ】",
+		"rarity": 3,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 500,
+			"technic": 924,
+			"mental": 555,
+			"charisma": 526
+		},
+		"finalParameter": {
+			"voice": 1691,
+			"technic": 3130,
+			"mental": 1879,
+			"charisma": 1783
+		},
+		"lessonSkillId": 2010033,
+		"recordingSkillIdList": [
+			13020004,
+			4010003,
+			3010006,
+			3010059,
+			3010018
+		],
+		"stepId": 3201,
+		"initialProperIdList": [
+			3002
+		],
+		"addtionalProperIdList": [
+			2001,
+			1002
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3030004,
+		"heroineId": 3,
+		"alias": "【僕と猫】",
+		"rarity": 3,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 924,
+			"technic": 554,
+			"mental": 528,
+			"charisma": 499
+		},
+		"finalParameter": {
+			"voice": 3130,
+			"technic": 1878,
+			"mental": 1785,
+			"charisma": 1690
+		},
+		"lessonSkillId": 2010033,
+		"recordingSkillIdList": [
+			13030004,
+			4010003,
+			3010003,
+			3010059,
+			3010017
+		],
+		"stepId": 3101,
+		"initialProperIdList": [
+			3003
+		],
+		"addtionalProperIdList": [
+			2001,
+			1005
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3040004,
+		"heroineId": 4,
+		"alias": "【チェイス！】",
+		"rarity": 3,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 528,
+			"technic": 499,
+			"mental": 924,
+			"charisma": 554
+		},
+		"finalParameter": {
+			"voice": 1785,
+			"technic": 1690,
+			"mental": 3130,
+			"charisma": 1878
+		},
+		"lessonSkillId": 2010033,
+		"recordingSkillIdList": [
+			13040004,
+			4010003,
+			3010035,
+			3010059,
+			3010087
+		],
+		"stepId": 3301,
+		"initialProperIdList": [
+			3004
+		],
+		"addtionalProperIdList": [
+			2001,
+			1006
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3050004,
+		"heroineId": 5,
+		"alias": "【永久機関オルタネーター】",
+		"rarity": 3,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 500,
+			"technic": 924,
+			"mental": 554,
+			"charisma": 527
+		},
+		"finalParameter": {
+			"voice": 1691,
+			"technic": 3130,
+			"mental": 1878,
+			"charisma": 1784
+		},
+		"lessonSkillId": 2010033,
+		"recordingSkillIdList": [
+			13050004,
+			4010003,
+			3010006,
+			3010059,
+			3010019
+		],
+		"stepId": 3201,
+		"initialProperIdList": [
+			3005
+		],
+		"addtionalProperIdList": [
+			2002,
+			1003
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3060004,
+		"heroineId": 6,
+		"alias": "【シスター・シスター】",
+		"rarity": 3,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 499,
+			"technic": 924,
+			"mental": 556,
+			"charisma": 526
+		},
+		"finalParameter": {
+			"voice": 1690,
+			"technic": 3130,
+			"mental": 1880,
+			"charisma": 1783
+		},
+		"lessonSkillId": 2010033,
+		"recordingSkillIdList": [
+			13060004,
+			4010003,
+			3010006,
+			3010059,
+			3010068
+		],
+		"stepId": 3201,
+		"initialProperIdList": [
+			3006
+		],
+		"addtionalProperIdList": [
+			2002,
+			1002
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3070004,
+		"heroineId": 7,
+		"alias": "【ひとりでできるもん！】",
+		"rarity": 3,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 527,
+			"technic": 500,
+			"mental": 924,
+			"charisma": 554
+		},
+		"finalParameter": {
+			"voice": 1784,
+			"technic": 1691,
+			"mental": 3130,
+			"charisma": 1878
+		},
+		"lessonSkillId": 2010033,
+		"recordingSkillIdList": [
+			13070004,
+			4010003,
+			3010009,
+			3010059,
+			3010020
+		],
+		"stepId": 3301,
+		"initialProperIdList": [
+			3007
+		],
+		"addtionalProperIdList": [
+			2002,
+			1004
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3080004,
+		"heroineId": 8,
+		"alias": "【楽しみの求道者】",
+		"rarity": 3,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 924,
+			"technic": 553,
+			"mental": 527,
+			"charisma": 501
+		},
+		"finalParameter": {
+			"voice": 3130,
+			"technic": 1877,
+			"mental": 1784,
+			"charisma": 1692
+		},
+		"lessonSkillId": 2010033,
+		"recordingSkillIdList": [
+			13080004,
+			4010003,
+			3010028,
+			3010059,
+			3010096
+		],
+		"stepId": 3101,
+		"initialProperIdList": [
+			3008
+		],
+		"addtionalProperIdList": [
+			2002,
+			1008
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3090004,
+		"heroineId": 9,
+		"alias": "【フェアリー・オン・ステージ】",
+		"rarity": 3,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 924,
+			"technic": 553,
+			"mental": 529,
+			"charisma": 499
+		},
+		"finalParameter": {
+			"voice": 3130,
+			"technic": 1877,
+			"mental": 1786,
+			"charisma": 1690
+		},
+		"lessonSkillId": 2010033,
+		"recordingSkillIdList": [
+			13090004,
+			4010003,
+			3010028,
+			3010059,
+			3010087
+		],
+		"stepId": 3101,
+		"initialProperIdList": [
+			3009
+		],
+		"addtionalProperIdList": [
+			2003,
+			1005
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3100004,
+		"heroineId": 10,
+		"alias": "【Don’t be a stranger.】",
+		"rarity": 3,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 924,
+			"technic": 555,
+			"mental": 527,
+			"charisma": 499
+		},
+		"finalParameter": {
+			"voice": 3130,
+			"technic": 1879,
+			"mental": 1784,
+			"charisma": 1690
+		},
+		"lessonSkillId": 2010033,
+		"recordingSkillIdList": [
+			13100004,
+			4010003,
+			3010003,
+			3010059,
+			3010068
+		],
+		"stepId": 3101,
+		"initialProperIdList": [
+			3010
+		],
+		"addtionalProperIdList": [
+			2003,
+			1004
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3110004,
+		"heroineId": 11,
+		"alias": "【dig down メモリーズ】",
+		"rarity": 3,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 498,
+			"technic": 924,
+			"mental": 554,
+			"charisma": 529
+		},
+		"finalParameter": {
+			"voice": 1689,
+			"technic": 3130,
+			"mental": 1878,
+			"charisma": 1786
+		},
+		"lessonSkillId": 2010033,
+		"recordingSkillIdList": [
+			13110004,
+			4010003,
+			3010006,
+			3010059,
+			3010068
+		],
+		"stepId": 3201,
+		"initialProperIdList": [
+			3011
+		],
+		"addtionalProperIdList": [
+			2003,
+			1003
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3120004,
+		"heroineId": 12,
+		"alias": "【幸運を抱きしめて】",
+		"rarity": 3,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 556,
+			"technic": 526,
+			"mental": 499,
+			"charisma": 924
+		},
+		"finalParameter": {
+			"voice": 1880,
+			"technic": 1783,
+			"mental": 1690,
+			"charisma": 3130
+		},
+		"lessonSkillId": 2010033,
+		"recordingSkillIdList": [
+			13120004,
+			4010003,
+			3010039,
+			3010059,
+			3010053
+		],
+		"stepId": 3401,
+		"initialProperIdList": [
+			3012
+		],
+		"addtionalProperIdList": [
+			2003,
+			1006
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3130004,
+		"heroineId": 13,
+		"alias": "【賞味期限にご注意を】",
+		"rarity": 3,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 499,
+			"technic": 924,
+			"mental": 553,
+			"charisma": 529
+		},
+		"finalParameter": {
+			"voice": 1690,
+			"technic": 3130,
+			"mental": 1877,
+			"charisma": 1786
+		},
+		"lessonSkillId": 2010033,
+		"recordingSkillIdList": [
+			13130004,
+			4010003,
+			3010032,
+			3010059,
+			3010073
+		],
+		"stepId": 3201,
+		"initialProperIdList": [
+			3013
+		],
+		"addtionalProperIdList": [
+			2004,
+			1001
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3140004,
+		"heroineId": 14,
+		"alias": "【聡里の宝物庫】",
+		"rarity": 3,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 554,
+			"technic": 528,
+			"mental": 499,
+			"charisma": 924
+		},
+		"finalParameter": {
+			"voice": 1878,
+			"technic": 1785,
+			"mental": 1690,
+			"charisma": 3130
+		},
+		"lessonSkillId": 2010033,
+		"recordingSkillIdList": [
+			13140004,
+			4010003,
+			3010091,
+			3010059,
+			3010054
+		],
+		"stepId": 3401,
+		"initialProperIdList": [
+			3014
+		],
+		"addtionalProperIdList": [
+			2004,
+			1002
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3150004,
+		"heroineId": 15,
+		"alias": "【走れ凛音】",
+		"rarity": 3,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 529,
+			"technic": 499,
+			"mental": 924,
+			"charisma": 553
+		},
+		"finalParameter": {
+			"voice": 1786,
+			"technic": 1690,
+			"mental": 3130,
+			"charisma": 1877
+		},
+		"lessonSkillId": 2010033,
+		"recordingSkillIdList": [
+			13150004,
+			4010003,
+			3010035,
+			3010059,
+			3010077
+		],
+		"stepId": 3301,
+		"initialProperIdList": [
+			3015
+		],
+		"addtionalProperIdList": [
+			2004,
+			1007
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3160004,
+		"heroineId": 16,
+		"alias": "【オブジェクト・アンディファインド】",
+		"rarity": 3,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 553,
+			"technic": 527,
+			"mental": 501,
+			"charisma": 924
+		},
+		"finalParameter": {
+			"voice": 1877,
+			"technic": 1784,
+			"mental": 1692,
+			"charisma": 3130
+		},
+		"lessonSkillId": 2010033,
+		"recordingSkillIdList": [
+			13160004,
+			4010003,
+			3010039,
+			3010059,
+			3010097
+		],
+		"stepId": 3401,
+		"initialProperIdList": [
+			3016
+		],
+		"addtionalProperIdList": [
+			2004,
+			1009
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 4010005,
+		"heroineId": 1,
+		"alias": "【Forever Friends】",
+		"rarity": 4,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 990,
+			"technic": 782,
+			"mental": 692,
+			"charisma": 794
+		},
+		"finalParameter": {
+			"voice": 3300,
+			"technic": 2607,
+			"mental": 2309,
+			"charisma": 2642
+		},
+		"lessonSkillId": 2010064,
+		"recordingSkillIdList": [
+			14010005,
+			4010004,
+			3010071,
+			3010060,
+			3010029
+		],
+		"stepId": 4101,
+		"initialProperIdList": [
+			3001
+		],
+		"addtionalProperIdList": [
+			2001,
+			1001
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			3,
+			3
+		]
+	},
+	{
+		"id": 4020005,
+		"heroineId": 2,
+		"alias": "【Forever Friends】",
+		"rarity": 4,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 990,
+			"technic": 695,
+			"mental": 782,
+			"charisma": 791
+		},
+		"finalParameter": {
+			"voice": 3300,
+			"technic": 2312,
+			"mental": 2607,
+			"charisma": 2639
+		},
+		"lessonSkillId": 2010074,
+		"recordingSkillIdList": [
+			14020005,
+			4010004,
+			3010069,
+			3010060,
+			3010016
+		],
+		"stepId": 4101,
+		"initialProperIdList": [
+			3002
+		],
+		"addtionalProperIdList": [
+			2001,
+			1002
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			3,
+			3
+		]
+	},
+	{
+		"id": 4030005,
+		"heroineId": 3,
+		"alias": "【Forever Friends】",
+		"rarity": 4,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 955,
+			"technic": 669,
+			"mental": 783,
+			"charisma": 945
+		},
+		"finalParameter": {
+			"voice": 3185,
+			"technic": 2230,
+			"mental": 2608,
+			"charisma": 3153
+		},
+		"lessonSkillId": 2010064,
+		"recordingSkillIdList": [
+			14030005,
+			4010014,
+			3010014,
+			3010060,
+			3010069
+		],
+		"stepId": 4141,
+		"initialProperIdList": [
+			3003
+		],
+		"addtionalProperIdList": [
+			2001,
+			1005
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			3,
+			3
+		]
+	},
+	{
+		"id": 4040005,
+		"heroineId": 4,
+		"alias": "【Forever Friends】",
+		"rarity": 4,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 955,
+			"technic": 783,
+			"mental": 668,
+			"charisma": 946
+		},
+		"finalParameter": {
+			"voice": 3185,
+			"technic": 2608,
+			"mental": 2229,
+			"charisma": 3154
+		},
+		"lessonSkillId": 2010034,
+		"recordingSkillIdList": [
+			14040005,
+			4010006,
+			3010029,
+			3010060,
+			3010088
+		],
+		"stepId": 4141,
+		"initialProperIdList": [
+			3004
+		],
+		"addtionalProperIdList": [
+			2001,
+			1006
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			3,
+			3
+		]
+	},
+	{
+		"id": 4050005,
+		"heroineId": 5,
+		"alias": "【Forever Friends】",
+		"rarity": 4,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 946,
+			"technic": 955,
+			"mental": 782,
+			"charisma": 669
+		},
+		"finalParameter": {
+			"voice": 3154,
+			"technic": 3185,
+			"mental": 2607,
+			"charisma": 2230
+		},
+		"lessonSkillId": 2010064,
+		"recordingSkillIdList": [
+			14050005,
+			4010004,
+			3010061,
+			3010060,
+			3010024
+		],
+		"stepId": 4211,
+		"initialProperIdList": [
+			3005
+		],
+		"addtionalProperIdList": [
+			2002,
+			1003
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			3,
+			3
+		]
+	},
+	{
+		"id": 4060005,
+		"heroineId": 6,
+		"alias": "【Forever Friends】",
+		"rarity": 4,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 792,
+			"technic": 990,
+			"mental": 784,
+			"charisma": 692
+		},
+		"finalParameter": {
+			"voice": 2640,
+			"technic": 3300,
+			"mental": 2609,
+			"charisma": 2309
+		},
+		"lessonSkillId": 2010034,
+		"recordingSkillIdList": [
+			14060005,
+			4010008,
+			3010099,
+			3010060,
+			3010074
+		],
+		"stepId": 4201,
+		"initialProperIdList": [
+			3006
+		],
+		"addtionalProperIdList": [
+			2002,
+			1002
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			3,
+			3
+		]
+	},
+	{
+		"id": 4070005,
+		"heroineId": 7,
+		"alias": "【Forever Friends】",
+		"rarity": 4,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 793,
+			"technic": 990,
+			"mental": 692,
+			"charisma": 783
+		},
+		"finalParameter": {
+			"voice": 2641,
+			"technic": 3300,
+			"mental": 2309,
+			"charisma": 2608
+		},
+		"lessonSkillId": 2010064,
+		"recordingSkillIdList": [
+			14070005,
+			4010016,
+			3010075,
+			3010060,
+			3010072
+		],
+		"stepId": 4201,
+		"initialProperIdList": [
+			3007
+		],
+		"addtionalProperIdList": [
+			2002,
+			1004
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			3,
+			3
+		]
+	},
+	{
+		"id": 4080005,
+		"heroineId": 8,
+		"alias": "【Forever Friends】",
+		"rarity": 4,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 945,
+			"technic": 955,
+			"mental": 669,
+			"charisma": 783
+		},
+		"finalParameter": {
+			"voice": 3153,
+			"technic": 3185,
+			"mental": 2230,
+			"charisma": 2608
+		},
+		"lessonSkillId": 2010084,
+		"recordingSkillIdList": [
+			14080005,
+			4010004,
+			3010075,
+			3010060,
+			3010090
+		],
+		"stepId": 4211,
+		"initialProperIdList": [
+			3008
+		],
+		"addtionalProperIdList": [
+			2002,
+			1008
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			3,
+			3
+		]
+	},
+	{
+		"id": 4090005,
+		"heroineId": 9,
+		"alias": "【Forever Friends】",
+		"rarity": 4,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 670,
+			"technic": 944,
+			"mental": 955,
+			"charisma": 783
+		},
+		"finalParameter": {
+			"voice": 2231,
+			"technic": 3152,
+			"mental": 3185,
+			"charisma": 2608
+		},
+		"lessonSkillId": 2010034,
+		"recordingSkillIdList": [
+			14090005,
+			4010004,
+			3010089,
+			3010060,
+			3010043
+		],
+		"stepId": 4321,
+		"initialProperIdList": [
+			3009
+		],
+		"addtionalProperIdList": [
+			2003,
+			1005
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			3,
+			3
+		]
+	},
+	{
+		"id": 4100005,
+		"heroineId": 10,
+		"alias": "【Forever Friends】",
+		"rarity": 4,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 781,
+			"technic": 794,
+			"mental": 990,
+			"charisma": 693
+		},
+		"finalParameter": {
+			"voice": 2606,
+			"technic": 2642,
+			"mental": 3300,
+			"charisma": 2310
+		},
+		"lessonSkillId": 2010064,
+		"recordingSkillIdList": [
+			14100005,
+			4010004,
+			3010010,
+			3010060,
+			3010069
+		],
+		"stepId": 4301,
+		"initialProperIdList": [
+			3010
+		],
+		"addtionalProperIdList": [
+			2003,
+			1004
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			3,
+			3
+		]
+	},
+	{
+		"id": 4110005,
+		"heroineId": 11,
+		"alias": "【Forever Friends】",
+		"rarity": 4,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 692,
+			"technic": 792,
+			"mental": 990,
+			"charisma": 784
+		},
+		"finalParameter": {
+			"voice": 2309,
+			"technic": 2640,
+			"mental": 3300,
+			"charisma": 2609
+		},
+		"lessonSkillId": 2010094,
+		"recordingSkillIdList": [
+			14110005,
+			4010018,
+			3010010,
+			3010060,
+			3010021
+		],
+		"stepId": 4301,
+		"initialProperIdList": [
+			3011
+		],
+		"addtionalProperIdList": [
+			2003,
+			1003
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			3,
+			3
+		]
+	},
+	{
+		"id": 4120005,
+		"heroineId": 12,
+		"alias": "【Forever Friends】",
+		"rarity": 4,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 784,
+			"technic": 791,
+			"mental": 990,
+			"charisma": 693
+		},
+		"finalParameter": {
+			"voice": 2609,
+			"technic": 2639,
+			"mental": 3300,
+			"charisma": 2310
+		},
+		"lessonSkillId": 2010064,
+		"recordingSkillIdList": [
+			14120005,
+			4010010,
+			3010036,
+			3010060,
+			3010088
+		],
+		"stepId": 4301,
+		"initialProperIdList": [
+			3012
+		],
+		"addtionalProperIdList": [
+			2003,
+			1006
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			3,
+			3
+		]
+	},
+	{
+		"id": 4130005,
+		"heroineId": 13,
+		"alias": "【Forever Friends】",
+		"rarity": 4,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 783,
+			"technic": 670,
+			"mental": 944,
+			"charisma": 955
+		},
+		"finalParameter": {
+			"voice": 2608,
+			"technic": 2231,
+			"mental": 3152,
+			"charisma": 3185
+		},
+		"lessonSkillId": 2010064,
+		"recordingSkillIdList": [
+			14130005,
+			4010012,
+			3010070,
+			3010060,
+			3010022
+		],
+		"stepId": 4431,
+		"initialProperIdList": [
+			3013
+		],
+		"addtionalProperIdList": [
+			2004,
+			1001
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			3,
+			3
+		]
+	},
+	{
+		"id": 4140005,
+		"heroineId": 14,
+		"alias": "【Forever Friends】",
+		"rarity": 4,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 669,
+			"technic": 783,
+			"mental": 945,
+			"charisma": 955
+		},
+		"finalParameter": {
+			"voice": 2230,
+			"technic": 2608,
+			"mental": 3153,
+			"charisma": 3185
+		},
+		"lessonSkillId": 2010104,
+		"recordingSkillIdList": [
+			14140005,
+			4010020,
+			3010092,
+			3010060,
+			3010055
+		],
+		"stepId": 4431,
+		"initialProperIdList": [
+			3014
+		],
+		"addtionalProperIdList": [
+			2004,
+			1002
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			3,
+			3
+		]
+	},
+	{
+		"id": 4150005,
+		"heroineId": 15,
+		"alias": "【Forever Friends】",
+		"rarity": 4,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 694,
+			"technic": 782,
+			"mental": 792,
+			"charisma": 990
+		},
+		"finalParameter": {
+			"voice": 2311,
+			"technic": 2607,
+			"mental": 2640,
+			"charisma": 3300
+		},
+		"lessonSkillId": 2010034,
+		"recordingSkillIdList": [
+			14150005,
+			4010004,
+			3010040,
+			3010060,
+			3010088
+		],
+		"stepId": 4401,
+		"initialProperIdList": [
+			3015
+		],
+		"addtionalProperIdList": [
+			2004,
+			1007
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			3,
+			3
+		]
+	},
+	{
+		"id": 4160005,
+		"heroineId": 16,
+		"alias": "【Forever Friends】",
+		"rarity": 4,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 781,
+			"technic": 693,
+			"mental": 794,
+			"charisma": 990
+		},
+		"finalParameter": {
+			"voice": 2606,
+			"technic": 2310,
+			"mental": 2642,
+			"charisma": 3300
+		},
+		"lessonSkillId": 2010064,
+		"recordingSkillIdList": [
+			14160005,
+			4010004,
+			3010040,
+			3010060,
+			3010100
+		],
+		"stepId": 4401,
+		"initialProperIdList": [
+			3016
+		],
+		"addtionalProperIdList": [
+			2004,
+			1009
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			3,
+			3
+		]
+	},
+	{
+		"id": 3010006,
+		"heroineId": 1,
+		"alias": "【クロスロード・サインポスト】",
+		"rarity": 3,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 888,
+			"technic": 857,
+			"mental": 665,
+			"charisma": 553
+		},
+		"finalParameter": {
+			"voice": 2904,
+			"technic": 2802,
+			"mental": 2177,
+			"charisma": 1802
+		},
+		"lessonSkillId": 2010063,
+		"recordingSkillIdList": [
+			13010006,
+			4010013,
+			3010078,
+			3010059,
+			3010079
+		],
+		"stepId": 3121,
+		"initialProperIdList": [
+			3001
+		],
+		"addtionalProperIdList": [
+			2001,
+			1001
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3020006,
+		"heroineId": 2,
+		"alias": "【そっと背中を押して】",
+		"rarity": 3,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 857,
+			"technic": 667,
+			"mental": 551,
+			"charisma": 888
+		},
+		"finalParameter": {
+			"voice": 2802,
+			"technic": 2179,
+			"mental": 1800,
+			"charisma": 2904
+		},
+		"lessonSkillId": 2010063,
+		"recordingSkillIdList": [
+			13020006,
+			4010019,
+			3010039,
+			3010059,
+			3010087
+		],
+		"stepId": 3411,
+		"initialProperIdList": [
+			3002
+		],
+		"addtionalProperIdList": [
+			2001,
+			1002
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3030006,
+		"heroineId": 3,
+		"alias": "【視線の奥に】",
+		"rarity": 3,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 665,
+			"technic": 857,
+			"mental": 553,
+			"charisma": 888
+		},
+		"finalParameter": {
+			"voice": 2177,
+			"technic": 2802,
+			"mental": 1802,
+			"charisma": 2904
+		},
+		"lessonSkillId": 2010063,
+		"recordingSkillIdList": [
+			13030006,
+			4010019,
+			3010015,
+			3010059,
+			3010068
+		],
+		"stepId": 3421,
+		"initialProperIdList": [
+			3003
+		],
+		"addtionalProperIdList": [
+			2001,
+			1005
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3040006,
+		"heroineId": 4,
+		"alias": "【Let's go around】",
+		"rarity": 3,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 553,
+			"technic": 888,
+			"mental": 856,
+			"charisma": 666
+		},
+		"finalParameter": {
+			"voice": 1802,
+			"technic": 2904,
+			"mental": 2801,
+			"charisma": 2178
+		},
+		"lessonSkillId": 2010063,
+		"recordingSkillIdList": [
+			13040006,
+			4010015,
+			3010083,
+			3010059,
+			3010098
+		],
+		"stepId": 3231,
+		"initialProperIdList": [
+			3004
+		],
+		"addtionalProperIdList": [
+			2001,
+			1006
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3050006,
+		"heroineId": 5,
+		"alias": "【唇よ、熱くキミを語れ！】",
+		"rarity": 3,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 859,
+			"technic": 665,
+			"mental": 551,
+			"charisma": 888
+		},
+		"finalParameter": {
+			"voice": 2804,
+			"technic": 2177,
+			"mental": 1800,
+			"charisma": 2904
+		},
+		"lessonSkillId": 2010063,
+		"recordingSkillIdList": [
+			13050006,
+			4010019,
+			3010039,
+			3010059,
+			3010087
+		],
+		"stepId": 3411,
+		"initialProperIdList": [
+			3005
+		],
+		"addtionalProperIdList": [
+			2002,
+			1003
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3060006,
+		"heroineId": 6,
+		"alias": "【プリンセスは大忙し】",
+		"rarity": 3,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 857,
+			"technic": 666,
+			"mental": 552,
+			"charisma": 888
+		},
+		"finalParameter": {
+			"voice": 2802,
+			"technic": 2178,
+			"mental": 1801,
+			"charisma": 2904
+		},
+		"lessonSkillId": 2010063,
+		"recordingSkillIdList": [
+			13060006,
+			4010019,
+			3010081,
+			3010059,
+			3010082
+		],
+		"stepId": 3411,
+		"initialProperIdList": [
+			3006
+		],
+		"addtionalProperIdList": [
+			2002,
+			1002
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3070006,
+		"heroineId": 7,
+		"alias": "【未来の主人公？】",
+		"rarity": 3,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 888,
+			"technic": 859,
+			"mental": 665,
+			"charisma": 551
+		},
+		"finalParameter": {
+			"voice": 2904,
+			"technic": 2804,
+			"mental": 2177,
+			"charisma": 1800
+		},
+		"lessonSkillId": 2010063,
+		"recordingSkillIdList": [
+			13070006,
+			4010013,
+			3010079,
+			3010059,
+			3010080
+		],
+		"stepId": 3121,
+		"initialProperIdList": [
+			3007
+		],
+		"addtionalProperIdList": [
+			2002,
+			1004
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3080006,
+		"heroineId": 8,
+		"alias": "【ネオリアリズム！】",
+		"rarity": 3,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 666,
+			"technic": 550,
+			"mental": 888,
+			"charisma": 859
+		},
+		"finalParameter": {
+			"voice": 2178,
+			"technic": 1799,
+			"mental": 2904,
+			"charisma": 2804
+		},
+		"lessonSkillId": 2010063,
+		"recordingSkillIdList": [
+			13080006,
+			4010017,
+			3010035,
+			3010059,
+			3010087
+		],
+		"stepId": 3341,
+		"initialProperIdList": [
+			3008
+		],
+		"addtionalProperIdList": [
+			2002,
+			1008
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3090006,
+		"heroineId": 9,
+		"alias": "【幸せをルバートで】",
+		"rarity": 3,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 551,
+			"technic": 888,
+			"mental": 858,
+			"charisma": 666
+		},
+		"finalParameter": {
+			"voice": 1800,
+			"technic": 2904,
+			"mental": 2803,
+			"charisma": 2178
+		},
+		"lessonSkillId": 2010063,
+		"recordingSkillIdList": [
+			13090006,
+			4010015,
+			3010032,
+			3010059,
+			3010033
+		],
+		"stepId": 3231,
+		"initialProperIdList": [
+			3009
+		],
+		"addtionalProperIdList": [
+			2003,
+			1005
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3100006,
+		"heroineId": 10,
+		"alias": "【the shine leads...】",
+		"rarity": 3,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 665,
+			"technic": 553,
+			"mental": 888,
+			"charisma": 857
+		},
+		"finalParameter": {
+			"voice": 2177,
+			"technic": 1802,
+			"mental": 2904,
+			"charisma": 2802
+		},
+		"lessonSkillId": 2010063,
+		"recordingSkillIdList": [
+			13100006,
+			4010017,
+			3010042,
+			3010059,
+			3010084
+		],
+		"stepId": 3341,
+		"initialProperIdList": [
+			3010
+		],
+		"addtionalProperIdList": [
+			2003,
+			1004
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3110006,
+		"heroineId": 11,
+		"alias": "【ハッピーハンティング】",
+		"rarity": 3,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 856,
+			"technic": 667,
+			"mental": 552,
+			"charisma": 888
+		},
+		"finalParameter": {
+			"voice": 2801,
+			"technic": 2179,
+			"mental": 1801,
+			"charisma": 2904
+		},
+		"lessonSkillId": 2010063,
+		"recordingSkillIdList": [
+			13110006,
+			4010019,
+			3010064,
+			3010059,
+			3010025
+		],
+		"stepId": 3411,
+		"initialProperIdList": [
+			3011
+		],
+		"addtionalProperIdList": [
+			2003,
+			1003
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3120006,
+		"heroineId": 12,
+		"alias": "【天使は肉体労働がお好き】",
+		"rarity": 3,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 668,
+			"technic": 550,
+			"mental": 888,
+			"charisma": 857
+		},
+		"finalParameter": {
+			"voice": 2180,
+			"technic": 1799,
+			"mental": 2904,
+			"charisma": 2802
+		},
+		"lessonSkillId": 2010063,
+		"recordingSkillIdList": [
+			13120006,
+			4010017,
+			3010042,
+			3010059,
+			3010087
+		],
+		"stepId": 3341,
+		"initialProperIdList": [
+			3012
+		],
+		"addtionalProperIdList": [
+			2003,
+			1006
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3130006,
+		"heroineId": 13,
+		"alias": "【客星のきざし】",
+		"rarity": 3,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 888,
+			"technic": 857,
+			"mental": 665,
+			"charisma": 553
+		},
+		"finalParameter": {
+			"voice": 2904,
+			"technic": 2802,
+			"mental": 2177,
+			"charisma": 1802
+		},
+		"lessonSkillId": 2010063,
+		"recordingSkillIdList": [
+			13130006,
+			4010013,
+			3010013,
+			3010059,
+			3010023
+		],
+		"stepId": 3121,
+		"initialProperIdList": [
+			3013
+		],
+		"addtionalProperIdList": [
+			2004,
+			1001
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3140006,
+		"heroineId": 14,
+		"alias": "【獣の操者】",
+		"rarity": 3,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 888,
+			"technic": 859,
+			"mental": 666,
+			"charisma": 550
+		},
+		"finalParameter": {
+			"voice": 2904,
+			"technic": 2804,
+			"mental": 2178,
+			"charisma": 1799
+		},
+		"lessonSkillId": 2010063,
+		"recordingSkillIdList": [
+			13140006,
+			4010013,
+			3010013,
+			3010059,
+			3010068
+		],
+		"stepId": 3121,
+		"initialProperIdList": [
+			3014
+		],
+		"addtionalProperIdList": [
+			2004,
+			1002
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3150006,
+		"heroineId": 15,
+		"alias": "【しあわせのかたち】",
+		"rarity": 3,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 553,
+			"technic": 888,
+			"mental": 857,
+			"charisma": 665
+		},
+		"finalParameter": {
+			"voice": 1802,
+			"technic": 2904,
+			"mental": 2802,
+			"charisma": 2177
+		},
+		"lessonSkillId": 2010063,
+		"recordingSkillIdList": [
+			13150006,
+			4010015,
+			3010032,
+			3010059,
+			3010087
+		],
+		"stepId": 3231,
+		"initialProperIdList": [
+			3015
+		],
+		"addtionalProperIdList": [
+			2004,
+			1007
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 3160006,
+		"heroineId": 16,
+		"alias": "【ダーク・ルーム】",
+		"rarity": 3,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 665,
+			"technic": 552,
+			"mental": 888,
+			"charisma": 858
+		},
+		"finalParameter": {
+			"voice": 2177,
+			"technic": 1801,
+			"mental": 2904,
+			"charisma": 2803
+		},
+		"lessonSkillId": 2010063,
+		"recordingSkillIdList": [
+			13160006,
+			4010017,
+			3010035,
+			3010059,
+			3010084
+		],
+		"stepId": 3341,
+		"initialProperIdList": [
+			3016
+		],
+		"addtionalProperIdList": [
+			2004,
+			1009
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 4050007,
+		"heroineId": 5,
+		"alias": "【三兵衛、秋の感謝フェア】",
+		"rarity": 4,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 784,
+			"technic": 692,
+			"mental": 792,
+			"charisma": 990
+		},
+		"finalParameter": {
+			"voice": 2609,
+			"technic": 2309,
+			"mental": 2640,
+			"charisma": 3300
+		},
+		"lessonSkillId": 2010034,
+		"recordingSkillIdList": [
+			14050007,
+			4010004,
+			3010094,
+			3010060,
+			3010095
+		],
+		"stepId": 4401,
+		"initialProperIdList": [
+			3005
+		],
+		"addtionalProperIdList": [
+			2002,
+			1003
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			4,
+			4
+		]
+	},
+	{
+		"id": 4090007,
+		"heroineId": 9,
+		"alias": "【ゆっくり消える虹を見て】",
+		"rarity": 4,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 955,
+			"technic": 944,
+			"mental": 784,
+			"charisma": 669
+		},
+		"finalParameter": {
+			"voice": 3185,
+			"technic": 3152,
+			"mental": 2609,
+			"charisma": 2230
+		},
+		"lessonSkillId": 2010094,
+		"recordingSkillIdList": [
+			14090007,
+			4010014,
+			3010089,
+			3010060,
+			3010103
+		],
+		"stepId": 4122,
+		"initialProperIdList": [
+			3009
+		],
+		"addtionalProperIdList": [
+			2001,
+			1002
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			4,
+			4
+		]
+	},
+	{
+		"id": 3110007,
+		"heroineId": 11,
+		"alias": "【古書ツナグ古都、photo】",
+		"rarity": 3,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 888,
+			"technic": 857,
+			"mental": 551,
+			"charisma": 667
+		},
+		"finalParameter": {
+			"voice": 2904,
+			"technic": 2802,
+			"mental": 1800,
+			"charisma": 2179
+		},
+		"lessonSkillId": 2010063,
+		"recordingSkillIdList": [
+			13110007,
+			4010003,
+			3010013,
+			3010059,
+			3010017
+		],
+		"stepId": 3122,
+		"initialProperIdList": [
+			3011
+		],
+		"addtionalProperIdList": [
+			2001,
+			1005
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 4040007,
+		"heroineId": 4,
+		"alias": "【フラワートレック】",
+		"rarity": 4,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 578,
+			"technic": 720,
+			"mental": 652,
+			"charisma": 900
+		},
+		"finalParameter": {
+			"voice": 1960,
+			"technic": 2448,
+			"mental": 2221,
+			"charisma": 3060
+		},
+		"lessonSkillId": 2010074,
+		"recordingSkillIdList": [
+			14040007,
+			4010022,
+			3010068,
+			3010059,
+			3010101
+		],
+		"stepId": 4401,
+		"initialProperIdList": [
+			3004
+		],
+		"addtionalProperIdList": [
+			2004,
+			1006
+		],
+		"sellType": 2,
+		"costumeIdList": [
+			4,
+			4
+		]
+	},
+	{
+		"id": 3010007,
+		"heroineId": 1,
+		"alias": "【秋晴れ乙女】",
+		"rarity": 3,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 647,
+			"technic": 840,
+			"mental": 604,
+			"charisma": 498
+		},
+		"finalParameter": {
+			"voice": 2110,
+			"technic": 2740,
+			"mental": 1972,
+			"charisma": 1619
+		},
+		"lessonSkillId": 2010033,
+		"recordingSkillIdList": [
+			13010007,
+			4010023,
+			3010032,
+			3010059,
+			3010087
+		],
+		"stepId": 3201,
+		"initialProperIdList": [
+			3001
+		],
+		"addtionalProperIdList": [
+			2002,
+			1001
+		],
+		"sellType": 2,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 4020007,
+		"heroineId": 2,
+		"alias": "【シタマチ・ファミリア】",
+		"rarity": 4,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 670,
+			"technic": 955,
+			"mental": 946,
+			"charisma": 781
+		},
+		"finalParameter": {
+			"voice": 2231,
+			"technic": 3185,
+			"mental": 3154,
+			"charisma": 2606
+		},
+		"lessonSkillId": 2010064,
+		"recordingSkillIdList": [
+			14020007,
+			4010016,
+			3010102,
+			3010060,
+			3010070
+		],
+		"stepId": 4231,
+		"initialProperIdList": [
+			3002
+		],
+		"addtionalProperIdList": [
+			2001,
+			1002
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			4,
+			4
+		]
+	},
+	{
+		"id": 4160007,
+		"heroineId": 16,
+		"alias": "【ヴィジョン・キツネ】",
+		"rarity": 4,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 668,
+			"technic": 783,
+			"mental": 955,
+			"charisma": 946
+		},
+		"finalParameter": {
+			"voice": 2229,
+			"technic": 2608,
+			"mental": 3185,
+			"charisma": 3154
+		},
+		"lessonSkillId": 2010064,
+		"recordingSkillIdList": [
+			14160007,
+			4010012,
+			3010104,
+			3010060,
+			3010105
+		],
+		"stepId": 4342,
+		"initialProperIdList": [
+			3016
+		],
+		"addtionalProperIdList": [
+			2005,
+			1004
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			3,
+			3
+		]
+	},
+	{
+		"id": 3150007,
+		"heroineId": 15,
+		"alias": "【エイジ・オブ・ディスカバリー】",
+		"rarity": 3,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 668,
+			"technic": 551,
+			"mental": 888,
+			"charisma": 856
+		},
+		"finalParameter": {
+			"voice": 2180,
+			"technic": 1800,
+			"mental": 2904,
+			"charisma": 2801
+		},
+		"lessonSkillId": 2010033,
+		"recordingSkillIdList": [
+			13150007,
+			4010003,
+			3010106,
+			3010059,
+			3010009
+		],
+		"stepId": 3342,
+		"initialProperIdList": [
+			3015
+		],
+		"addtionalProperIdList": [
+			2005,
+			1006
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 4130007,
+		"heroineId": 13,
+		"alias": "【Reach For the World!】",
+		"rarity": 4,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 990,
+			"technic": 693,
+			"mental": 781,
+			"charisma": 794
+		},
+		"finalParameter": {
+			"voice": 3300,
+			"technic": 2310,
+			"mental": 2606,
+			"charisma": 2642
+		},
+		"lessonSkillId": 2010104,
+		"recordingSkillIdList": [
+			14130007,
+			4010014,
+			3010071,
+			3010060,
+			3010088
+		],
+		"stepId": 4101,
+		"initialProperIdList": [
+			3013
+		],
+		"addtionalProperIdList": [
+			2005,
+			1001
+		],
+		"sellType": 2,
+		"costumeIdList": [
+			3,
+			3
+		]
+	},
+	{
+		"id": 3140007,
+		"heroineId": 14,
+		"alias": "【君、死にたもうことなかれ】",
+		"rarity": 3,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 503,
+			"technic": 784,
+			"mental": 608,
+			"charisma": 811
+		},
+		"finalParameter": {
+			"voice": 1639,
+			"technic": 2552,
+			"mental": 1983,
+			"charisma": 2644
+		},
+		"lessonSkillId": 2010063,
+		"recordingSkillIdList": [
+			13140007,
+			4010019,
+			3010101,
+			3010059,
+			3010068
+		],
+		"stepId": 3421,
+		"initialProperIdList": [
+			3014
+		],
+		"addtionalProperIdList": [
+			2005,
+			1002
+		],
+		"sellType": 2,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 4130009,
+		"heroineId": 13,
+		"alias": "【未確定】",
+		"rarity": 4,
+		"attribute": 3,
+		"initialParameter": {
+			"voice": 782,
+			"technic": 693,
+			"mental": 990,
+			"charisma": 793
+		},
+		"finalParameter": {
+			"voice": 2607,
+			"technic": 2310,
+			"mental": 3300,
+			"charisma": 2641
+		},
+		"lessonSkillId": 2010034,
+		"recordingSkillIdList": [
+			14130009,
+			4010004,
+			3010107,
+			3010060,
+			3010069
+		],
+		"stepId": 4301,
+		"initialProperIdList": [
+			3013
+		],
+		"addtionalProperIdList": [
+			2004,
+			1001
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			3,
+			3
+		]
+	},
+	{
+		"id": 4140008,
+		"heroineId": 14,
+		"alias": "【未確定】",
+		"rarity": 4,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 165,
+			"technic": 311,
+			"mental": 231,
+			"charisma": 317
+		},
+		"finalParameter": {
+			"voice": 1650,
+			"technic": 3103,
+			"mental": 2310,
+			"charisma": 3168
+		},
+		"lessonSkillId": 2010041,
+		"recordingSkillIdList": [
+			14140008,
+			4010001,
+			3010001,
+			3010001,
+			3010001
+		],
+		"stepId": 4201,
+		"initialProperIdList": [
+			3014
+		],
+		"addtionalProperIdList": [
+			2004,
+			1002
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			3,
+			3
+		]
+	},
+	{
+		"id": 3130008,
+		"heroineId": 13,
+		"alias": "【未確定】",
+		"rarity": 3,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 296,
+			"technic": 285,
+			"mental": 168,
+			"charisma": 144
+		},
+		"finalParameter": {
+			"voice": 2607,
+			"technic": 2508,
+			"mental": 1484,
+			"charisma": 1256
+		},
+		"lessonSkillId": 2010041,
+		"recordingSkillIdList": [
+			13130008,
+			4010001,
+			3010001,
+			3010001,
+			3010001
+		],
+		"stepId": 3201,
+		"initialProperIdList": [
+			3013
+		],
+		"addtionalProperIdList": [
+			2004,
+			1001
+		],
+		"sellType": 1,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 4100007,
+		"heroineId": 10,
+		"alias": "【In Other Words】",
+		"rarity": 4,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 166,
+			"technic": 309,
+			"mental": 317,
+			"charisma": 232
+		},
+		"finalParameter": {
+			"voice": 1651,
+			"technic": 3101,
+			"mental": 3168,
+			"charisma": 2311
+		},
+		"lessonSkillId": 2010041,
+		"recordingSkillIdList": [
+			14100007,
+			4010001,
+			3010001,
+			3010001,
+			3010001
+		],
+		"stepId": 4101,
+		"initialProperIdList": [
+			3009
+		],
+		"addtionalProperIdList": [
+			2003,
+			1005
+		],
+		"sellType": 2,
+		"costumeIdList": [
+			3,
+			3
+		]
+	},
+	{
+		"id": 3120008,
+		"heroineId": 12,
+		"alias": "【未確定】",
+		"rarity": 3,
+		"attribute": 1,
+		"initialParameter": {
+			"voice": 668,
+			"technic": 550,
+			"mental": 888,
+			"charisma": 857
+		},
+		"finalParameter": {
+			"voice": 2180,
+			"technic": 1799,
+			"mental": 2904,
+			"charisma": 2802
+		},
+		"lessonSkillId": 2010063,
+		"recordingSkillIdList": [
+			13120008,
+			4010017,
+			3010042,
+			3010059,
+			3010087
+		],
+		"stepId": 3141,
+		"initialProperIdList": [
+			3012
+		],
+		"addtionalProperIdList": [
+			2003,
+			1006
+		],
+		"sellType": 2,
+		"costumeIdList": [
+			1,
+			1
+		]
+	},
+	{
+		"id": 4070007,
+		"heroineId": 7,
+		"alias": "【未確定】",
+		"rarity": 4,
+		"attribute": 2,
+		"initialParameter": {
+			"voice": 265,
+			"technic": 330,
+			"mental": 164,
+			"charisma": 265
+		},
+		"finalParameter": {
+			"voice": 2641,
+			"technic": 3300,
+			"mental": 1649,
+			"charisma": 2641
+		},
+		"lessonSkillId": 2010041,
+		"recordingSkillIdList": [
+			14070007,
+			4010001,
+			3010001,
+			3010001,
+			3010001
+		],
+		"stepId": 4201,
+		"initialProperIdList": [
+			3007
+		],
+		"addtionalProperIdList": [
+			2002,
+			1004
+		],
+		"sellType": 2,
+		"costumeIdList": [
+			3,
+			3
+		]
+	},
+	{
+		"id": 3050008,
+		"heroineId": 5,
+		"alias": "【未確定】",
+		"rarity": 3,
+		"attribute": 4,
+		"initialParameter": {
+			"voice": 287,
+			"technic": 168,
+			"mental": 142,
+			"charisma": 296
+		},
+		"finalParameter": {
+			"voice": 2510,
+			"technic": 1484,
+			"mental": 1254,
+			"charisma": 2607
+		},
+		"lessonSkillId": 2010041,
+		"recordingSkillIdList": [
+			13050008,
+			4010001,
+			3010001,
+			3010001,
+			3010001
+		],
+		"stepId": 3401,
+		"initialProperIdList": [
+			3005
+		],
+		"addtionalProperIdList": [
+			2002,
+			1003
+		],
+		"sellType": 2,
+		"costumeIdList": [
+			1,
+			1
+		]
+	}
+]

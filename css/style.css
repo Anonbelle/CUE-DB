@@ -1,0 +1,68 @@
+#body {
+  background-color: #95a5a6;
+}
+
+#nav {
+  width: 100px;
+  float: left;
+}
+
+img {
+  width: 70%;
+}
+
+#main {
+  width: 1600px;
+  float: right;
+}
+
+#content {
+  padding: 70px;
+}
+
+#nav {
+  position: fixed;
+  font-size: 20px;
+}
+
+.pagination a {
+  position: relative;
+  display: block;
+  padding: 0.5rem 0.75rem;
+  margin-left: -1px;
+  line-height: 1.25;
+  color: #fff;
+  background-color: #78c2ad;
+  border: 1px solid #78c2ad;
+}
+
+.pagination li {
+  float: left;
+}
+
+.active > a {
+  background-color: #f3969a;
+  border-color: #f3969a;
+}
+
+#ChTable td {
+  border-right: solid 1px;
+  border-left: solid 1px;
+}
+
+.page {
+  width: 40px;
+  height: 40px;
+}
+
+.table {
+  width: auto !important;
+}
+
+.pagination {
+  position: absolute;
+}
+
+thead {
+  background-color: rgba(0, 0, 0, 0.05);
+}

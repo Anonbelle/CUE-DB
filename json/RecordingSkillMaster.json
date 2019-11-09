@@ -1,0 +1,6410 @@
+[
+	{
+		"id": 3010001,
+		"name": "響き渡る声Ⅰ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 105,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]自身のボイス{1}%アップ",
+		"iconId": 10101
+	},
+	{
+		"id": 3010002,
+		"name": "響き渡る声Ⅱ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 120,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]自身のボイス{1}%アップ",
+		"iconId": 10101
+	},
+	{
+		"id": 3010003,
+		"name": "響き渡る声Ⅲ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 135,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]自身のボイス{1}%アップ",
+		"iconId": 10101
+	},
+	{
+		"id": 3010004,
+		"name": "弾む言霊Ⅰ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 105,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]自身のテクニック{1}%アップ",
+		"iconId": 10201
+	},
+	{
+		"id": 3010005,
+		"name": "弾む言霊Ⅱ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 120,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]自身のテクニック{1}%アップ",
+		"iconId": 10201
+	},
+	{
+		"id": 3010006,
+		"name": "弾む言霊Ⅲ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 135,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]自身のテクニック{1}%アップ",
+		"iconId": 10201
+	},
+	{
+		"id": 3010007,
+		"name": "心に秘める想いⅠ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 105,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]自身のメンタル{1}%アップ",
+		"iconId": 10301
+	},
+	{
+		"id": 3010008,
+		"name": "心に秘める想いⅡ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 120,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]自身のメンタル{1}%アップ",
+		"iconId": 10301
+	},
+	{
+		"id": 3010009,
+		"name": "心に秘める想いⅢ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 135,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]自身のメンタル{1}%アップ",
+		"iconId": 10301
+	},
+	{
+		"id": 3010010,
+		"name": "心に秘める想いⅣ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 150,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]自身のメンタル{1}%アップ",
+		"iconId": 10301
+	},
+	{
+		"id": 3010011,
+		"name": "溢れ出す輝きⅠ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 105,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]自身のカリスマ{1}%アップ",
+		"iconId": 10401
+	},
+	{
+		"id": 3010012,
+		"name": "溢れ出す輝きⅡ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 120,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]自身のカリスマ{1}%アップ",
+		"iconId": 10401
+	},
+	{
+		"id": 3010013,
+		"name": "言葉を織りなす声Ⅲ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 131,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 131,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]自身のボイスとテクニック{1}%アップ",
+		"iconId": 10601
+	},
+	{
+		"id": 3010014,
+		"name": "輝き放つ声Ⅳ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 146,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 146,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]自身のボイスとカリスマ{1}%アップ",
+		"iconId": 10801
+	},
+	{
+		"id": 3010015,
+		"name": "煌めく言の葉Ⅲ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 131,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 131,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]自身のテクニックとカリスマ{1}%アップ",
+		"iconId": 11001
+	},
+	{
+		"id": 3010016,
+		"name": "始まりの声Ⅳ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 333,
+				"growthEffectRate": 18,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。自身のボイス{1}%アップ",
+		"iconId": 10101
+	},
+	{
+		"id": 3010017,
+		"name": "終幕の声色Ⅲ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 270,
+				"growthEffectRate": 15,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。自身のボイス{1}%アップ",
+		"iconId": 10101
+	},
+	{
+		"id": 3010018,
+		"name": "言の葉の芽吹きⅢ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 302,
+				"growthEffectRate": 16,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。自身のテクニック{1}%アップ",
+		"iconId": 10201
+	},
+	{
+		"id": 3010019,
+		"name": "終わりの言葉Ⅲ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 270,
+				"growthEffectRate": 15,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。自身のテクニック{1}%アップ",
+		"iconId": 10201
+	},
+	{
+		"id": 3010020,
+		"name": "諦めない想いⅢ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 270,
+				"growthEffectRate": 15,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。自身のメンタル{1}%アップ",
+		"iconId": 10301
+	},
+	{
+		"id": 3010021,
+		"name": "諦めない想いⅣ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 306,
+				"growthEffectRate": 16,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。自身のメンタル{1}%アップ",
+		"iconId": 10301
+	},
+	{
+		"id": 3010022,
+		"name": "輝きの始まりⅣ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 333,
+				"growthEffectRate": 18,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。自身のカリスマ{1}%アップ",
+		"iconId": 10401
+	},
+	{
+		"id": 3010023,
+		"name": "プレリュードⅢ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 291,
+				"growthEffectRate": 16,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 291,
+				"growthEffectRate": 16,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。自身のボイスとテクニック{1}%アップ",
+		"iconId": 10601
+	},
+	{
+		"id": 3010024,
+		"name": "フィナーレⅣ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 295,
+				"growthEffectRate": 16,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 295,
+				"growthEffectRate": 16,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。自身のボイスとテクニック{1}%アップ",
+		"iconId": 10601
+	},
+	{
+		"id": 3010025,
+		"name": "黄昏に染まる声Ⅲ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 269,
+				"growthEffectRate": 14,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 269,
+				"growthEffectRate": 14,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。自身のボイスとカリスマ{1}%アップ",
+		"iconId": 10801
+	},
+	{
+		"id": 3010026,
+		"name": "届けたい声Ⅰ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 21,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのボイス{1}%アップ",
+		"iconId": 10115
+	},
+	{
+		"id": 3010027,
+		"name": "届けたい声Ⅱ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 24,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのボイス{1}%アップ",
+		"iconId": 10115
+	},
+	{
+		"id": 3010028,
+		"name": "届けたい声Ⅲ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 27,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのボイス{1}%アップ",
+		"iconId": 10115
+	},
+	{
+		"id": 3010029,
+		"name": "届けたい声Ⅳ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 30,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのボイス{1}%アップ",
+		"iconId": 10115
+	},
+	{
+		"id": 3010030,
+		"name": "言葉は踊るⅠ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 21,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのテクニック{1}%アップ",
+		"iconId": 10215
+	},
+	{
+		"id": 3010031,
+		"name": "言葉は踊るⅡ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 24,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのテクニック{1}%アップ",
+		"iconId": 10215
+	},
+	{
+		"id": 3010032,
+		"name": "言葉は踊るⅢ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 27,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのテクニック{1}%アップ",
+		"iconId": 10215
+	},
+	{
+		"id": 3010033,
+		"name": "重なる言の葉Ⅲ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 16,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 3
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのテクニック{1}%アップ（3カット継続）",
+		"iconId": 10215
+	},
+	{
+		"id": 3010034,
+		"name": "想いを乗せてⅠ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 21,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのメンタル{1}%アップ",
+		"iconId": 10315
+	},
+	{
+		"id": 3010035,
+		"name": "想いを乗せてⅢ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 27,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのメンタル{1}%アップ",
+		"iconId": 10315
+	},
+	{
+		"id": 3010036,
+		"name": "想いを乗せてⅣ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 30,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのメンタル{1}%アップ",
+		"iconId": 10315
+	},
+	{
+		"id": 3010037,
+		"name": "零れる煌めきⅠ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 21,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのカリスマ{1}%アップ",
+		"iconId": 10415
+	},
+	{
+		"id": 3010038,
+		"name": "零れる煌めきⅡ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 24,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのカリスマ{1}%アップ",
+		"iconId": 10415
+	},
+	{
+		"id": 3010039,
+		"name": "零れる煌めきⅢ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 27,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのカリスマ{1}%アップ",
+		"iconId": 10415
+	},
+	{
+		"id": 3010040,
+		"name": "零れる煌めきⅣ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 30,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのカリスマ{1}%アップ",
+		"iconId": 10415
+	},
+	{
+		"id": 3010041,
+		"name": "to be continuedⅢ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 16,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 3
+			},
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 16,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 3
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのボイスとテクニック{1}%アップ（3カット継続）",
+		"iconId": 10615
+	},
+	{
+		"id": 3010042,
+		"name": "輝かしき想い出Ⅲ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 27,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 27,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのメンタルとカリスマ{1}%アップ",
+		"iconId": 11115
+	},
+	{
+		"id": 3010043,
+		"name": "夢に向かってⅣ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 63,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]メインキャストの全ステータス+{1}（3カット継続）",
+		"iconId": 10515
+	},
+	{
+		"id": 3010044,
+		"name": "跳ねる音律Ⅱ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 89,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのボイス+{1}",
+		"iconId": 10115
+	},
+	{
+		"id": 3010045,
+		"name": "果てなく響く声Ⅳ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 67,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのボイス+{1}（3カット継続）",
+		"iconId": 10115
+	},
+	{
+		"id": 3010046,
+		"name": "言葉に宿るモノⅡ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 89,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのテクニック+{1}",
+		"iconId": 10215
+	},
+	{
+		"id": 3010047,
+		"name": "語り継ぐ言葉Ⅳ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 67,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのテクニック+{1}（3カット継続）",
+		"iconId": 10215
+	},
+	{
+		"id": 3010048,
+		"name": "仲間への想いⅡ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 89,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのメンタル+{1}",
+		"iconId": 10315
+	},
+	{
+		"id": 3010049,
+		"name": "大器の片鱗Ⅱ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 89,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのカリスマ+{1}",
+		"iconId": 10415
+	},
+	{
+		"id": 3010050,
+		"name": "走り出す声Ⅲ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 35,
+				"growthEffectRate": 2,
+				"logic": 3,
+				"turn": 3
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。メインキャストのボイス{1}%アップ（3カット継続）",
+		"iconId": 10115
+	},
+	{
+		"id": 3010051,
+		"name": "輝きの始まりⅢ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 35,
+				"growthEffectRate": 2,
+				"logic": 3,
+				"turn": 3
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。メインキャストのカリスマ{1}%アップ（3カット継続）",
+		"iconId": 10415
+	},
+	{
+		"id": 3010052,
+		"name": "鳴り止まぬアンコールⅢ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 34,
+				"growthEffectRate": 2,
+				"logic": 3,
+				"turn": 3
+			},
+			{
+				"effectType": 3,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 34,
+				"growthEffectRate": 2,
+				"logic": 3,
+				"turn": 3
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。メインキャストのテクニックとメンタル{1}%アップ（3カット継続）",
+		"iconId": 10915
+	},
+	{
+		"id": 3010053,
+		"name": "最後の可能性Ⅲ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 201,
+				"growthEffectRate": 11,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。メインキャストのカリスマ+{1}",
+		"iconId": 10415
+	},
+	{
+		"id": 3010054,
+		"name": "月、闇夜に輝くⅢ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 5,
+				"targetParam": 4,
+				"initialEffectRate": 84,
+				"growthEffectRate": 4,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストにいるMoonのカリスマ+{1}",
+		"iconId": 10411
+	},
+	{
+		"id": 3010055,
+		"name": "夢幻の煌めきⅣ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 3,
+				"targetParam": 4,
+				"initialEffectRate": 10,
+				"growthEffectRate": 1,
+				"logic": 3,
+				"turn": 3
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]メインキャストにいるカリスマタイプ声優の全ステータス{1}%アップ（3カット継続）",
+		"iconId": 10506
+	},
+	{
+		"id": 3010056,
+		"name": "闇の宴への誘いⅢ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 850,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 6,
+				"targetParam": 13,
+				"initialEffectRate": 1100,
+				"growthEffectRate": 61,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。メインキャストにいる利恵のメンタル+{1}",
+		"iconId": 10312
+	},
+	{
+		"id": 3010057,
+		"name": "明日への導きⅠ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 448,
+		"growthTriggerRate": 28,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 1,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを1人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 3010058,
+		"name": "明日への導きⅡ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 512,
+		"growthTriggerRate": 32,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 1,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを1人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 3010059,
+		"name": "明日への導きⅢ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 576,
+		"growthTriggerRate": 36,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 1,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを1人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 3010060,
+		"name": "明日への導きⅣ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 1,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを1人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 3010061,
+		"name": "終わりの言葉Ⅳ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 306,
+				"growthEffectRate": 16,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。自身のテクニック{1}%アップ",
+		"iconId": 10201
+	},
+	{
+		"id": 3010062,
+		"name": "言葉を織りなす声Ⅱ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 117,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 117,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]自身のボイスとテクニック{1}%アップ",
+		"iconId": 10601
+	},
+	{
+		"id": 3010063,
+		"name": "輝き放つ声Ⅱ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 117,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 117,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]自身のボイスとカリスマ{1}%アップ",
+		"iconId": 10801
+	},
+	{
+		"id": 3010064,
+		"name": "輝き放つ声Ⅲ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 131,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 131,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]自身のボイスとカリスマ{1}%アップ",
+		"iconId": 10801
+	},
+	{
+		"id": 3010065,
+		"name": "言葉に託す想いⅡ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 117,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 117,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]自身のテクニックとメンタル{1}%アップ",
+		"iconId": 10901
+	},
+	{
+		"id": 3010066,
+		"name": "心の輝きⅡ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 117,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 117,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]自身のメンタルとカリスマ{1}%アップ",
+		"iconId": 11101
+	},
+	{
+		"id": 3010067,
+		"name": "明日への展望Ⅰ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 100,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]自身の全ステータス{1}%アップ",
+		"iconId": 10501
+	},
+	{
+		"id": 3010068,
+		"name": "明日への展望Ⅲ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 129,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]自身の全ステータス{1}%アップ",
+		"iconId": 10501
+	},
+	{
+		"id": 3010069,
+		"name": "明日への展望Ⅳ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 143,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]自身の全ステータス{1}%アップ",
+		"iconId": 10501
+	},
+	{
+		"id": 3010070,
+		"name": "夢への第一歩Ⅳ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 317,
+				"growthEffectRate": 17,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。自身の全ステータス{1}%アップ",
+		"iconId": 10501
+	},
+	{
+		"id": 3010071,
+		"name": "跳ねる音律Ⅳ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 111,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのボイス+{1}",
+		"iconId": 10115
+	},
+	{
+		"id": 3010072,
+		"name": "言葉は踊るⅣ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 30,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのテクニック{1}%アップ",
+		"iconId": 10215
+	},
+	{
+		"id": 3010073,
+		"name": "言葉に宿るモノⅢ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 100,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのテクニック+{1}",
+		"iconId": 10215
+	},
+	{
+		"id": 3010074,
+		"name": "内緒のアドバイスⅣ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 41,
+				"growthEffectRate": 2,
+				"logic": 3,
+				"turn": 3
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。メインキャストのテクニック{1}%アップ（3カット継続）",
+		"iconId": 10215
+	},
+	{
+		"id": 3010075,
+		"name": "最後の伝言Ⅳ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 63,
+				"growthEffectRate": 3,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。メインキャストのテクニック{1}%アップ",
+		"iconId": 10215
+	},
+	{
+		"id": 3010076,
+		"name": "想いを乗せてⅡ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 24,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのメンタル{1}%アップ",
+		"iconId": 10315
+	},
+	{
+		"id": 3010077,
+		"name": "仲間への想いⅢ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 100,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのメンタル+{1}",
+		"iconId": 10315
+	},
+	{
+		"id": 3010078,
+		"name": "Message songⅢ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 26,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 26,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのボイスとテクニック{1}%アップ",
+		"iconId": 10615
+	},
+	{
+		"id": 3010079,
+		"name": "Maine themeⅢ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 96,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 1
+			},
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 96,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのボイスとテクニック+{1}",
+		"iconId": 10615
+	},
+	{
+		"id": 3010080,
+		"name": "終幕飾る歌声Ⅲ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 61,
+				"growthEffectRate": 2,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 61,
+				"growthEffectRate": 2,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。メインキャストのボイスとテクニック{1}%アップ",
+		"iconId": 10615
+	},
+	{
+		"id": 3010081,
+		"name": "カーテンコールⅢ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 26,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 26,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのボイスとカリスマ{1}%アップ",
+		"iconId": 10815
+	},
+	{
+		"id": 3010082,
+		"name": "明日への船出Ⅲ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 215,
+				"growthEffectRate": 12,
+				"logic": 1,
+				"turn": 1
+			},
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 215,
+				"growthEffectRate": 12,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。メインキャストのボイスとカリスマ+{1}",
+		"iconId": 10815
+	},
+	{
+		"id": 3010083,
+		"name": "想いを告げるⅢ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 26,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 3,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 26,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのテクニックとメンタル{1}%アップ",
+		"iconId": 10915
+	},
+	{
+		"id": 3010084,
+		"name": "願いは輝くⅢ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 96,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 1
+			},
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 96,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのメンタルとカリスマ+{1}",
+		"iconId": 11115
+	},
+	{
+		"id": 3010085,
+		"name": "希望のstageⅠ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 20,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]メインキャストの全ステータス{1}%アップ",
+		"iconId": 10515
+	},
+	{
+		"id": 3010086,
+		"name": "希望のstageⅡ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 23,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]メインキャストの全ステータス{1}%アップ",
+		"iconId": 10515
+	},
+	{
+		"id": 3010087,
+		"name": "希望のstageⅢ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 26,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストの全ステータス{1}%アップ",
+		"iconId": 10515
+	},
+	{
+		"id": 3010088,
+		"name": "希望のstageⅣ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 29,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]メインキャストの全ステータス{1}%アップ",
+		"iconId": 10515
+	},
+	{
+		"id": 3010089,
+		"name": "見果てぬ夢Ⅳ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 17,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 3
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]メインキャストの全ステータス{1}%アップ（3カット継続）",
+		"iconId": 10515
+	},
+	{
+		"id": 3010090,
+		"name": "色褪せぬ想い出Ⅳ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 59,
+				"growthEffectRate": 3,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。メインキャストの全ステータス{1}%アップ",
+		"iconId": 10515
+	},
+	{
+		"id": 3010091,
+		"name": "闇夜を照らす月光Ⅲ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 5,
+				"targetParam": 4,
+				"initialEffectRate": 23,
+				"growthEffectRate": 1,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストにいるMoonのカリスマ{1}%アップ",
+		"iconId": 10411
+	},
+	{
+		"id": 3010092,
+		"name": "輝く夢の舞台Ⅳ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 3,
+				"targetParam": 4,
+				"initialEffectRate": 22,
+				"growthEffectRate": 1,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]メインキャストにいるカリスマタイプ声優の全ステータス{1}%アップ",
+		"iconId": 10506
+	},
+	{
+		"id": 3010093,
+		"name": "魔王礼賛Ⅳ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 850,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 6,
+				"targetParam": 13,
+				"initialEffectRate": 1229,
+				"growthEffectRate": 67,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。メインキャストにいる利恵のカリスマ+{1}",
+		"iconId": 10412
+	},
+	{
+		"id": 3010094,
+		"name": "最後の光Ⅳ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 306,
+				"growthEffectRate": 16,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。自身のカリスマ{1}%アップ",
+		"iconId": 10401
+	},
+	{
+		"id": 3010095,
+		"name": "最後の奇跡Ⅳ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 293,
+				"growthEffectRate": 15,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。自身の全ステータス{1}%アップ",
+		"iconId": 10501
+	},
+	{
+		"id": 3010096,
+		"name": "開幕告げる声Ⅲ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 221,
+				"growthEffectRate": 12,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。メインキャストのボイス+{1}",
+		"iconId": 10115
+	},
+	{
+		"id": 3010097,
+		"name": "天賦の煌めきⅢ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 221,
+				"growthEffectRate": 12,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。メインキャストのカリスマ+{1}",
+		"iconId": 10415
+	},
+	{
+		"id": 3010098,
+		"name": "Opening titleⅢ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 215,
+				"growthEffectRate": 12,
+				"logic": 1,
+				"turn": 1
+			},
+			{
+				"effectType": 3,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 215,
+				"growthEffectRate": 12,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。メインキャストのテクニックとメンタル+{1}",
+		"iconId": 10915
+	},
+	{
+		"id": 3010099,
+		"name": "言葉に宿るモノⅣ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 111,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのテクニック+{1}",
+		"iconId": 10215
+	},
+	{
+		"id": 3010100,
+		"name": "天賦の煌めきⅣ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 249,
+				"growthEffectRate": 13,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。メインキャストのカリスマ+{1}",
+		"iconId": 10415
+	},
+	{
+		"id": 3010101,
+		"name": "溢れ出す輝きⅢ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 135,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]自身のカリスマ{1}%アップ",
+		"iconId": 10401
+	},
+	{
+		"id": 3010102,
+		"name": "言葉に託す想いⅣ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 146,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 146,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]自身のテクニックとメンタル{1}%アップ",
+		"iconId": 10901
+	},
+	{
+		"id": 3010103,
+		"name": "終幕飾る歌声Ⅳ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 61,
+				"growthEffectRate": 3,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 61,
+				"growthEffectRate": 3,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。メインキャストのボイスとテクニック{1}%アップ",
+		"iconId": 10615
+	},
+	{
+		"id": 3010104,
+		"name": "1CめメインのM加算4",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 249,
+				"growthEffectRate": 13,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。メインキャストのメンタル+{1}",
+		"iconId": 10315
+	},
+	{
+		"id": 3010105,
+		"name": "願いは輝くⅣ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 107,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 1
+			},
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 107,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのメンタルとカリスマ+{1}",
+		"iconId": 11115
+	},
+	{
+		"id": 3010106,
+		"name": "心の輝きⅢ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 131,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 131,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]自身のメンタルとカリスマ{1}%アップ",
+		"iconId": 11101
+	},
+	{
+		"id": 3010107,
+		"name": "1Cめ自身のM乗算4",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 333,
+				"growthEffectRate": 18,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。自身のメンタル{1}%アップ",
+		"iconId": 10301
+	},
+	{
+		"id": 4010001,
+		"name": "仲間への絆Ⅰ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 29,
+				"growthEffectRate": 2,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録サブ][発動率：{0}%]メインキャストの全ステータス+{1}（3カット継続）",
+		"iconId": 20515
+	},
+	{
+		"id": 4010002,
+		"name": "仲間への絆Ⅱ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 36,
+				"growthEffectRate": 2,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録サブ][発動率：{0}%]メインキャストの全ステータス+{1}（3カット継続）",
+		"iconId": 20515
+	},
+	{
+		"id": 4010003,
+		"name": "仲間への絆Ⅲ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 42,
+				"growthEffectRate": 2,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録サブ][発動率：{0}%]メインキャストの全ステータス+{1}（3カット継続）",
+		"iconId": 20515
+	},
+	{
+		"id": 4010004,
+		"name": "仲間への絆Ⅳ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 49,
+				"growthEffectRate": 2,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録サブ][発動率：{0}%]メインキャストの全ステータス+{1}（3カット継続）",
+		"iconId": 20515
+	},
+	{
+		"id": 4010005,
+		"name": "芽生える才華Ⅱ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 5,
+				"targetParam": 1,
+				"initialEffectRate": 46,
+				"growthEffectRate": 2,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録サブ][発動率：{0}%]メインキャストにいるFlowerの全ステータス+{1}（3カット継続）",
+		"iconId": 20508
+	},
+	{
+		"id": 4010006,
+		"name": "芽生える才華Ⅳ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 5,
+				"targetParam": 1,
+				"initialEffectRate": 62,
+				"growthEffectRate": 2,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録サブ][発動率：{0}%]メインキャストにいるFlowerの全ステータス+{1}（3カット継続）",
+		"iconId": 20508
+	},
+	{
+		"id": 4010007,
+		"name": "天へ羽ばたく翼Ⅱ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 5,
+				"targetParam": 2,
+				"initialEffectRate": 46,
+				"growthEffectRate": 2,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録サブ][発動率：{0}%]メインキャストにいるBirdの全ステータス+{1}（3カット継続）",
+		"iconId": 20509
+	},
+	{
+		"id": 4010008,
+		"name": "天へ羽ばたく翼Ⅳ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 5,
+				"targetParam": 2,
+				"initialEffectRate": 62,
+				"growthEffectRate": 2,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録サブ][発動率：{0}%]メインキャストにいるBirdの全ステータス+{1}（3カット継続）",
+		"iconId": 20509
+	},
+	{
+		"id": 4010009,
+		"name": "時代にそよぐ風Ⅱ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 5,
+				"targetParam": 3,
+				"initialEffectRate": 46,
+				"growthEffectRate": 2,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録サブ][発動率：{0}%]メインキャストにいるWindの全ステータス+{1}（3カット継続）",
+		"iconId": 20510
+	},
+	{
+		"id": 4010010,
+		"name": "時代にそよぐ風Ⅳ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 5,
+				"targetParam": 3,
+				"initialEffectRate": 62,
+				"growthEffectRate": 2,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録サブ][発動率：{0}%]メインキャストにいるWindの全ステータス+{1}（3カット継続）",
+		"iconId": 20510
+	},
+	{
+		"id": 4010011,
+		"name": "月夜に揺蕩うⅡ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 5,
+				"targetParam": 4,
+				"initialEffectRate": 46,
+				"growthEffectRate": 2,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録サブ][発動率：{0}%]メインキャストにいるMoonの全ステータス+{1}（3カット継続）",
+		"iconId": 20511
+	},
+	{
+		"id": 4010012,
+		"name": "月夜に揺蕩うⅣ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 5,
+				"targetParam": 4,
+				"initialEffectRate": 62,
+				"growthEffectRate": 2,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録サブ][発動率：{0}%]メインキャストにいるMoonの全ステータス+{1}（3カット継続）",
+		"iconId": 20511
+	},
+	{
+		"id": 4010013,
+		"name": "声に宿す決意Ⅲ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 3,
+				"targetParam": 1,
+				"initialEffectRate": 49,
+				"growthEffectRate": 2,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録サブ][発動率：{0}%]メインキャストにいるボイスタイプ声優の全ステータス+{1}（3カット継続）",
+		"iconId": 20503
+	},
+	{
+		"id": 4010014,
+		"name": "声に宿す決意Ⅳ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 3,
+				"targetParam": 1,
+				"initialEffectRate": 56,
+				"growthEffectRate": 2,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録サブ][発動率：{0}%]メインキャストにいるボイスタイプ声優の全ステータス+{1}（3カット継続）",
+		"iconId": 20503
+	},
+	{
+		"id": 4010015,
+		"name": "希望の言葉Ⅲ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 3,
+				"targetParam": 2,
+				"initialEffectRate": 49,
+				"growthEffectRate": 2,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録サブ][発動率：{0}%]メインキャストにいるテクニックタイプ声優の全ステータス+{1}（3カット継続）",
+		"iconId": 20504
+	},
+	{
+		"id": 4010016,
+		"name": "希望の言葉Ⅳ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 3,
+				"targetParam": 2,
+				"initialEffectRate": 56,
+				"growthEffectRate": 2,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録サブ][発動率：{0}%]メインキャストにいるテクニックタイプ声優の全ステータス+{1}（3カット継続）",
+		"iconId": 20504
+	},
+	{
+		"id": 4010017,
+		"name": "実現させる想いⅢ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 3,
+				"targetParam": 3,
+				"initialEffectRate": 49,
+				"growthEffectRate": 2,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録サブ][発動率：{0}%]メインキャストにいるメンタルタイプ声優の全ステータス+{1}（3カット継続）",
+		"iconId": 20505
+	},
+	{
+		"id": 4010018,
+		"name": "実現させる想いⅣ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 3,
+				"targetParam": 3,
+				"initialEffectRate": 56,
+				"growthEffectRate": 2,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録サブ][発動率：{0}%]メインキャストにいるメンタルタイプ声優の全ステータス+{1}（3カット継続）",
+		"iconId": 20505
+	},
+	{
+		"id": 4010019,
+		"name": "可能性の広がりⅢ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 3,
+				"targetParam": 4,
+				"initialEffectRate": 49,
+				"growthEffectRate": 2,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録サブ][発動率：{0}%]メインキャストにいるカリスマタイプ声優の全ステータス+{1}（3カット継続）",
+		"iconId": 20506
+	},
+	{
+		"id": 4010020,
+		"name": "可能性の広がりⅣ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 3,
+				"targetParam": 4,
+				"initialEffectRate": 56,
+				"growthEffectRate": 2,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録サブ][発動率：{0}%]メインキャストにいるカリスマタイプ声優の全ステータス+{1}（3カット継続）",
+		"iconId": 20506
+	},
+	{
+		"id": 4010021,
+		"name": "堕天使降臨の儀式Ⅳ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 6,
+				"targetParam": 13,
+				"initialEffectRate": 225,
+				"growthEffectRate": 12,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録サブ][発動率：{0}%]メインキャストにいる利恵の全ステータス+{1}（3カット継続）",
+		"iconId": 20512
+	},
+	{
+		"id": 4010022,
+		"name": "仲間への絆Ⅴ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 56,
+				"growthEffectRate": 2,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録サブ][発動率：{0}%]メインキャストの全ステータス+{1}（3カット継続）",
+		"iconId": 20515
+	},
+	{
+		"id": 4010023,
+		"name": "芽生える才華Ⅲ",
+		"skillType": 2,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 5,
+				"targetParam": 1,
+				"initialEffectRate": 54,
+				"growthEffectRate": 2,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録サブ][発動率：{0}%]メインキャストにいるFlowerの全ステータス+{1}（3カット継続）",
+		"iconId": 20508
+	},
+	{
+		"id": 11010001,
+		"name": "なんでも残しておきたくて……",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 63,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのボイス{1}%アップ",
+		"iconId": 10115
+	},
+	{
+		"id": 11020001,
+		"name": "食卓はいつも戦場なの",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 315,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]自身のボイス{1}%アップ",
+		"iconId": 10101
+	},
+	{
+		"id": 11030001,
+		"name": "また、子ども扱いされた……",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 315,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]自身のボイス{1}%アップ",
+		"iconId": 10101
+	},
+	{
+		"id": 11040001,
+		"name": "真剣に応援しないと、ヒーローに失礼だよ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 448,
+		"growthTriggerRate": 28,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 3,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを3人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 11050001,
+		"name": "これも新しい！",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 315,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]自身のテクニック{1}%アップ",
+		"iconId": 10201
+	},
+	{
+		"id": 11060001,
+		"name": "ふぅ！いい天気！",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 63,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのテクニック{1}%アップ",
+		"iconId": 10215
+	},
+	{
+		"id": 11070001,
+		"name": "だってわたし、自分に自信ないんだもん",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 63,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのテクニック{1}%アップ",
+		"iconId": 10215
+	},
+	{
+		"id": 11080001,
+		"name": "私のお店の服でもいいんだけど",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 448,
+		"growthTriggerRate": 28,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 3,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを3人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 11090001,
+		"name": "じゃ、みんなで一緒にやろっか",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 315,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]自身のメンタル{1}%アップ",
+		"iconId": 10301
+	},
+	{
+		"id": 11100001,
+		"name": "……ありませんよ、私には",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 63,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのメンタル{1}%アップ",
+		"iconId": 10315
+	},
+	{
+		"id": 11110001,
+		"name": "あ、今のは自撮り",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 63,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのメンタル{1}%アップ",
+		"iconId": 10315
+	},
+	{
+		"id": 11120001,
+		"name": "まだ、まだ焦るな。次の波を待て",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 448,
+		"growthTriggerRate": 28,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 3,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを3人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 11130001,
+		"name": "悪魔の血が全身に染み渡る……",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 315,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]自身のカリスマ{1}%アップ",
+		"iconId": 10401
+	},
+	{
+		"id": 11140001,
+		"name": "私以外、だれも私を傷つけることはできない",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 63,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのカリスマ{1}%アップ",
+		"iconId": 10415
+	},
+	{
+		"id": 11150001,
+		"name": "わたしが不幸を追い払ってあげるからね♪",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 448,
+		"growthTriggerRate": 28,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 3,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを3人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 11160001,
+		"name": "好きなものは好きでいいんじゃない。",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 63,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 10,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのカリスマ{1}%アップ",
+		"iconId": 10415
+	},
+	{
+		"id": 12010002,
+		"name": "かわいい女の子を演じる……？",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 42,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 3
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのテクニック{1}%アップ（3カット継続）",
+		"iconId": 10215
+	},
+	{
+		"id": 12020002,
+		"name": "え？　クジラって魚じゃないの？",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 360,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]自身のメンタル{1}%アップ",
+		"iconId": 10301
+	},
+	{
+		"id": 12030002,
+		"name": "ジャーマネは、変わった人だな。",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 360,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]自身のメンタル{1}%アップ",
+		"iconId": 10301
+	},
+	{
+		"id": 12040002,
+		"name": "私って、ここに何しにきたんだっけ……？",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 512,
+		"growthTriggerRate": 32,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 3,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを3人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 12050002,
+		"name": "貴様たちではない！プラモの成長だ。",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 360,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]自身のメンタル{1}%アップ",
+		"iconId": 10301
+	},
+	{
+		"id": 12060002,
+		"name": "感情の解放ってなんだろう？",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 42,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 3
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのボイス{1}%アップ（3カット継続）",
+		"iconId": 10115
+	},
+	{
+		"id": 12070002,
+		"name": "ダメです……そのセリフは恐れ多くて！",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 42,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 3
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのテクニック{1}%アップ（3カット継続）",
+		"iconId": 10215
+	},
+	{
+		"id": 12080002,
+		"name": "かれこれ地球を7周半はしてるわ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 512,
+		"growthTriggerRate": 32,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 3,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを3人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 12090002,
+		"name": "わたしがいままで生きてきた中で最高に幸せ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 42,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 3
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのカリスマ{1}%アップ（3カット継続）",
+		"iconId": 10415
+	},
+	{
+		"id": 12100002,
+		"name": "どうして私、泣いてるんだろう？",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 360,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]自身のテクニック{1}%アップ",
+		"iconId": 10201
+	},
+	{
+		"id": 12110002,
+		"name": "でも今まで以上にみんなのこと好きになった",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 360,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]自身のボイス{1}%アップ",
+		"iconId": 10101
+	},
+	{
+		"id": 12120002,
+		"name": "意地張んないとさ……頑張れないじゃん",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 512,
+		"growthTriggerRate": 32,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 3,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを3人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 12130002,
+		"name": "今度こそ、良い夢を見よう",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 360,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]自身のカリスマ{1}%アップ",
+		"iconId": 10401
+	},
+	{
+		"id": 12140002,
+		"name": "途中で邪魔されるの、大っ嫌いなの",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 42,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 3
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのメンタル{1}%アップ（3カット継続）",
+		"iconId": 10315
+	},
+	{
+		"id": 12150002,
+		"name": "うん……無理はよくない！",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 512,
+		"growthTriggerRate": 32,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 3,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを3人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 12160002,
+		"name": "それじゃ私、あっちの日陰で休んでいます",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 42,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 3
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのテクニック{1}%アップ（3カット継続）",
+		"iconId": 10215
+	},
+	{
+		"id": 12010003,
+		"name": "私にできるかな……",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 42,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 3
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのカリスマ{1}%アップ（3カット継続）",
+		"iconId": 10415
+	},
+	{
+		"id": 12020003,
+		"name": "そんなの、やってみなきゃわかんないじゃん",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 360,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]自身のボイス{1}%アップ",
+		"iconId": 10101
+	},
+	{
+		"id": 12030003,
+		"name": "こう見えて、器用なので",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 360,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]自身のテクニック{1}%アップ",
+		"iconId": 10201
+	},
+	{
+		"id": 12040003,
+		"name": "そう？　日々のトレーニングのおかげね",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 512,
+		"growthTriggerRate": 32,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 3,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを3人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 12050003,
+		"name": "憧れのロボットアニメに出演することが夢なの",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 360,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]自身のボイス{1}%アップ",
+		"iconId": 10101
+	},
+	{
+		"id": 12060003,
+		"name": "もう思い出したくありません！！",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 42,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 3
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのメンタル{1}%アップ（3カット継続）",
+		"iconId": 10315
+	},
+	{
+		"id": 12070003,
+		"name": "あ、ごめんなさい。あ、すみません",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 42,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 3
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのカリスマ{1}%アップ（3カット継続）",
+		"iconId": 10415
+	},
+	{
+		"id": 12080003,
+		"name": "私に足りないもの……？",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 512,
+		"growthTriggerRate": 32,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 3,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを3人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 12090003,
+		"name": "よしよし。こっちおいでぇ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 42,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 3
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのメンタル{1}%アップ（3カット継続）",
+		"iconId": 10315
+	},
+	{
+		"id": 12100003,
+		"name": "もういい！出たとこ勝負だ！",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 360,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]自身のカリスマ{1}%アップ",
+		"iconId": 10401
+	},
+	{
+		"id": 12110003,
+		"name": "子役時代からそういうの出てるから",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 360,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]自身のメンタル{1}%アップ",
+		"iconId": 10301
+	},
+	{
+		"id": 12120003,
+		"name": "ちょっと、しばらく、観察させてくださいねぇ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 512,
+		"growthTriggerRate": 32,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 3,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを3人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 12130003,
+		"name": "我輩に勝とうなど、片腹痛いわ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 360,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]自身のメンタル{1}%アップ",
+		"iconId": 10301
+	},
+	{
+		"id": 12140003,
+		"name": "素直って何だろう……？",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 42,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 3
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのテクニック{1}%アップ（3カット継続）",
+		"iconId": 10215
+	},
+	{
+		"id": 12150003,
+		"name": "私はぜんっぜん、平気だよ？",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 512,
+		"growthTriggerRate": 32,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 3,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを3人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 12160003,
+		"name": "気のせいだよ。いつもと一緒",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 42,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 3
+			}
+		],
+		"expTableId": 20,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのボイス{1}%アップ（3カット継続）",
+		"iconId": 10115
+	},
+	{
+		"id": 13010004,
+		"name": "ありがとう……わたし、頑張る",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 405,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]自身のメンタル{1}%アップ",
+		"iconId": 10301
+	},
+	{
+		"id": 13020004,
+		"name": "今日だけ自分のこと姫って呼んでね",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 897,
+				"growthEffectRate": 49,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。自身のテクニック{1}%アップ",
+		"iconId": 10201
+	},
+	{
+		"id": 13030004,
+		"name": "このお茶が美味しかったからチャラにする",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 810,
+				"growthEffectRate": 45,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。自身のボイス{1}%アップ",
+		"iconId": 10101
+	},
+	{
+		"id": 13040004,
+		"name": "このために、普段から体鍛えてるからね",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 576,
+		"growthTriggerRate": 36,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 3,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを3人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 13050004,
+		"name": "みんな、楽しんでいこー！",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 810,
+				"growthEffectRate": 45,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。自身のテクニック{1}%アップ",
+		"iconId": 10201
+	},
+	{
+		"id": 13060004,
+		"name": "実際に私、お姉さんだから",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 405,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]自身のテクニック{1}%アップ",
+		"iconId": 10201
+	},
+	{
+		"id": 13070004,
+		"name": "あいり１人でなんでもやってやるんだ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 810,
+				"growthEffectRate": 45,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。自身のメンタル{1}%アップ",
+		"iconId": 10301
+	},
+	{
+		"id": 13080004,
+		"name": "も、もう……我慢の限界！",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 664,
+				"growthEffectRate": 36,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。メインキャストのボイス+{1}",
+		"iconId": 10115
+	},
+	{
+		"id": 13090004,
+		"name": "がんばったね……私！",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 576,
+		"growthTriggerRate": 36,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 3,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを3人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 13100004,
+		"name": "また……会いに来たよ。",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 405,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]自身のボイス{1}%アップ",
+		"iconId": 10101
+	},
+	{
+		"id": 13110004,
+		"name": "今すごく、気分がいいの。",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 405,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]自身のテクニック{1}%アップ",
+		"iconId": 10201
+	},
+	{
+		"id": 13120004,
+		"name": "あ、やっぱりあたしツイてるよ。",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 602,
+				"growthEffectRate": 33,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。メインキャストのカリスマ+{1}",
+		"iconId": 10415
+	},
+	{
+		"id": 13130004,
+		"name": "さぁ、もう少し歩こう。鳴、付き合ってくれる？",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 300,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのテクニック+{1}",
+		"iconId": 10215
+	},
+	{
+		"id": 13140004,
+		"name": "私だって、言うときは言うよ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 5,
+				"targetParam": 4,
+				"initialEffectRate": 69,
+				"growthEffectRate": 3,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストにいるMoonのカリスマ+{1}",
+		"iconId": 10411
+	},
+	{
+		"id": 13150004,
+		"name": "当たり前でしょ。わたしは約束を守るの！",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 300,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのメンタル+{1}",
+		"iconId": 10315
+	},
+	{
+		"id": 13160004,
+		"name": "マネージャーさんとは気楽に話ができます",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 664,
+				"growthEffectRate": 36,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。メインキャストのカリスマ+{1}",
+		"iconId": 10415
+	},
+	{
+		"id": 13010006,
+		"name": "わたしも負けないようにキラキラ輝きます",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 289,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 1
+			},
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 289,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのボイスとテクニック+{1}",
+		"iconId": 10615
+	},
+	{
+		"id": 13020006,
+		"name": "よーし！ 帰ってゲームだ！",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 576,
+		"growthTriggerRate": 36,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 6,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。サブキャストを6人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 13030006,
+		"name": "それだけで十分感謝してる",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 393,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 393,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]自身のテクニックとカリスマ{1}%アップ",
+		"iconId": 11001
+	},
+	{
+		"id": 13040006,
+		"name": "みなさんの応援のおかげです！",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 645,
+				"growthEffectRate": 36,
+				"logic": 1,
+				"turn": 1
+			},
+			{
+				"effectType": 3,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 645,
+				"growthEffectRate": 36,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。メインキャストのテクニックとメンタル+{1}",
+		"iconId": 10915
+	},
+	{
+		"id": 13050006,
+		"name": "思い込んだら不可能はない！",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 576,
+		"growthTriggerRate": 36,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 3,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを3人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 13060006,
+		"name": "世話の焼ける子たちよね、まったく",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 645,
+				"growthEffectRate": 36,
+				"logic": 1,
+				"turn": 1
+			},
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 645,
+				"growthEffectRate": 36,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。メインキャストのボイスとカリスマ+{1}",
+		"iconId": 10815
+	},
+	{
+		"id": 13070006,
+		"name": "大人になるって、悪くないかも",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 592,
+				"growthEffectRate": 32,
+				"logic": 1,
+				"turn": 1
+			},
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 592,
+				"growthEffectRate": 32,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。メインキャストのボイスとテクニック+{1}",
+		"iconId": 10615
+	},
+	{
+		"id": 13080006,
+		"name": "うん、うまくやってる。とっても楽しいよ！",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 576,
+		"growthTriggerRate": 36,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 3,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを3人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 13090006,
+		"name": "うふふ、じゃあ、もう一曲いっちゃおっか",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 181,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのテクニック+{1}（3カット継続）",
+		"iconId": 10215
+	},
+	{
+		"id": 13100006,
+		"name": "でもとりあえず、前に進んで行くんだ",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 289,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 1
+			},
+			{
+				"effectType": 4,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 289,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストのメンタルとカリスマ+{1}",
+		"iconId": 11115
+	},
+	{
+		"id": 13110006,
+		"name": "演技って……真実？それとも嘘？",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 798,
+				"growthEffectRate": 43,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 798,
+				"growthEffectRate": 43,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。自身のボイスとカリスマ{1}%アップ",
+		"iconId": 10801
+	},
+	{
+		"id": 13120006,
+		"name": "いやいや、こういう時は豪勢にいかないと",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 576,
+		"growthTriggerRate": 36,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 6,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。サブキャストを6人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 13130006,
+		"name": "ま、我輩が本気を出せばこんなものだ",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 873,
+				"growthEffectRate": 48,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 873,
+				"growthEffectRate": 48,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。自身のボイスとテクニック{1}%アップ",
+		"iconId": 10601
+	},
+	{
+		"id": 13140006,
+		"name": "いえ、とってもキレイでした",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 393,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 393,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]自身のボイスとテクニック{1}%アップ",
+		"iconId": 10601
+	},
+	{
+		"id": 13150006,
+		"name": "内緒なんて悪いですよ！こんなに美味しいのに！",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 576,
+		"growthTriggerRate": 36,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 3,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを3人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 13160006,
+		"name": "それに利恵と一緒に声優やるって決めてるから",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 850,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 6,
+				"targetParam": 13,
+				"initialEffectRate": 3299,
+				"growthEffectRate": 183,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。メインキャストにいる利恵のメンタル+{1}",
+		"iconId": 10312
+	},
+	{
+		"id": 14010005,
+		"name": "わたしは、自分を信じることにします！",
+		"skillType": 1,
+		"functionType": 4,
+		"functionParam": 1,
+		"functionType2": 10,
+		"functionParam2": 4,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 78,
+				"growthEffectRate": 4,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]Flowerが4人以上いる場合、メインキャストのボイス{1}%アップ",
+		"iconId": 10115
+	},
+	{
+		"id": 14020005,
+		"name": "よーし！ 不安が一気に吹っ飛んだ！",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 990,
+				"growthEffectRate": 55,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。自身のボイス{1}%アップ",
+		"iconId": 10101
+	},
+	{
+		"id": 14030005,
+		"name": "わかりましたよ……さ、やるか！",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 438,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 438,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]自身のボイスとカリスマ{1}%アップ",
+		"iconId": 10801
+	},
+	{
+		"id": 14040005,
+		"name": "みんなと最高のステージができますように",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 3,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを3人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 14050005,
+		"name": "大丈夫大丈夫！気合い入れていこう！",
+		"skillType": 1,
+		"functionType": 4,
+		"functionParam": 2,
+		"functionType2": 10,
+		"functionParam2": 4,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 375,
+				"growthEffectRate": 21,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]Birdが4人以上いる場合、自身のテクニック{1}%アップ",
+		"iconId": 10201
+	},
+	{
+		"id": 14060005,
+		"name": "このミルクセーキが私の勝負めしです！",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 447,
+				"growthEffectRate": 23,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。メインキャストのテクニック+{1}（3カット継続）",
+		"iconId": 10215
+	},
+	{
+		"id": 14070005,
+		"name": "ナイスアンラッキーです！",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 666,
+				"growthEffectRate": 37,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。メインキャストのテクニック+{1}",
+		"iconId": 10215
+	},
+	{
+		"id": 14080005,
+		"name": "大丈夫。黒船に乗ったつもりでいて",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 3,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを3人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 14090005,
+		"name": "ありがとう。お兄ちゃん",
+		"skillType": 1,
+		"functionType": 4,
+		"functionParam": 3,
+		"functionType2": 10,
+		"functionParam2": 4,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 72,
+				"growthEffectRate": 4,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]Windが4人以上いる場合、メインキャストの全ステータス{1}%アップ",
+		"iconId": 10515
+	},
+	{
+		"id": 14100005,
+		"name": "私、少女漫画のように、人に感動を表現したいの",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 450,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]自身のメンタル{1}%アップ",
+		"iconId": 10301
+	},
+	{
+		"id": 14110005,
+		"name": "これで心置きなくステージに立てる！",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 900,
+				"growthEffectRate": 50,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。自身のメンタル{1}%アップ",
+		"iconId": 10301
+	},
+	{
+		"id": 14120005,
+		"name": "大切に使います！ ありがとうございます！",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 6,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。サブキャストを6人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 14130005,
+		"name": "これさえあれば我輩は無敵になれる！",
+		"skillType": 1,
+		"functionType": 4,
+		"functionParam": 4,
+		"functionType2": 10,
+		"functionParam2": 4,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 375,
+				"growthEffectRate": 21,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]Moonが4人以上いる場合、自身のカリスマ{1}%アップ",
+		"iconId": 10401
+	},
+	{
+		"id": 14140005,
+		"name": "任せといて。ちゃんとそこで見てなさい",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 3,
+				"targetParam": 4,
+				"initialEffectRate": 147,
+				"growthEffectRate": 7,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]メインキャストにいるカリスマタイプ声優の全ステータス+{1}（3カット継続）",
+		"iconId": 10506
+	},
+	{
+		"id": 14150005,
+		"name": "よ～し！ 今日も頑張っちゃうよー！",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 3,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを3人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 14160005,
+		"name": "うん。いつでも私は側にいる",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 850,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 6,
+				"targetParam": 13,
+				"initialEffectRate": 3669,
+				"growthEffectRate": 203,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。メインキャストにいる利恵のカリスマ+{1}",
+		"iconId": 10412
+	},
+	{
+		"id": 14050007,
+		"name": "ね、ケーキ、食べていい？",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 900,
+				"growthEffectRate": 50,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。自身のカリスマ{1}%アップ",
+		"iconId": 10401
+	},
+	{
+		"id": 14090007,
+		"name": "この雨が上がったら、虹、でますかねー？",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 189,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 3
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]メインキャストの全ステータス+{1}（3カット継続）",
+		"iconId": 10515
+	},
+	{
+		"id": 13110007,
+		"name": "まほろは今どこにいるでしょう？",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 3,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 810,
+				"growthEffectRate": 45,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット3に発動。自身のボイス{1}%アップ",
+		"iconId": 10101
+	},
+	{
+		"id": 14040007,
+		"name": "その１！水分補給はこまめに！",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 450,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]自身のカリスマ{1}%アップ",
+		"iconId": 10401
+	},
+	{
+		"id": 13010007,
+		"name": "だって、こんなに紅葉が綺麗なんだから",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 289,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]メインキャストの全ステータス+{1}",
+		"iconId": 10515
+	},
+	{
+		"id": 14020007,
+		"name": "お願いね、大人の……マネージャー！",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 2,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 972,
+				"growthEffectRate": 53,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 972,
+				"growthEffectRate": 53,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。自身のテクニックとメンタル{1}%アップ",
+		"iconId": 10901
+	},
+	{
+		"id": 14160007,
+		"name": "11月ランキングスカウト：鳴のヒロインスキル",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 738,
+				"growthEffectRate": 40,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。メインキャストのメンタル+{1}",
+		"iconId": 10315
+	},
+	{
+		"id": 13150007,
+		"name": "11月ランキングスカウト：凛音のヒロインスキル",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 897,
+				"growthEffectRate": 49,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。自身のメンタル{1}%アップ",
+		"iconId": 10301
+	},
+	{
+		"id": 14130007,
+		"name": "11月ランキングイベント：利恵のヒロインスキル",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 5,
+				"targetType": 9,
+				"targetParam": 1,
+				"initialEffectRate": 321,
+				"growthEffectRate": 0,
+				"logic": 1,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]メインキャストの全ステータス+{1}",
+		"iconId": 10515
+	},
+	{
+		"id": 13140007,
+		"name": "11月ランキングイベント：聡里のヒロインスキル",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 576,
+		"growthTriggerRate": 36,
+		"effectList": [
+			{
+				"effectType": 6,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialEffectRate": 3,
+				"growthEffectRate": 0,
+				"logic": 0,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "[収録メイン][発動率：{0}%]サブキャストを3人呼ぶ",
+		"iconId": 12301
+	},
+	{
+		"id": 14130009,
+		"name": "12月生誕祭スカウト：利恵のヒロインスキル",
+		"skillType": 1,
+		"functionType": 1,
+		"functionParam": 1,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 1000,
+		"growthTriggerRate": 0,
+		"effectList": [
+			{
+				"effectType": 3,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 990,
+				"growthEffectRate": 55,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "[収録メイン][発動率：{0}%]カット1に発動。自身のメンタル{1}%アップ",
+		"iconId": 10301
+	},
+	{
+		"id": 14140008,
+		"name": "12月配信スカウト：聡里のヒロインスキル",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 50,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "効果内容未定",
+		"iconId": 10101
+	},
+	{
+		"id": 13130008,
+		"name": "12月配信スカウト：利恵のヒロインスキル",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 50,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "効果内容未定",
+		"iconId": 10101
+	},
+	{
+		"id": 14100007,
+		"name": "12月配信イベント：絢のヒロインスキル",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 50,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "効果内容未定",
+		"iconId": 10101
+	},
+	{
+		"id": 13120008,
+		"name": "12月配信スカウト：莉子のヒロインスキル",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 50,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "効果内容未定",
+		"iconId": 10101
+	},
+	{
+		"id": 14070007,
+		"name": "12月マラソンイベント：あいりのヒロインスキル",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 50,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 40,
+		"description": "効果内容未定",
+		"iconId": 10101
+	},
+	{
+		"id": 13050008,
+		"name": "12月マラソンイベント：悠希のヒロインスキル",
+		"skillType": 1,
+		"functionType": 0,
+		"functionParam": 0,
+		"functionType2": 0,
+		"functionParam2": 0,
+		"initialTriggerRate": 640,
+		"growthTriggerRate": 40,
+		"effectList": [
+			{
+				"effectType": 1,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialEffectRate": 50,
+				"growthEffectRate": 0,
+				"logic": 3,
+				"turn": 1
+			}
+		],
+		"expTableId": 30,
+		"description": "効果内容未定",
+		"iconId": 10101
+	}
+]
