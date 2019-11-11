@@ -69,9 +69,6 @@ a.active,a:hover{
   .checkbtn{
     display: block;
   }
-  img {
-    width: 50px;
-  }
   ul{
     position: fixed;
     width: 100%;
@@ -96,8 +93,7 @@ a.active,a:hover{
   }
   #check:checked ~ ul{
     left: 0;
-  
-  
+  }
 }
 
 .pagination a {
