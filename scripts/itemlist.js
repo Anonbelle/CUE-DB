@@ -24,9 +24,10 @@
             var x = 0;
             $.each(data, function (key, value) {
                 chardata += '<tr>';
-                chardata += '<td name=' + 'image' + x + '>' + '<img src=' + 'https://anonbelle.github.io/CUE-DB/images/itemicon/item_' + fill(value.type, 2) + '_' + fill(value.id, 5) + '.png' + '>' + '</td>';
+                chardata += '<td width="5%" name=' + 'image' + x + '>' + '<img src=' + 'https://anonbelle.github.io/CUE-DB/images/itemicon/item_' + fill(value.type, 2) + '_' + fill(value.id, 5) + '.png' + '>' + '</td>';
                 chardata += '<td>' + value.name + '</td>';
                 chardata += '<td>' + value.description + '</td>';
+                chardata += '<td>' + value.effectValue + '</td>';
                 chardata += '</tr>';
                 x = x + 1;
             });

@@ -71,7 +71,7 @@ body {
   margin: 0;
   font-family: "Segoe UI", "Source Sans Pro", Calibri, Candara, Arial,
     sans-serif;
-  font-size: 0.9375rem;
+  font-size: 0,5rem;
   font-weight: 400;
   line-height: 1.5;
   text-align: left;
@@ -1607,9 +1607,9 @@ pre code {
 }
 .table th,
 .table td {
-  padding: 0.75rem;
+  padding: 0.40rem;
   vertical-align: top;
-  border-top: 1px solid #dee2e6;
+  border-top: 1px solid #2c3e50;
 }
 .table thead th {
   vertical-align: bottom;

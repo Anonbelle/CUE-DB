@@ -29,7 +29,7 @@
                 chardata += '<td>' + value.showingId + '</td>';
                 chardata += '<td>' + value.chapterId + '</td>';
                 chardata += '<td>' + value.defficultyLevel + '</td>';
-                chardata += '<td name=' + 'image' + x + '>' + '<img src=' + 'https://anonbelle.github.io/CUE-DB/images/itemicon/item_' + fill(value.rewardItemType, 2) + '_' + fill(value.rewardItemId, 5) + '.png' + '>' + '</td>';
+                chardata += '<td width="5%" name=' + 'image' + x + '>' + '<img src=' + 'https://anonbelle.github.io/CUE-DB/images/itemicon/item_' + fill(value.rewardItemType, 2) + '_' + fill(value.rewardItemId, 5) + '.png' + '>' + '</td>';
                 chardata += '<td>' + value.rewardItemQuantity + '</td>';
                 chardata += '</tr>';
                 x = x + 1;

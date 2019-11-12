@@ -24,7 +24,7 @@
             var x = 0;
             $.each(data, function (key, value) {
                 chardata += '<tr>';
-                chardata += '<td name=' + 'image' + x + '>' + '<img src=' + 'https://anonbelle.github.io/CUE-DB/images/degree/Achievement_' + fill(value.id, 3) + '.png' + '>' + '</td>';
+                chardata += '<td width="10%" name=' + 'image' + x + '>' + '<img src=' + 'https://anonbelle.github.io/CUE-DB/images/degree/Achievement_' + fill(value.id, 3) + '.png' + '>' + '</td>';
                 chardata += '<td>' + value.name + '</td>';
                 chardata += '<td>' + value.description + '</td>';
                 chardata += '</tr>';
