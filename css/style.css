@@ -6,8 +6,13 @@
   box-sizing: border-box;
 }
 body{
-  font-family: montserrat;
+  font-size: 15px;
 }
+
+.ft{
+  font-size: 40px;
+}
+
 #test{
   background: #0082e6;
   height: 80px;
@@ -69,6 +74,18 @@ a.active,a:hover{
   .checkbtn{
     display: block;
   }
+  .w3-round {
+    object-fit: cover;
+    object-position: 50% 0;
+    width: 250px !important;
+    height: 300px !important;
+  }
+  .attr {
+    width: 40px !important;
+  }
+  .ft {
+    font-size: 15px !important;
+  }
   ul{
     position: fixed;
     width: 100%;
@@ -94,6 +111,7 @@ a.active,a:hover{
   #check:checked ~ ul{
     left: 0;
   }
+
 }
 
 .pagination a {
@@ -136,9 +154,13 @@ a.active,a:hover{
 }
 
 img {
-  width: 100px;
+  width: 80px;
   display: block;
   margin-left: auto;
   margin-right: auto;
   max-width: fit-content;
+}
+
+.w3-round {
+  width: 550px;
 }

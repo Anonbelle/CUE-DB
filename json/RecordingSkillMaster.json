@@ -2792,7 +2792,7 @@
 	},
 	{
 		"id": 3010104,
-		"name": "1CめメインのM加算4",
+		"name": "想い出の出発点Ⅳ",
 		"skillType": 1,
 		"functionType": 1,
 		"functionParam": 1,
@@ -2885,7 +2885,7 @@
 	},
 	{
 		"id": 3010107,
-		"name": "1Cめ自身のM乗算4",
+		"name": "芽生える思いⅣ",
 		"skillType": 1,
 		"functionType": 1,
 		"functionParam": 1,
@@ -6134,7 +6134,7 @@
 	},
 	{
 		"id": 14160007,
-		"name": "11月ランキングスカウト：鳴のヒロインスキル",
+		"name": "私……少しは大人になれたのかな",
 		"skillType": 1,
 		"functionType": 1,
 		"functionParam": 1,
@@ -6159,7 +6159,7 @@
 	},
 	{
 		"id": 13150007,
-		"name": "11月ランキングスカウト：凛音のヒロインスキル",
+		"name": "くっ。お願い！もう一回勝負して！",
 		"skillType": 1,
 		"functionType": 1,
 		"functionParam": 1,
@@ -6184,7 +6184,7 @@
 	},
 	{
 		"id": 14130007,
-		"name": "11月ランキングイベント：利恵のヒロインスキル",
+		"name": "大切なのは、自分に自信を持つこと",
 		"skillType": 1,
 		"functionType": 0,
 		"functionParam": 0,
@@ -6209,7 +6209,7 @@
 	},
 	{
 		"id": 13140007,
-		"name": "11月ランキングイベント：聡里のヒロインスキル",
+		"name": "へえ、サバゲってちょっと面白いじゃない……",
 		"skillType": 1,
 		"functionType": 0,
 		"functionParam": 0,
@@ -6234,7 +6234,7 @@
 	},
 	{
 		"id": 14130009,
-		"name": "12月生誕祭スカウト：利恵のヒロインスキル",
+		"name": "我輩は大悪魔エリスであるぞ！",
 		"skillType": 1,
 		"functionType": 1,
 		"functionParam": 1,

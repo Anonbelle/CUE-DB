@@ -1,0 +1,343 @@
+[
+	{
+		"id": 2010033,
+		"name": "PieceUpⅢ",
+		"functionType": 0,
+		"functionParam": 0,
+		"initialTriggerRate": 306,
+		"growthTriggerRate": 16,
+		"effectList": [
+			{
+				"id": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialRate": 200,
+				"growthRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"id": 0,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialRate": 0,
+				"growthRate": 0,
+				"logic": 0,
+				"turn": 0
+			}
+		],
+		"expTableId": 30,
+		"description": "[レッスン][発動率：{0}%]パネルピース獲得量が{1}%アップ",
+		"iconId": 104
+	},
+	{
+		"id": 2010034,
+		"name": "PieceUpⅣ",
+		"functionType": 0,
+		"functionParam": 0,
+		"initialTriggerRate": 338,
+		"growthTriggerRate": 18,
+		"effectList": [
+			{
+				"id": 4,
+				"targetType": 1,
+				"targetParam": 0,
+				"initialRate": 200,
+				"growthRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"id": 0,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialRate": 0,
+				"growthRate": 0,
+				"logic": 0,
+				"turn": 0
+			}
+		],
+		"expTableId": 40,
+		"description": "[レッスン][発動率：{0}%]パネルピース獲得量が{1}%アップ",
+		"iconId": 104
+	},
+	{
+		"id": 2010041,
+		"name": "ExpUp【All】Ⅰ",
+		"functionType": 0,
+		"functionParam": 0,
+		"initialTriggerRate": 233,
+		"growthTriggerRate": 13,
+		"effectList": [
+			{
+				"id": 5,
+				"targetType": 2,
+				"targetParam": 0,
+				"initialRate": 1000,
+				"growthRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"id": 0,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialRate": 0,
+				"growthRate": 0,
+				"logic": 0,
+				"turn": 0
+			}
+		],
+		"expTableId": 10,
+		"description": "[レッスン][発動率：{0}%]全体の声優経験値獲得量が{1}%アップ",
+		"iconId": 205
+	},
+	{
+		"id": 2010042,
+		"name": "ExpUp【All】Ⅱ",
+		"functionType": 0,
+		"functionParam": 0,
+		"initialTriggerRate": 274,
+		"growthTriggerRate": 14,
+		"effectList": [
+			{
+				"id": 5,
+				"targetType": 2,
+				"targetParam": 0,
+				"initialRate": 1000,
+				"growthRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"id": 0,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialRate": 0,
+				"growthRate": 0,
+				"logic": 0,
+				"turn": 0
+			}
+		],
+		"expTableId": 20,
+		"description": "[レッスン][発動率：{0}%]全体の声優経験値獲得量が{1}%アップ",
+		"iconId": 205
+	},
+	{
+		"id": 2010052,
+		"name": "TrustUp【All】Ⅱ",
+		"functionType": 0,
+		"functionParam": 0,
+		"initialTriggerRate": 274,
+		"growthTriggerRate": 14,
+		"effectList": [
+			{
+				"id": 6,
+				"targetType": 2,
+				"targetParam": 0,
+				"initialRate": 1000,
+				"growthRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"id": 0,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialRate": 0,
+				"growthRate": 0,
+				"logic": 0,
+				"turn": 0
+			}
+		],
+		"expTableId": 20,
+		"description": "[レッスン][発動率：{0}%]全体の好感度獲得量が{1}%アップ",
+		"iconId": 206
+	},
+	{
+		"id": 2010063,
+		"name": "TensionUp【All】Ⅲ",
+		"functionType": 1,
+		"functionParam": 1,
+		"initialTriggerRate": 306,
+		"growthTriggerRate": 16,
+		"effectList": [
+			{
+				"id": 3,
+				"targetType": 2,
+				"targetParam": 0,
+				"initialRate": 200,
+				"growthRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"id": 0,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialRate": 0,
+				"growthRate": 0,
+				"logic": 0,
+				"turn": 0
+			}
+		],
+		"expTableId": 30,
+		"description": "[レッスン][発動率：{0}%]全体の特訓ゲージ獲得量が{1}%アップ",
+		"iconId": 203
+	},
+	{
+		"id": 2010064,
+		"name": "TensionUp【All】Ⅳ",
+		"functionType": 1,
+		"functionParam": 1,
+		"initialTriggerRate": 338,
+		"growthTriggerRate": 18,
+		"effectList": [
+			{
+				"id": 3,
+				"targetType": 2,
+				"targetParam": 0,
+				"initialRate": 200,
+				"growthRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"id": 0,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialRate": 0,
+				"growthRate": 0,
+				"logic": 0,
+				"turn": 0
+			}
+		],
+		"expTableId": 40,
+		"description": "[レッスン][発動率：{0}%]全体の特訓ゲージ獲得量が{1}%アップ",
+		"iconId": 203
+	},
+	{
+		"id": 2010074,
+		"name": "TensionUp【花】Ⅳ",
+		"functionType": 1,
+		"functionParam": 1,
+		"initialTriggerRate": 338,
+		"growthTriggerRate": 18,
+		"effectList": [
+			{
+				"id": 3,
+				"targetType": 3,
+				"targetParam": 1,
+				"initialRate": 250,
+				"growthRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"id": 0,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialRate": 0,
+				"growthRate": 0,
+				"logic": 0,
+				"turn": 0
+			}
+		],
+		"expTableId": 40,
+		"description": "[レッスン][発動率：{0}%]Flowerの特訓ゲージ獲得量が{1}%アップ",
+		"iconId": 303
+	},
+	{
+		"id": 2010084,
+		"name": "TensionUp【鳥】Ⅳ",
+		"functionType": 1,
+		"functionParam": 1,
+		"initialTriggerRate": 338,
+		"growthTriggerRate": 18,
+		"effectList": [
+			{
+				"id": 3,
+				"targetType": 3,
+				"targetParam": 2,
+				"initialRate": 250,
+				"growthRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"id": 0,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialRate": 0,
+				"growthRate": 0,
+				"logic": 0,
+				"turn": 0
+			}
+		],
+		"expTableId": 40,
+		"description": "[レッスン][発動率：{0}%]Birdの特訓ゲージ獲得量が{1}%アップ",
+		"iconId": 403
+	},
+	{
+		"id": 2010094,
+		"name": "TensionUp【風】Ⅳ",
+		"functionType": 1,
+		"functionParam": 1,
+		"initialTriggerRate": 338,
+		"growthTriggerRate": 18,
+		"effectList": [
+			{
+				"id": 3,
+				"targetType": 3,
+				"targetParam": 3,
+				"initialRate": 250,
+				"growthRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"id": 0,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialRate": 0,
+				"growthRate": 0,
+				"logic": 0,
+				"turn": 0
+			}
+		],
+		"expTableId": 40,
+		"description": "[レッスン][発動率：{0}%]Windの特訓ゲージ獲得量が{1}%アップ",
+		"iconId": 503
+	},
+	{
+		"id": 2010104,
+		"name": "TensionUp【月】Ⅳ",
+		"functionType": 1,
+		"functionParam": 1,
+		"initialTriggerRate": 338,
+		"growthTriggerRate": 18,
+		"effectList": [
+			{
+				"id": 3,
+				"targetType": 3,
+				"targetParam": 4,
+				"initialRate": 250,
+				"growthRate": 0,
+				"logic": 3,
+				"turn": 1
+			},
+			{
+				"id": 0,
+				"targetType": 0,
+				"targetParam": 0,
+				"initialRate": 0,
+				"growthRate": 0,
+				"logic": 0,
+				"turn": 0
+			}
+		],
+		"expTableId": 40,
+		"description": "[レッスン][発動率：{0}%]Moonの特訓ゲージ獲得量が{1}%アップ",
+		"iconId": 603
+	}
+]

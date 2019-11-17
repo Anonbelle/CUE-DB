@@ -1455,7 +1455,7 @@
 		"name": "(称号）大崎 あかね",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 35,
+		"displayOrder": 36,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1465,7 +1465,7 @@
 		"name": "(称号）経堂 みずな",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 36,
+		"displayOrder": 37,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1475,7 +1475,7 @@
 		"name": "(称号）真間 ふうか",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 37,
+		"displayOrder": 38,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1485,7 +1485,7 @@
 		"name": "(称号）黒川 ことり",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 38,
+		"displayOrder": 39,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1495,7 +1495,7 @@
 		"name": "(称号）ララ",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 39,
+		"displayOrder": 40,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1505,7 +1505,7 @@
 		"name": "(称号）リリ",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 40,
+		"displayOrder": 41,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1515,7 +1515,7 @@
 		"name": "(称号）ルル",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 41,
+		"displayOrder": 42,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1525,7 +1525,7 @@
 		"name": "(称号）レーン",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 42,
+		"displayOrder": 43,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1535,7 +1535,7 @@
 		"name": "(称号）そぷら",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 43,
+		"displayOrder": 44,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1545,7 +1545,7 @@
 		"name": "(称号）めぞん",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 44,
+		"displayOrder": 45,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1555,7 +1555,7 @@
 		"name": "(称号）あると",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 45,
+		"displayOrder": 46,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1565,7 +1565,7 @@
 		"name": "(称号）すこあ",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 46,
+		"displayOrder": 47,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1575,7 +1575,7 @@
 		"name": "(称号）グィネヴィア",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 47,
+		"displayOrder": 48,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1585,7 +1585,7 @@
 		"name": "(称号）朝霧 或耶",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 48,
+		"displayOrder": 49,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1595,7 +1595,7 @@
 		"name": "(称号）取戸 芽瑠",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 49,
+		"displayOrder": 50,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1605,7 +1605,7 @@
 		"name": "(称号）エスカ",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 50,
+		"displayOrder": 51,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1615,7 +1615,7 @@
 		"name": "(称号）陽菜担当マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 51,
+		"displayOrder": 56,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1625,7 +1625,7 @@
 		"name": "(称号）舞花担当マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 52,
+		"displayOrder": 59,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1635,7 +1635,7 @@
 		"name": "(称号）志穂担当マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 53,
+		"displayOrder": 62,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1645,7 +1645,7 @@
 		"name": "(称号）ほのか担当マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 54,
+		"displayOrder": 65,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1655,7 +1655,7 @@
 		"name": "(称号）悠希担当マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 55,
+		"displayOrder": 68,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1665,7 +1665,7 @@
 		"name": "(称号）千紗担当マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 56,
+		"displayOrder": 71,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1675,7 +1675,7 @@
 		"name": "(称号）あいり担当マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 57,
+		"displayOrder": 74,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1685,7 +1685,7 @@
 		"name": "(称号）柚葉担当マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 58,
+		"displayOrder": 77,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1695,7 +1695,7 @@
 		"name": "(称号）美晴担当マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 59,
+		"displayOrder": 80,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1705,7 +1705,7 @@
 		"name": "(称号）絢担当マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 60,
+		"displayOrder": 83,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1715,7 +1715,7 @@
 		"name": "(称号）まほろ担当マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 61,
+		"displayOrder": 86,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1725,7 +1725,7 @@
 		"name": "(称号）莉子担当マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 62,
+		"displayOrder": 89,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1735,7 +1735,7 @@
 		"name": "(称号）利恵担当マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 63,
+		"displayOrder": 92,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1745,7 +1745,7 @@
 		"name": "(称号）聡里担当マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 64,
+		"displayOrder": 95,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1755,7 +1755,7 @@
 		"name": "(称号）凛音担当マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 65,
+		"displayOrder": 98,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1765,7 +1765,7 @@
 		"name": "(称号）鳴担当マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 66,
+		"displayOrder": 101,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1775,7 +1775,7 @@
 		"name": "(称号）陽菜ご指名マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 67,
+		"displayOrder": 57,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1785,7 +1785,7 @@
 		"name": "(称号）舞花ご指名マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 68,
+		"displayOrder": 60,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1795,7 +1795,7 @@
 		"name": "(称号）志穂ご指名マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 69,
+		"displayOrder": 63,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1805,7 +1805,7 @@
 		"name": "(称号）ほのかご指名マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 70,
+		"displayOrder": 66,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1815,7 +1815,7 @@
 		"name": "(称号）悠希ご指名マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 71,
+		"displayOrder": 69,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1835,7 +1835,7 @@
 		"name": "(称号）あいりご指名マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 73,
+		"displayOrder": 75,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1845,7 +1845,7 @@
 		"name": "(称号）柚葉ご指名マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 74,
+		"displayOrder": 78,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1855,7 +1855,7 @@
 		"name": "(称号）美晴ご指名マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 75,
+		"displayOrder": 81,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1865,7 +1865,7 @@
 		"name": "(称号）絢ご指名マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 76,
+		"displayOrder": 84,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1875,7 +1875,7 @@
 		"name": "(称号）まほろご指名マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 77,
+		"displayOrder": 87,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1885,7 +1885,7 @@
 		"name": "(称号）莉子ご指名マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 78,
+		"displayOrder": 90,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1895,7 +1895,7 @@
 		"name": "(称号）利恵ご指名マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 79,
+		"displayOrder": 93,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1905,7 +1905,7 @@
 		"name": "(称号）聡里ご指名マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 80,
+		"displayOrder": 96,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1915,7 +1915,7 @@
 		"name": "(称号）凛音ご指名マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 81,
+		"displayOrder": 99,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1925,7 +1925,7 @@
 		"name": "(称号）鳴ご指名マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 82,
+		"displayOrder": 102,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1935,7 +1935,7 @@
 		"name": "(称号）陽菜の信頼マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 83,
+		"displayOrder": 58,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1945,7 +1945,7 @@
 		"name": "(称号）舞花の信頼マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 84,
+		"displayOrder": 61,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1955,7 +1955,7 @@
 		"name": "(称号）志穂の信頼マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 85,
+		"displayOrder": 64,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1965,7 +1965,7 @@
 		"name": "(称号）ほのかの信頼マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 86,
+		"displayOrder": 67,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1975,7 +1975,7 @@
 		"name": "(称号）悠希の信頼マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 87,
+		"displayOrder": 70,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1985,7 +1985,7 @@
 		"name": "(称号）千紗の信頼マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 88,
+		"displayOrder": 73,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -1995,7 +1995,7 @@
 		"name": "(称号）あいりの信頼マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 89,
+		"displayOrder": 76,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -2005,7 +2005,7 @@
 		"name": "(称号）柚葉の信頼マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 90,
+		"displayOrder": 79,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -2015,7 +2015,7 @@
 		"name": "(称号）美晴の信頼マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 91,
+		"displayOrder": 82,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -2025,7 +2025,7 @@
 		"name": "(称号）絢の信頼マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 92,
+		"displayOrder": 85,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -2035,7 +2035,7 @@
 		"name": "(称号）まほろの信頼マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 93,
+		"displayOrder": 88,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -2045,7 +2045,7 @@
 		"name": "(称号）莉子の信頼マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 94,
+		"displayOrder": 91,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -2055,7 +2055,7 @@
 		"name": "(称号）利恵の信頼マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 95,
+		"displayOrder": 94,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -2065,7 +2065,7 @@
 		"name": "(称号）聡里の信頼マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 96,
+		"displayOrder": 97,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -2075,7 +2075,7 @@
 		"name": "(称号）凛音の信頼マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 97,
+		"displayOrder": 100,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -2085,7 +2085,57 @@
 		"name": "(称号）鳴の信頼マネージャー",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 98,
+		"displayOrder": 103,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 101,
+		"name": "(称号）四季は欠けずに……",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 35,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 102,
+		"name": "(称号）櫻乃 ハクア",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 52,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 103,
+		"name": "(称号）日芽川 ライム",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 53,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 104,
+		"name": "(称号）柿根 ヒスイ",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 54,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 105,
+		"name": "(称号）氷堂 ワタリ",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 55,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -2095,7 +2145,7 @@
 		"name": "(称号）Girls meet meat!",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 84,
+		"displayOrder": 104,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -2105,7 +2155,7 @@
 		"name": "(称号）BBQ奉行",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 85,
+		"displayOrder": 105,
 		"effectType": 0,
 		"effectValue": 0
 	},
@@ -2115,7 +2165,17 @@
 		"name": "(称号）いよ！真打登場！",
 		"description": "マネージャーの称号",
 		"assetBg": 1,
-		"displayOrder": 86,
+		"displayOrder": 106,
+		"effectType": 0,
+		"effectValue": 0
+	},
+	{
+		"type": 15,
+		"id": 10004,
+		"name": "(称号）四つ葉のクローバー",
+		"description": "マネージャーの称号",
+		"assetBg": 1,
+		"displayOrder": 107,
 		"effectType": 0,
 		"effectValue": 0
 	},

@@ -3971,8 +3971,8 @@
 		],
 		"sellType": 1,
 		"costumeIdList": [
-			3,
-			3
+			4,
+			4
 		]
 	},
 	{
@@ -4018,7 +4018,7 @@
 	{
 		"id": 4130007,
 		"heroineId": 13,
-		"alias": "【Reach For the World!】",
+		"alias": "【Reach For The World!】",
 		"rarity": 4,
 		"attribute": 1,
 		"initialParameter": {
@@ -4051,8 +4051,8 @@
 		],
 		"sellType": 2,
 		"costumeIdList": [
-			3,
-			3
+			4,
+			4
 		]
 	},
 	{
@@ -4062,16 +4062,16 @@
 		"rarity": 3,
 		"attribute": 4,
 		"initialParameter": {
-			"voice": 503,
-			"technic": 784,
-			"mental": 608,
-			"charisma": 811
+			"voice": 539,
+			"technic": 841,
+			"mental": 653,
+			"charisma": 870
 		},
 		"finalParameter": {
-			"voice": 1639,
-			"technic": 2552,
-			"mental": 1983,
-			"charisma": 2644
+			"voice": 1765,
+			"technic": 2747,
+			"mental": 2135,
+			"charisma": 2846
 		},
 		"lessonSkillId": 2010063,
 		"recordingSkillIdList": [
@@ -4098,7 +4098,7 @@
 	{
 		"id": 4130009,
 		"heroineId": 13,
-		"alias": "【未確定】",
+		"alias": "【カストールの安息日】",
 		"rarity": 4,
 		"attribute": 3,
 		"initialParameter": {
@@ -4131,8 +4131,8 @@
 		],
 		"sellType": 1,
 		"costumeIdList": [
-			3,
-			3
+			5,
+			5
 		]
 	},
 	{
