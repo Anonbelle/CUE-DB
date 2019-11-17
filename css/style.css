@@ -165,3 +165,7 @@ img {
 .w3-round {
   width: 550px;
 }
+
+.active > a {
+  background-color: #f3969a !important;
+}
